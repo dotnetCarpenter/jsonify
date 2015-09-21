@@ -1,0 +1,19 @@
+{
+  "name": "jsonify",
+  "version": "1.0.0",
+  "description": "convert any text file into json",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/all.js",
+    "test:dev": "babel --no-comments --watch test/test.es6.js --out-file test/test.js",
+    "dev": "babel --watch jsonify.es6.js --out-file jsonify.js"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "dotnetCarpenter <jon.ronnenberg@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.8.23"
+  }
+}
