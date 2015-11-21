@@ -1,6 +1,7 @@
 "use strict";
 
 var fs = require("fs");
+var path = require("path");
 
 var nlsvParser = new Parser("nlsv");
 var htmlParser = new Parser("html");
@@ -15,9 +16,10 @@ var str7 = '<br/><br><hr/>';
 var str8 = '<a>mere end > og mindre <</a><</span>// hello world</span></pre>';
 var str9 = '</presss></a></span>';
 var str10 = "there should be <a>\n\t\t\t\t\t\tnewline but text should\n\t\t\t\t\t\tinclude newline";
-var htmlFile = "../test/data/html.htm";
-var htmlFile2 = "../test/data/html2.htm";
-var nlsvFile = "../test/data/wordlist";
+var htmlFile = "test/data/html.htm";
+var htmlFile2 = "test/data/html2.htm";
+var nlsvFile1 = path.resolve(__dirname, "../test/data/wordlist_tail");
+var nlsvFile2 = "/test/data/wordlist";
 
 var nlsvData = "a\n\t\t\t\t\t\t\t\t\ta\n\t\t\t\t\t\t\t\t\ta's\n\t\t\t\t\t\t\t\t\ta's\n\t\t\t\t\t\t\t\t\tab's\n\t\t\t\t\t\t\t\t\tabaci\n\t\t\t\t\t\t\t\t\taback\n\t\t\t\t\t\t\t\t\tabacus\n\t\t\t\t\t\t\t\t\tabacus's\n\t\t\t\t\t\t\t\t\tabacuses\n\t\t\t\t\t\t\t\t\t";
 
@@ -33,7 +35,7 @@ promise.catch(err => {
 })
 promise.then(process.exit.bind(process, 0))*/
 
-fs.readFile(nlsvFile, { encoding: "utf8" }, function (err, data) {
+fs.readFile(nlsvFile1, { encoding: "utf8" }, function (err, data) {
 	if (err) throw err;
 	nlsvParser.parse(data);
 	//htmlParser.parse(data)
@@ -56,26 +58,26 @@ Tokenize.prototype.read = function (str) {
 
 	if (!tokenReader) throw "Unknown data type " + this.type;
 
-	tokenReader.read(str, this.tokens, options);
+	var promise = tokenReader.read(str, this.tokens, options);
 
-	console.log(this.tokens.slice(-10));
-	if (this.type === "nlsv") {
-		console.log(this.tokens.slice(-10).map(function (x) {
-			if (x instanceof tokenReader.Word) return "Word";
-			if (x instanceof tokenReader.NewLine) return "NewLine";
-			if (x instanceof tokenReader.Space) return "Space";
-			if (x instanceof tokenReader.InvalidString) return "InvalidString";
-		}));
-	}
-	if (this.type === "html") {
-		console.log(this.tokens.slice(-10).map(function (x) {
-			if (x instanceof tokenReader.Html) return "Html";
-			if (x instanceof tokenReader.Text) return "Text";
-			if (x instanceof tokenReader.InvalidHtml) return "InvalidHtml";
-			if (x instanceof tokenReader.NewLine) return "NewLine";
-			if (x instanceof tokenReader.Space) return "Space";
-		}));
-	}
+	/*console.log(this.tokens.slice(-10))
+ if(this.type === "nlsv") {
+ 	console.log(this.tokens.slice(-10).map(x => {
+ 		if(x instanceof tokenReader.Word) return "Word"
+ 		if(x instanceof tokenReader.NewLine) return "NewLine"
+ 		if(x instanceof tokenReader.Space) return "Space"
+ 		if(x instanceof tokenReader.InvalidString) return "InvalidString"
+ 	}))
+ }
+ if(this.type === "html") {
+ 	console.log(this.tokens.slice(-10).map(x => {
+ 		if(x instanceof tokenReader.Html) return "Html"
+ 		if(x instanceof tokenReader.Text) return "Text"
+ 		if(x instanceof tokenReader.InvalidHtml) return "InvalidHtml"
+ 		if(x instanceof tokenReader.NewLine) return "NewLine"
+ 		if(x instanceof tokenReader.Space) return "Space"
+ 	}))
+ }*/
 };
 Tokenize.prototype.getTokens = function () {
 	var tokens = this.tokens;
@@ -91,22 +93,26 @@ Tokenize.prototype.tokenReader = {
 			if (this.regexWord.test(str)) {
 				var word = this.regexWord.exec(str)[0],
 				    rest = str.substr(word.length);
-				//console.log(this.regexWord.exec(str))
+				console.log(this.regexWord.exec(str));
 				tokens.push(new this.Word(word));
 				return this.read(rest, tokens, options);
+				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
 			}
 			if (this.regexNewLine.test(str)) {
 				var newline = this.regexNewLine.exec(str)[0],
 				    rest = str.substr(newline.length);
-				//console.log(newline, this.regexNewLine.exec(str))
+				console.log(newline, this.regexNewLine.exec(str));
 				if (options.newline) tokens.push(new this.NewLine(newline));
 				return this.read(rest, tokens, options);
+				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
 			}
 			if (this.regexSpace.test(str)) {
 				var space = this.regexSpace.exec(str)[0],
 				    rest = str.substr(space.length);
 				if (options.space) tokens.push(new this.Space(space));
+				console.log(this.regexSpace.exec(str));
 				return this.read(rest, tokens, options);
+				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
 			} else tokens.push(new this.InvalidString(str));
 		},
 		regexWord: /^[^(\r\n|\n|\s)]+/,
@@ -204,14 +210,36 @@ function Parser() {
 	this.tokenize = new Tokenize(type);
 }
 Parser.prototype.parse = function (str) {
+	var _this = this;
+
 	var options = arguments.length <= 1 || arguments[1] === undefined ? { newline: false, space: false } : arguments[1];
 
 	this.tokenize.read(str, options);
-	return this.lexer(this.tokenize.tokens);
+
+	var c = 0;
+	setInterval(function () {
+		c = _this.lexer(_this.tokenize.tokens);
+		if (c > 1048574 /*198350*/) process.exit(0);
+	}, 500);
+	//return this.lexer(this.tokenize.tokens)
 };
 Parser.prototype.lexer = function (tokens) {
 	console.log("lexer got %d tokens", tokens.length);
+	console.log("last token is ", tokens[tokens.length - 1]);
+	return tokens.length;
 };
+
+function Stream(head, tailPromise) {
+	if (typeof head != 'undefined') {
+		this.headValue = head;
+	}
+	if (typeof tailPromise == 'undefined') {
+		tailPromise = function () {
+			return new Stream();
+		};
+	}
+	this.tailPromise = tailPromise;
+}
 
 //wait :: (a -> any) -> b -> c -> Promise
 function wait(fn, delay) {

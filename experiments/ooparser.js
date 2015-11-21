@@ -1,6 +1,7 @@
 "use strict"
 
 const fs = require("fs")
+const path = require("path")
 
 const nlsvParser = new Parser("nlsv")
 const htmlParser = new Parser("html")
@@ -17,9 +18,10 @@ const str9 = '</presss></a></span>'
 const str10 = `there should be <a>
 						newline but text should
 						include newline`
-const htmlFile = "../test/data/html.htm"
-const htmlFile2 = "../test/data/html2.htm"
-const nlsvFile = "../test/data/wordlist"
+const htmlFile = "test/data/html.htm"
+const htmlFile2 = "test/data/html2.htm"
+const nlsvFile1 = path.resolve(__dirname, "../test/data/wordlist_tail")
+const nlsvFile2 = "/test/data/wordlist"
 
 const nlsvData = `a
 									a
@@ -45,7 +47,7 @@ promise.catch(err => {
 })
 promise.then(process.exit.bind(process, 0))*/
 
-fs.readFile(nlsvFile, { encoding: "utf8" }, (err, data) => {
+fs.readFile(nlsvFile1, { encoding: "utf8" }, (err, data) => {
   if(err)
     throw err
 	nlsvParser.parse(data)
@@ -68,10 +70,10 @@ Tokenize.prototype.read = function(str, options = { newline: false, space: false
 	if(!tokenReader)
 		throw "Unknown data type " + this.type
 
-	tokenReader.read(str, this.tokens, options)
+	let promise = tokenReader.read(str, this.tokens, options)
 	
 
-	console.log(this.tokens.slice(-10))
+	/*console.log(this.tokens.slice(-10))
 	if(this.type === "nlsv") {
 		console.log(this.tokens.slice(-10).map(x => {
 			if(x instanceof tokenReader.Word) return "Word"
@@ -88,7 +90,7 @@ Tokenize.prototype.read = function(str, options = { newline: false, space: false
 			if(x instanceof tokenReader.NewLine) return "NewLine"
 			if(x instanceof tokenReader.Space) return "Space"
 		}))
-	}
+	}*/
 }
 Tokenize.prototype.getTokens = function() {
 	let tokens = this.tokens
@@ -102,24 +104,28 @@ Tokenize.prototype.tokenReader = {
 			if(this.regexWord.test(str)) {
 				let word = this.regexWord.exec(str)[0],
 						rest = str.substr(word.length)
-				//console.log(this.regexWord.exec(str))
+				console.log(this.regexWord.exec(str))
 				tokens.push(new this.Word(word))
 				return this.read(rest, tokens, options)
+				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
 			}
 			if(this.regexNewLine.test(str)) {
 				let newline = this.regexNewLine.exec(str)[0],
 						rest = str.substr(newline.length)
-				//console.log(newline, this.regexNewLine.exec(str))
+				console.log(newline, this.regexNewLine.exec(str))
 				if(options.newline)
 					tokens.push(new this.NewLine(newline))
 				return this.read(rest, tokens, options)
+				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
 			}
 			if(this.regexSpace.test(str)) {
 				let space = this.regexSpace.exec(str)[0],
 						rest = str.substr(space.length)
 				if(options.space)		
 						tokens.push(new this.Space(space))
+				console.log(this.regexSpace.exec(str))
 				return this.read(rest, tokens, options)
+				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
 			} else tokens.push(new this.InvalidString(str))
 		},
 		regexWord: /^[^(\r\n|\n|\s)]+/,
@@ -216,12 +222,33 @@ function Parser(type="html") {
 }
 Parser.prototype.parse = function(str, options = { newline: false, space: false }) {
 	this.tokenize.read(str, options)
-	return this.lexer(this.tokenize.tokens)
+	
+	let c = 0
+	setInterval(() => {
+		c = this.lexer(this.tokenize.tokens)
+		if(c >  1048574/*198350*/)
+			process.exit(0)
+	}, 500)
+	//return this.lexer(this.tokenize.tokens)
 }
 Parser.prototype.lexer = function(tokens) {
 	console.log("lexer got %d tokens", tokens.length)
+	console.log("last token is ", tokens[tokens.length-1])
+	return tokens.length
 }
 
+
+function Stream( head, tailPromise ) {
+    if ( typeof head != 'undefined' ) {
+        this.headValue = head;
+    }
+    if ( typeof tailPromise == 'undefined' ) {
+        tailPromise = function () {
+            return new Stream();
+        };
+    }
+    this.tailPromise = tailPromise;
+}
 
 //wait :: (a -> any) -> b -> c -> Promise
 function wait(fn, delay, ...args) {

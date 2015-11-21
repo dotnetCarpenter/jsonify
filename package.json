@@ -19,6 +19,6 @@
   "license": "ISC",
   "devDependencies": {
     "babel": "^5.8.23",
-    "tap": "^2.2.0"
+    "tap": "^2.3.0"
   }
 }
