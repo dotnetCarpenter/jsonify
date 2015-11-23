@@ -2,6 +2,7 @@
 
 const fs = require("fs")
 const path = require("path")
+const Stream = require("Streams")
 
 const nlsvParser = new Parser("nlsv")
 const htmlParser = new Parser("html")
@@ -68,9 +69,9 @@ Tokenize.prototype.read = function(str, options = { newline: false, space: false
 	const tokenReader = this.tokenReader[this.type]
 
 	if(!tokenReader)
-		throw "Unknown data type " + this.type
+		throw new Error("Unknown data type " + this.type)
 
-	let promise = tokenReader.read(str, this.tokens, options)
+	return tokenReader.read(str, this.tokens, options)
 	
 
 	/*console.log(this.tokens.slice(-10))
@@ -100,13 +101,14 @@ Tokenize.prototype.getTokens = function() {
 Tokenize.prototype.tokenReader = {
 	nlsv: {
 		read(str, tokens, options = { newline:false, space:false }) {
-			if(str.length === 0) return
+			if(str.length === 0) return new Stream
 			if(this.regexWord.test(str)) {
 				let word = this.regexWord.exec(str)[0],
 						rest = str.substr(word.length)
-				console.log(this.regexWord.exec(str))
-				tokens.push(new this.Word(word))
-				return this.read(rest, tokens, options)
+				return new Stream([new this.Word(word)], () => this.read(rest, tokens, options))
+				//console.log(this.regexWord.exec(str))
+				//tokens.push(new this.Word(word))
+				//return this.read(rest, tokens, options)
 				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
 			}
 			if(this.regexNewLine.test(str)) {
@@ -114,22 +116,26 @@ Tokenize.prototype.tokenReader = {
 						rest = str.substr(newline.length)
 				console.log(newline, this.regexNewLine.exec(str))
 				if(options.newline)
-					tokens.push(new this.NewLine(newline))
-				return this.read(rest, tokens, options)
+					return new Stream([new this.NewLine(newline)], () => this.read(rest, tokens, options))
+					//tokens.push(new this.NewLine(newline))
+				return new Stream([null], () => this.read(rest, tokens, options))
+				//return this.read(rest, tokens, options)
 				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
 			}
 			if(this.regexSpace.test(str)) {
 				let space = this.regexSpace.exec(str)[0],
 						rest = str.substr(space.length)
-				if(options.space)		
-						tokens.push(new this.Space(space))
-				console.log(this.regexSpace.exec(str))
-				return this.read(rest, tokens, options)
+				if(options.space)
+					return new Stream([new this.Space(space)], () => this.read(rest, tokens, options))
+					//tokens.push(new this.Space(space))
+				return new Stream([null], () => this.read(rest, tokens, options))
+				//console.log(this.regexSpace.exec(str))
+				//return this.read(rest, tokens, options)
 				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
-			} else tokens.push(new this.InvalidString(str))
+			} else return new Stream([new this.InvalidString(str)], new Stream) //tokens.push(new this.InvalidString(str))
 		},
 		regexWord: /^[^(\r\n|\n|\s)]+/,
-		regexSpace: /^\s+/, //TODO: why does this match newline?
+		regexSpace: /^\s+/, //TODO: why does this match newline? what is the example?
 		regexNewLine: /^\r\n|^\n/,
 		Word: function(str) {
 			this.value = str
@@ -221,13 +227,14 @@ function Parser(type="html") {
 	this.tokenize = new Tokenize(type)
 }
 Parser.prototype.parse = function(str, options = { newline: false, space: false }) {
-	this.tokenize.read(str, options)
-	
+	let stream = this.tokenize.read(str, options)
+	console.log(stream)
 	let c = 0
 	setInterval(() => {
-		c = this.lexer(this.tokenize.tokens)
-		if(c >  1048574/*198350*/)
-			process.exit(0)
+		//c = this.lexer(this.tokenize.tokens)
+		this.lexer(stream.item(0))
+		//if(c >  1048574/*198350*/)
+		//	process.exit(0)
 	}, 500)
 	//return this.lexer(this.tokenize.tokens)
 }
@@ -237,18 +244,6 @@ Parser.prototype.lexer = function(tokens) {
 	return tokens.length
 }
 
-
-function Stream( head, tailPromise ) {
-    if ( typeof head != 'undefined' ) {
-        this.headValue = head;
-    }
-    if ( typeof tailPromise == 'undefined' ) {
-        tailPromise = function () {
-            return new Stream();
-        };
-    }
-    this.tailPromise = tailPromise;
-}
 
 //wait :: (a -> any) -> b -> c -> Promise
 function wait(fn, delay, ...args) {

@@ -105,6 +105,8 @@ var t = new Stream(10, function () {
 // has a head which is 30 and a tail which is the empty stream.  
 //t.print(); // prints 10, 20, 30
 //console.log( t )
+
+
 let testStream = test("abc") 
 console.log(testStream)
 console.log(testStream.item(2))
@@ -112,6 +114,6 @@ console.log(testStream.item(2))
 function test(list) {
   if (list.length === 0) return new Stream
   let fst = list[0],
-    rest = list.substr(fst.length)
+      rest = list.substr(fst.length)
   return new Stream(fst, () => test(rest))
 }

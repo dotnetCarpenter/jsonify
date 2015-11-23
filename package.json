@@ -20,5 +20,8 @@
   "devDependencies": {
     "babel": "^5.8.23",
     "tap": "^2.3.0"
+  },
+  "dependencies": {
+    "Streams": "git+https://github.com/dotnetCarpenter/stream.js.git"
   }
 }
