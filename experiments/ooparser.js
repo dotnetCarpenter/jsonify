@@ -2,7 +2,7 @@
 
 const fs = require("fs")
 const path = require("path")
-const Stream = require("Streams")
+const Stream = require("stream.js")
 
 const nlsvParser = new Parser("nlsv")
 const htmlParser = new Parser("html")
@@ -22,7 +22,7 @@ const str10 = `there should be <a>
 const htmlFile = "test/data/html.htm"
 const htmlFile2 = "test/data/html2.htm"
 const nlsvFile1 = path.resolve(__dirname, "../test/data/wordlist_tail")
-const nlsvFile2 = "/test/data/wordlist"
+const nlsvFile2 = path.resolve(__dirname, "../test/data/wordlist")
 
 const nlsvData = `a
 									a
@@ -48,7 +48,7 @@ promise.catch(err => {
 })
 promise.then(process.exit.bind(process, 0))*/
 
-fs.readFile(nlsvFile1, { encoding: "utf8" }, (err, data) => {
+fs.readFile(nlsvFile2, { encoding: "utf8" }, (err, data) => {
   if(err)
     throw err
 	nlsvParser.parse(data)
@@ -105,7 +105,7 @@ Tokenize.prototype.tokenReader = {
 			if(this.regexWord.test(str)) {
 				let word = this.regexWord.exec(str)[0],
 						rest = str.substr(word.length)
-				return new Stream([new this.Word(word)], () => this.read(rest, tokens, options))
+				return new Stream(new this.Word(word), () => this.read(rest, tokens, options))
 				//console.log(this.regexWord.exec(str))
 				//tokens.push(new this.Word(word))
 				//return this.read(rest, tokens, options)
@@ -114,11 +114,11 @@ Tokenize.prototype.tokenReader = {
 			if(this.regexNewLine.test(str)) {
 				let newline = this.regexNewLine.exec(str)[0],
 						rest = str.substr(newline.length)
-				console.log(newline, this.regexNewLine.exec(str))
+				//console.log(newline, this.regexNewLine.exec(str))
 				if(options.newline)
-					return new Stream([new this.NewLine(newline)], () => this.read(rest, tokens, options))
+					return new Stream(new this.NewLine(newline), () => this.read(rest, tokens, options))
 					//tokens.push(new this.NewLine(newline))
-				return new Stream([null], () => this.read(rest, tokens, options))
+				return this.read(rest, tokens, options)
 				//return this.read(rest, tokens, options)
 				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
 			}
@@ -126,13 +126,13 @@ Tokenize.prototype.tokenReader = {
 				let space = this.regexSpace.exec(str)[0],
 						rest = str.substr(space.length)
 				if(options.space)
-					return new Stream([new this.Space(space)], () => this.read(rest, tokens, options))
+					return new Stream(new this.Space(space), () => this.read(rest, tokens, options))
 					//tokens.push(new this.Space(space))
-				return new Stream([null], () => this.read(rest, tokens, options))
+				return this.read(rest, tokens, options)
 				//console.log(this.regexSpace.exec(str))
 				//return this.read(rest, tokens, options)
 				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
-			} else return new Stream([new this.InvalidString(str)], new Stream) //tokens.push(new this.InvalidString(str))
+			} else return new Stream(new this.InvalidString(str)) //tokens.push(new this.InvalidString(str))
 		},
 		regexWord: /^[^(\r\n|\n|\s)]+/,
 		regexSpace: /^\s+/, //TODO: why does this match newline? what is the example?
@@ -228,20 +228,25 @@ function Parser(type="html") {
 }
 Parser.prototype.parse = function(str, options = { newline: false, space: false }) {
 	let stream = this.tokenize.read(str, options)
-	console.log(stream)
-	let c = 0
-	setInterval(() => {
-		//c = this.lexer(this.tokenize.tokens)
-		this.lexer(stream.item(0))
-		//if(c >  1048574/*198350*/)
-		//	process.exit(0)
-	}, 500)
+	//console.log(stream)
+
+	let scheduleId = setInterval(() => {
+		let t = stream.take(64)
+		stream = stream.drop(64)
+		this.lexer(t)
+
+		if(stream.empty())
+			clearInterval(scheduleId)
+	}, 60)
 	//return this.lexer(this.tokenize.tokens)
 }
 Parser.prototype.lexer = function(tokens) {
-	console.log("lexer got %d tokens", tokens.length)
-	console.log("last token is ", tokens[tokens.length-1])
-	return tokens.length
+	//tokens.print()
+	let c = tokens.length();
+	console.log("lexer got %d tokens", c)
+	console.log("fist token is ", tokens.head())
+	console.log("last token is ", tokens.drop(c-1).head())
+	return c;
 }
 
 

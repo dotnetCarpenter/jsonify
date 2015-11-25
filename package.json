@@ -22,6 +22,6 @@
     "tap": "^2.3.0"
   },
   "dependencies": {
-    "Streams": "git+https://github.com/dotnetCarpenter/stream.js.git"
+    "stream.js": "git+https://github.com/dionyziz/stream.js.git"
   }
 }
