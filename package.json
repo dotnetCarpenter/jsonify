@@ -1,6 +1,6 @@
 {
   "name": "jsonify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert any text file into json",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": "dotnetCarpenter <jon.ronnenberg@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "babel": "^5.8.23",
+    "babel": "^6.2.4",
     "tap": "^2.3.0"
   },
   "dependencies": {
