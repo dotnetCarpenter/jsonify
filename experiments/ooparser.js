@@ -240,14 +240,14 @@ Parser.prototype.parse = function(str, options = { newline: false, space: false 
 	let scheduleId = setInterval(() => {
 		let t = stream.take(64)
 		stream = stream.drop(64)
-		this.lexer(t)
+		this.jsonify(t)
 
 		if(stream.empty())
 			wait(clearInterval, this.waitForData, scheduleId)
 	}, 0)
-	//return this.lexer(this.tokenize.tokens)
+	//return this.jsonify(this.tokenize.tokens)
 }
-Parser.prototype.lexer = function(tokens) {
+Parser.prototype.jsonify = function(tokens) {
 	//tokens.print()
 	let c = tokens.length();
 	console.log("lexer got %d tokens", c)
