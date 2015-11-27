@@ -58,12 +58,12 @@ promise.then(process.exit.bind(process, 0))*/
 let testStream = fs.createReadStream(nlsvFile2, { encoding: "utf8" })
 let data = ""
 testStream.on("data", chunk => {
-//	nlsvParser.parse(chunk)
-	data += chunk
+	nlsvParser.parse(chunk)
+	//data += chunk
 })
 testStream.on("end", () => {
 	console.log("All data is sent to the parser")
-	console.log(data)
+	//console.log(data)
 })
 
 function Tokenize(type) {
@@ -229,31 +229,54 @@ Tokenize.prototype.tokenReader = {
 	}
 }
 
-function Parser(type="html") {
+function Parser(type="html", stop) {
 	this.tokenize = new Tokenize(type)
-	this.waitForData = 100
+	this.waitForData = 1000
+	this.queue = new Stream
 }
 Parser.prototype.parse = function(str, options = { newline: false, space: false }) {
-	let stream = this.tokenize.lexer(str, options)
+	this.queue = this.queue.append(this.tokenize.lexer(str, options))
 	//console.log(stream)
-
 	let scheduleId = setInterval(() => {
-		let t = stream.take(64)
-		stream = stream.drop(64)
+		let t = this.queue.take(64)
+		this.queue = this.queue.drop(64)
 		this.jsonify(t)
 
-		if(stream.empty())
-			wait(clearInterval, this.waitForData, scheduleId)
+		if(this.queue.empty()) {
+			clearInterval(scheduleId)
+			//wait(clearInterval, this.waitForData, scheduleId)
+		}
 	}, 0)
 	//return this.jsonify(this.tokenize.tokens)
 }
-Parser.prototype.jsonify = function(tokens) {
-	//tokens.print()
-	let c = tokens.length();
+Parser.prototype.jsonify = function(ast) {
+	//ast.print()
+	let c = ast.length();
+	if(ast.empty())
+		return c
 	console.log("lexer got %d tokens", c)
-	console.log("fist token is ", tokens.head())
-	console.log("last token is ", tokens.drop(c-1).head())
+	console.log("first token is ", ast.head())
+	console.log("last token is ", ast.drop(c-1).head())
 	return c;
+}
+Parser.prototype.nonTerminal = {
+	Start() {
+		this.toString = () => "START" 
+	},
+	End() {
+		this.toString = () => "END"
+	}
+}
+Parser.prototype.terminal = {
+	StringStart() {
+		this.value = '"'
+	},
+	StringEnd() {
+		this.value = '"'
+	},
+	Seperator() {
+		this.value = ","
+	}
 }
 
 
