@@ -48,20 +48,31 @@ promise.catch(err => {
 })
 promise.then(process.exit.bind(process, 0))*/
 
-fs.readFile(nlsvFile2, { encoding: "utf8" }, (err, data) => {
+/*fs.readFile(nlsvFile2, { encoding: "utf8" }, (err, data) => {
   if(err)
     throw err
 	nlsvParser.parse(data)
 	//htmlParser.parse(data)
+})*/
+
+let testStream = fs.createReadStream(nlsvFile2, { encoding: "utf8" })
+let data = ""
+testStream.on("data", chunk => {
+//	nlsvParser.parse(chunk)
+	data += chunk
+})
+testStream.on("end", () => {
+	console.log("All data is sent to the parser")
+	console.log(data)
 })
 
 function Tokenize(type) {
 	this.tokens = []
 	this.type = type
 }
-Tokenize.prototype.read = function(str, options = { newline: false, space: false }) {	
+Tokenize.prototype.lexer = function(str, options = { newline: false, space: false }) {	
 	/*try {
-		this.tokenReader[this.type].read(str1, this.tokens)
+		this.tokenReader[this.type].lexer(str1, this.tokens)
 	} catch (er) {
 		console.log(er)
 	}*/
@@ -71,7 +82,7 @@ Tokenize.prototype.read = function(str, options = { newline: false, space: false
 	if(!tokenReader)
 		throw new Error("Unknown data type " + this.type)
 
-	return tokenReader.read(str, this.tokens, options)
+	return tokenReader.lexer(str, this.tokens, options)
 	
 
 	/*console.log(this.tokens.slice(-10))
@@ -93,45 +104,40 @@ Tokenize.prototype.read = function(str, options = { newline: false, space: false
 		}))
 	}*/
 }
-Tokenize.prototype.getTokens = function() {
-	let tokens = this.tokens
-	this.tokens = []
-	return tokens
-}
 Tokenize.prototype.tokenReader = {
 	nlsv: {
-		read(str, tokens, options = { newline:false, space:false }) {
+		lexer(str, tokens, options = { newline:false, space:false }) {
 			if(str.length === 0) return new Stream
 			if(this.regexWord.test(str)) {
 				let word = this.regexWord.exec(str)[0],
 						rest = str.substr(word.length)
-				return new Stream(new this.Word(word), () => this.read(rest, tokens, options))
+				return new Stream(new this.Word(word), () => this.lexer(rest, tokens, options))
 				//console.log(this.regexWord.exec(str))
 				//tokens.push(new this.Word(word))
-				//return this.read(rest, tokens, options)
-				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
+				//return this.lexer(rest, tokens, options)
+				//setTimeout(this.lexer.bind(this, rest, tokens, options), 0)
 			}
 			if(this.regexNewLine.test(str)) {
 				let newline = this.regexNewLine.exec(str)[0],
 						rest = str.substr(newline.length)
 				//console.log(newline, this.regexNewLine.exec(str))
 				if(options.newline)
-					return new Stream(new this.NewLine(newline), () => this.read(rest, tokens, options))
+					return new Stream(new this.NewLine(newline), () => this.lexer(rest, tokens, options))
 					//tokens.push(new this.NewLine(newline))
-				return this.read(rest, tokens, options)
-				//return this.read(rest, tokens, options)
-				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
+				return this.lexer(rest, tokens, options)
+				//return this.lexer(rest, tokens, options)
+				//setTimeout(this.lexer.bind(this, rest, tokens, options), 0)
 			}
 			if(this.regexSpace.test(str)) {
 				let space = this.regexSpace.exec(str)[0],
 						rest = str.substr(space.length)
 				if(options.space)
-					return new Stream(new this.Space(space), () => this.read(rest, tokens, options))
+					return new Stream(new this.Space(space), () => this.lexer(rest, tokens, options))
 					//tokens.push(new this.Space(space))
-				return this.read(rest, tokens, options)
+				return this.lexer(rest, tokens, options)
 				//console.log(this.regexSpace.exec(str))
-				//return this.read(rest, tokens, options)
-				//setTimeout(this.read.bind(this, rest, tokens, options), 0)
+				//return this.lexer(rest, tokens, options)
+				//setTimeout(this.lexer.bind(this, rest, tokens, options), 0)
 			} else return new Stream(new this.InvalidString(str)) //tokens.push(new this.InvalidString(str))
 		},
 		regexWord: /^[^(\r\n|\n|\s)]+/,
@@ -153,14 +159,14 @@ Tokenize.prototype.tokenReader = {
 	csv: {},
 	tsv: {},
 	html: {
-		read(str, tokens, options = { newline:false, space:false }) {
+		lexer(str, tokens, options = { newline:false, space:false }) {
 			if(str.length === 0) return
 			if(this.regexHtmlTag.test(str)) {
 				let html = this.regexHtmlTag.exec(str)[0],
 					rest = str.substr(html.length)
 				//console.log("html match")
 				tokens.push(new this.Html(html))
-				return this.read(rest, tokens, options)
+				return this.lexer(rest, tokens, options)
 			}
 			if(this.regexNewLine.test(str)) {
 				let newline = this.regexNewLine.exec(str)[0],
@@ -168,7 +174,7 @@ Tokenize.prototype.tokenReader = {
 				//console.log("newline match", "options.newline is ", options.newline)
 				if(options.newline)
 					tokens.push(new this.NewLine(newline))
-				return this.read(rest, tokens, options)
+				return this.lexer(rest, tokens, options)
 			}
 			if(this.regexSpace.test(str)) {
 				let space = this.regexSpace.exec(str)[0],
@@ -176,14 +182,14 @@ Tokenize.prototype.tokenReader = {
 				//console.log("space match")//, space, space.length, rest)
 				if(options.space)
 					tokens.push(new this.Space(space))
-				return this.read(rest, tokens, options)
+				return this.lexer(rest, tokens, options)
 			}
 			if(this.regexText.test(str)) {
 				let text = this.regexText.exec(str)[0],
 					rest = str.substr(text.length)
 				//console.log("text match")//, text, text.length, rest)
 				tokens.push(new this.Text(text))
-				return this.read(rest, tokens, options)
+				return this.lexer(rest, tokens, options)
 			} else  {
 				//console.log("nothing matched")
 				tokens.push(new this.InvalidHtml(str))
@@ -225,9 +231,10 @@ Tokenize.prototype.tokenReader = {
 
 function Parser(type="html") {
 	this.tokenize = new Tokenize(type)
+	this.waitForData = 100
 }
 Parser.prototype.parse = function(str, options = { newline: false, space: false }) {
-	let stream = this.tokenize.read(str, options)
+	let stream = this.tokenize.lexer(str, options)
 	//console.log(stream)
 
 	let scheduleId = setInterval(() => {
@@ -236,8 +243,8 @@ Parser.prototype.parse = function(str, options = { newline: false, space: false 
 		this.lexer(t)
 
 		if(stream.empty())
-			clearInterval(scheduleId)
-	}, 60)
+			wait(clearInterval, this.waitForData, scheduleId)
+	}, 0)
 	//return this.lexer(this.tokenize.tokens)
 }
 Parser.prototype.lexer = function(tokens) {

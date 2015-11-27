@@ -1,6 +1,6 @@
 {
   "name": "jsonify",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "convert any text file into json",
   "main": "index.js",
   "scripts": {
