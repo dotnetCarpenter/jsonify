@@ -229,54 +229,112 @@ Tokenize.prototype.tokenReader = {
 	}
 }
 
-function Parser(type="html", stop) {
+function Parser(type="html") {
 	this.tokenize = new Tokenize(type)
 	this.waitForData = 1000
-	this.queue = new Stream
+	this.queue = new Stream //FIFO
+	this.ast = []
 }
 Parser.prototype.parse = function(str, options = { newline: false, space: false }) {
 	this.queue = this.queue.append(this.tokenize.lexer(str, options))
+	
+	if(this.queue.empty()) // unfortunately the first item is an empty stream on first run
+		this.queue = this.queue.drop(1)
+
 	//console.log(stream)
 	let scheduleId = setInterval(() => {
 		let t = this.queue.take(64)
 		this.queue = this.queue.drop(64)
-		this.jsonify(t)
+		//this.jsonify(t)
+		this.ast = parseNlsvtokenStream(this, t, this.ast)
 
 		if(this.queue.empty()) {
 			clearInterval(scheduleId)
 			//wait(clearInterval, this.waitForData, scheduleId)
+			this.ast = this.ast.filter( //TODO: run this code when we are sure that no more data is incoming
+				(t, n) => {
+					if( t instanceof this.nonTerminal.ListStart )
+						return n === 0
+					return true
+				} 
+			).filter(
+				(t, n, all) => {
+					if( t instanceof this.nonTerminal.ListEnd )
+						return n === all.length - 1
+					return true
+				}
+			).map(
+				(t, n, all) => {
+					if( t instanceof this.nonTerminal.Value )
+						return peak(all, n) instanceof this.nonTerminal.ListEnd
+							? new this.nonTerminal.ValueEnd(t.value) : t
+					return t
+				}
+			)
+			let json = this.ast.map(t => t.value).join("")
+			console.log( json )
+			JSON.parse(json)
 		}
 	}, 0)
 	//return this.jsonify(this.tokenize.tokens)
 }
-Parser.prototype.jsonify = function(ast) {
-	//ast.print()
-	let c = ast.length();
-	if(ast.empty())
+function peak(list, n) {
+	let x
+	try {
+		x = list[n+1]
+	} catch(err) {
+		x = null
+	}
+	return x
+}
+function parseNlsvtokenStream(parser, tokenStream, ast) {
+	//tokenStream.print()
+	let token
+	while(!tokenStream.empty()) {
+		token = tokenStream.item(0)
+		token = new parser.nonTerminal.Value(token.value) // replacement
+		ast.push(token)
+		tokenStream = tokenStream.drop(1)
+	}
+	ast.unshift(new parser.nonTerminal.ListStart)
+	ast.push(new parser.nonTerminal.ListEnd)
+	return ast
+}
+function drain(stream, howmany = 1) {
+	let x = stream.take(howmany)
+	return {
+		x,
+		stream: stream.drop(howmany)
+	}
+}
+
+Parser.prototype.jsonify = function(tokenStream) {
+	
+	//tokenStream.print()
+	let c = tokenStream.length();
+	if(tokenStream.empty())
 		return c
 	console.log("lexer got %d tokens", c)
-	console.log("first token is ", ast.head())
-	console.log("last token is ", ast.drop(c-1).head())
+	console.log("first token is ", tokenStream.head())
+	console.log("last token is ", tokenStream.drop(c-1).head())
 	return c;
 }
 Parser.prototype.nonTerminal = {
-	Start() {
-		this.toString = () => "START" 
+	Value: function Value(value) {
+		this.value = '"' + value + '",'
 	},
-	End() {
-		this.toString = () => "END"
+	ValueEnd: function ValueEnd(value) {
+		this.value = value.replace(/,$/, '')
+	},
+	ListStart: function ListStart() {
+		this.value = "["
+	},
+	ListEnd: function ListEnd() {
+		this.value = "]"
 	}
 }
 Parser.prototype.terminal = {
-	StringStart() {
-		this.value = '"'
-	},
-	StringEnd() {
-		this.value = '"'
-	},
-	Seperator() {
-		this.value = ","
-	}
+	
 }
 
 

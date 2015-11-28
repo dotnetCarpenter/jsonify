@@ -1,0 +1,4651 @@
+lexer got 64 tokens
+first token is  { value: 'a' }
+last token is  { value: 'abdul\'s' }
+All data is sent to the parser
+lexer got 64 tokens
+first token is  { value: 'abe' }
+last token is  { value: 'ablative\'s' }
+lexer got 64 tokens
+first token is  { value: 'ablatives' }
+last token is  { value: 'abot' }
+lexer got 64 tokens
+first token is  { value: 'abot' }
+last token is  { value: 'abruptnes\'s' }
+lexer got 64 tokens
+first token is  { value: 'absalom' }
+last token is  { value: 'abstention' }
+lexer got 64 tokens
+first token is  { value: 'abstention\'s' }
+last token is  { value: 'abysinian\'s' }
+lexer got 64 tokens
+first token is  { value: 'abysmal' }
+last token is  { value: 'aceptability' }
+lexer got 64 tokens
+first token is  { value: 'aceptability\'s' }
+last token is  { value: 'achiever\'s' }
+lexer got 64 tokens
+first token is  { value: 'achievers' }
+last token is  { value: 'acne\'s' }
+lexer got 64 tokens
+first token is  { value: 'acolade' }
+last token is  { value: 'acountable' }
+lexer got 64 tokens
+first token is  { value: 'acountancy' }
+last token is  { value: 'acredits' }
+lexer got 64 tokens
+first token is  { value: 'acres' }
+last token is  { value: 'activists' }
+lexer got 64 tokens
+first token is  { value: 'activities' }
+last token is  { value: 'acurst' }
+lexer got 64 tokens
+first token is  { value: 'acusation' }
+last token is  { value: 'adaptors' }
+lexer got 64 tokens
+first token is  { value: 'adapts' }
+last token is  { value: 'adiction\'s' }
+lexer got 64 tokens
+first token is  { value: 'adictions' }
+last token is  { value: 'adjurations' }
+lexer got 64 tokens
+first token is  { value: 'adjure' }
+last token is  { value: 'admiringly' }
+lexer got 64 tokens
+first token is  { value: 'admisibility' }
+last token is  { value: 'adoringly' }
+lexer got 64 tokens
+first token is  { value: 'adorn' }
+last token is  { value: 'adulterous' }
+lexer got 64 tokens
+first token is  { value: 'adultery' }
+last token is  { value: 'adversities' }
+lexer got 64 tokens
+first token is  { value: 'adversity' }
+last token is  { value: 'aeolus' }
+lexer got 64 tokens
+first token is  { value: 'aeolus\'s' }
+last token is  { value: 'afar' }
+lexer got 64 tokens
+first token is  { value: 'afect' }
+last token is  { value: 'aflicts' }
+lexer got 64 tokens
+first token is  { value: 'afloat' }
+last token is  { value: 'afterlife\'s' }
+lexer got 64 tokens
+first token is  { value: 'afterlives' }
+last token is  { value: 'ages' }
+lexer got 64 tokens
+first token is  { value: 'aghast' }
+last token is  { value: 'agrandized' }
+lexer got 64 tokens
+first token is  { value: 'agrandizement' }
+last token is  { value: 'aground' }
+lexer got 64 tokens
+first token is  { value: 'ague' }
+last token is  { value: 'ainu' }
+lexer got 64 tokens
+first token is  { value: 'air' }
+last token is  { value: 'airport\'s' }
+lexer got 64 tokens
+first token is  { value: 'airports' }
+last token is  { value: 'alahabad' }
+lexer got 64 tokens
+first token is  { value: 'alamo' }
+last token is  { value: 'albireo\'s' }
+lexer got 64 tokens
+first token is  { value: 'albs' }
+last token is  { value: 'alegations' }
+lexer got 64 tokens
+first token is  { value: 'alege' }
+last token is  { value: 'aleviated' }
+lexer got 64 tokens
+first token is  { value: 'aleviates' }
+last token is  { value: 'algorithms' }
+lexer got 64 tokens
+first token is  { value: 'alhambra' }
+last token is  { value: 'alinements' }
+lexer got 64 tokens
+first token is  { value: 'alines' }
+last token is  { value: 'alocated' }
+lexer got 64 tokens
+first token is  { value: 'alocates' }
+last token is  { value: 'alpheca' }
+lexer got 64 tokens
+first token is  { value: 'alpheca\'s' }
+last token is  { value: 'alternators' }
+lexer got 64 tokens
+first token is  { value: 'alters' }
+last token is  { value: 'alva' }
+lexer got 64 tokens
+first token is  { value: 'alvarado' }
+last token is  { value: 'amaterasu\'s' }
+lexer got 64 tokens
+first token is  { value: 'amateur' }
+last token is  { value: 'ambles' }
+lexer got 64 tokens
+first token is  { value: 'ambling' }
+last token is  { value: 'amerind' }
+lexer got 64 tokens
+first token is  { value: 'amerind\'s' }
+last token is  { value: 'amoebas' }
+lexer got 64 tokens
+first token is  { value: 'amoebic' }
+last token is  { value: 'amplest' }
+lexer got 64 tokens
+first token is  { value: 'amplification' }
+last token is  { value: 'ana' }
+lexer got 64 tokens
+first token is  { value: 'ana\'s' }
+last token is  { value: 'analyst' }
+lexer got 64 tokens
+first token is  { value: 'analyst\'s' }
+last token is  { value: 'ancestry' }
+lexer got 64 tokens
+first token is  { value: 'ancestry\'s' }
+last token is  { value: 'andrew' }
+lexer got 64 tokens
+first token is  { value: 'andrew\'s' }
+last token is  { value: 'anex' }
+lexer got 64 tokens
+first token is  { value: 'anex\'s' }
+last token is  { value: 'anglicanism' }
+lexer got 64 tokens
+first token is  { value: 'anglicanism\'s' }
+last token is  { value: 'animates' }
+lexer got 64 tokens
+first token is  { value: 'animating' }
+last token is  { value: 'anonymous' }
+lexer got 64 tokens
+first token is  { value: 'anonymously' }
+last token is  { value: 'antagonize' }
+lexer got 64 tokens
+first token is  { value: 'antagonized' }
+last token is  { value: 'anthony' }
+lexer got 64 tokens
+first token is  { value: 'anthracite' }
+last token is  { value: 'antigone' }
+lexer got 64 tokens
+first token is  { value: 'antigone\'s' }
+last token is  { value: 'antislavery' }
+lexer got 64 tokens
+first token is  { value: 'antisocial' }
+last token is  { value: 'anvil' }
+lexer got 64 tokens
+first token is  { value: 'anvil\'s' }
+last token is  { value: 'apart' }
+lexer got 64 tokens
+first token is  { value: 'apartheid' }
+last token is  { value: 'apertaining' }
+lexer got 64 tokens
+first token is  { value: 'apertains' }
+last token is  { value: 'apliance\'s' }
+lexer got 64 tokens
+first token is  { value: 'apliances' }
+last token is  { value: 'apolonian' }
+lexer got 64 tokens
+first token is  { value: 'apolos' }
+last token is  { value: 'aprehend' }
+lexer got 64 tokens
+first token is  { value: 'aprehended' }
+last token is  { value: 'aproximating' }
+lexer got 64 tokens
+first token is  { value: 'aproximation' }
+last token is  { value: 'aquino' }
+lexer got 64 tokens
+first token is  { value: 'aquino\'s' }
+last token is  { value: 'arawakan\'s' }
+lexer got 64 tokens
+first token is  { value: 'aray' }
+last token is  { value: 'archangels' }
+lexer got 64 tokens
+first token is  { value: 'archbishop' }
+last token is  { value: 'archly' }
+lexer got 64 tokens
+first token is  { value: 'archnes' }
+last token is  { value: 'argosy' }
+lexer got 64 tokens
+first token is  { value: 'argosy\'s' }
+last token is  { value: 'arius' }
+lexer got 64 tokens
+first token is  { value: 'arius\'s' }
+last token is  { value: 'armchairs' }
+lexer got 64 tokens
+first token is  { value: 'armed' }
+last token is  { value: 'arogates' }
+lexer got 64 tokens
+first token is  { value: 'arogating' }
+last token is  { value: 'artful' }
+lexer got 64 tokens
+first token is  { value: 'artfulnes' }
+last token is  { value: 'artlesly' }
+lexer got 64 tokens
+first token is  { value: 'artlesnes' }
+last token is  { value: 'ascendancy' }
+lexer got 64 tokens
+first token is  { value: 'ascendancy\'s' }
+last token is  { value: 'aseptic' }
+lexer got 64 tokens
+first token is  { value: 'asert' }
+last token is  { value: 'ashram' }
+lexer got 64 tokens
+first token is  { value: 'ashram\'s' }
+last token is  { value: 'aslant' }
+lexer got 64 tokens
+first token is  { value: 'aslep' }
+last token is  { value: 'aspirant' }
+lexer got 64 tokens
+first token is  { value: 'aspirant\'s' }
+last token is  { value: 'astrakhan\'s' }
+lexer got 64 tokens
+first token is  { value: 'astral' }
+last token is  { value: 'asuring' }
+lexer got 64 tokens
+first token is  { value: 'aswan' }
+last token is  { value: 'ateliers' }
+lexer got 64 tokens
+first token is  { value: 'atempt' }
+last token is  { value: 'atic' }
+lexer got 64 tokens
+first token is  { value: 'atic\'s' }
+last token is  { value: 'atorney' }
+lexer got 64 tokens
+first token is  { value: 'atorney\'s' }
+last token is  { value: 'aubrey' }
+lexer got 64 tokens
+first token is  { value: 'auburn' }
+last token is  { value: 'aug\'s' }
+lexer got 64 tokens
+first token is  { value: 'augean' }
+last token is  { value: 'auricle\'s' }
+lexer got 64 tokens
+first token is  { value: 'auricles' }
+last token is  { value: 'authoritarianism' }
+lexer got 64 tokens
+first token is  { value: 'authoritarianism\'s' }
+last token is  { value: 'autonomously' }
+lexer got 64 tokens
+first token is  { value: 'autonomy' }
+last token is  { value: 'averages' }
+lexer got 64 tokens
+first token is  { value: 'averaging' }
+last token is  { value: 'avow' }
+lexer got 64 tokens
+first token is  { value: 'avowal' }
+last token is  { value: 'awol' }
+lexer got 64 tokens
+first token is  { value: 'awol\'s' }
+last token is  { value: 'aztecan' }
+lexer got 64 tokens
+first token is  { value: 'aztecan\'s' }
+last token is  { value: 'babysiters' }
+lexer got 64 tokens
+first token is  { value: 'babysiting' }
+last token is  { value: 'backfires' }
+lexer got 64 tokens
+first token is  { value: 'backfiring' }
+last token is  { value: 'backspacing' }
+lexer got 64 tokens
+first token is  { value: 'backspin' }
+last token is  { value: 'bader' }
+lexer got 64 tokens
+first token is  { value: 'badest' }
+last token is  { value: 'baha\'i' }
+lexer got 64 tokens
+first token is  { value: 'baha\'ulah' }
+last token is  { value: 'baladers' }
+lexer got 64 tokens
+first token is  { value: 'balads' }
+last token is  { value: 'balistics\'s' }
+lexer got 64 tokens
+first token is  { value: 'balk' }
+last token is  { value: 'baluster\'s' }
+lexer got 64 tokens
+first token is  { value: 'balusters' }
+last token is  { value: 'bandolier' }
+lexer got 64 tokens
+first token is  { value: 'bandolier\'s' }
+last token is  { value: 'banjoist' }
+lexer got 64 tokens
+first token is  { value: 'banjoist\'s' }
+last token is  { value: 'baobab\'s' }
+lexer got 64 tokens
+first token is  { value: 'baobabs' }
+last token is  { value: 'barbarity\'s' }
+lexer got 64 tokens
+first token is  { value: 'barbarosa' }
+last token is  { value: 'barel\'s' }
+lexer got 64 tokens
+first token is  { value: 'bareled' }
+last token is  { value: 'baritone\'s' }
+lexer got 64 tokens
+first token is  { value: 'baritones' }
+last token is  { value: 'baronet\'s' }
+lexer got 64 tokens
+first token is  { value: 'baronets' }
+last token is  { value: 'bases' }
+lexer got 64 tokens
+first token is  { value: 'bases' }
+last token is  { value: 'basra' }
+lexer got 64 tokens
+first token is  { value: 'bast' }
+last token is  { value: 'bathmats' }
+lexer got 64 tokens
+first token is  { value: 'bathos' }
+last token is  { value: 'baudelaire\'s' }
+lexer got 64 tokens
+first token is  { value: 'baudouin' }
+last token is  { value: 'bazokas' }
+lexer got 64 tokens
+first token is  { value: 'bc\'s' }
+last token is  { value: 'bearded' }
+lexer got 64 tokens
+first token is  { value: 'bearding' }
+last token is  { value: 'beau' }
+lexer got 64 tokens
+first token is  { value: 'beau' }
+last token is  { value: 'becket' }
+lexer got 64 tokens
+first token is  { value: 'becket' }
+last token is  { value: 'bedrol' }
+lexer got 64 tokens
+first token is  { value: 'bedrol\'s' }
+last token is  { value: 'began' }
+lexer got 64 tokens
+first token is  { value: 'begar' }
+last token is  { value: 'behinds' }
+lexer got 64 tokens
+first token is  { value: 'behive' }
+last token is  { value: 'belch' }
+lexer got 64 tokens
+first token is  { value: 'belch\'s' }
+last token is  { value: 'belini' }
+lexer got 64 tokens
+first token is  { value: 'belitle' }
+last token is  { value: 'bemuse' }
+lexer got 64 tokens
+first token is  { value: 'bemused' }
+last token is  { value: 'benefits' }
+lexer got 64 tokens
+first token is  { value: 'benelux' }
+last token is  { value: 'bequests' }
+lexer got 64 tokens
+first token is  { value: 'ber' }
+last token is  { value: 'bermuda\'s' }
+lexer got 64 tokens
+first token is  { value: 'bermudas' }
+last token is  { value: 'beseched' }
+lexer got 64 tokens
+first token is  { value: 'beseches' }
+last token is  { value: 'bestrode' }
+lexer got 64 tokens
+first token is  { value: 'bests' }
+last token is  { value: 'betor\'s' }
+lexer got 64 tokens
+first token is  { value: 'betors' }
+last token is  { value: 'bewitched' }
+lexer got 64 tokens
+first token is  { value: 'bewitches' }
+last token is  { value: 'bickered' }
+lexer got 64 tokens
+first token is  { value: 'bickering' }
+last token is  { value: 'bigfot' }
+lexer got 64 tokens
+first token is  { value: 'bigfot\'s' }
+last token is  { value: 'bilfolds' }
+lexer got 64 tokens
+first token is  { value: 'bilge' }
+last token is  { value: 'binder\'s' }
+lexer got 64 tokens
+first token is  { value: 'binderies' }
+last token is  { value: 'biopsy\'s' }
+lexer got 64 tokens
+first token is  { value: 'biopsying' }
+last token is  { value: 'birthday\'s' }
+lexer got 64 tokens
+first token is  { value: 'birthdays' }
+last token is  { value: 'bisquick\'s' }
+lexer got 64 tokens
+first token is  { value: 'bistro' }
+last token is  { value: 'blabermouth\'s' }
+lexer got 64 tokens
+first token is  { value: 'blabermouths' }
+last token is  { value: 'blacknes\'s' }
+lexer got 64 tokens
+first token is  { value: 'blackout' }
+last token is  { value: 'blank\'s' }
+lexer got 64 tokens
+first token is  { value: 'blanked' }
+last token is  { value: 'blazing' }
+lexer got 64 tokens
+first token is  { value: 'blazon' }
+last token is  { value: 'blesedly' }
+lexer got 64 tokens
+first token is  { value: 'blesednes' }
+last token is  { value: 'blisfulnes' }
+lexer got 64 tokens
+first token is  { value: 'blisfulnes\'s' }
+last token is  { value: 'blodhound' }
+lexer got 64 tokens
+first token is  { value: 'blodhound\'s' }
+last token is  { value: 'blondel\'s' }
+lexer got 64 tokens
+first token is  { value: 'blonder' }
+last token is  { value: 'blt\'s' }
+lexer got 64 tokens
+first token is  { value: 'blu' }
+last token is  { value: 'blufing' }
+lexer got 64 tokens
+first token is  { value: 'blufs' }
+last token is  { value: 'bo\'s\'ns' }
+lexer got 64 tokens
+first token is  { value: 'bo\'sun' }
+last token is  { value: 'bobed' }
+lexer got 64 tokens
+first token is  { value: 'bobed' }
+last token is  { value: 'bodles' }
+lexer got 64 tokens
+first token is  { value: 'body' }
+last token is  { value: 'boil' }
+lexer got 64 tokens
+first token is  { value: 'boil\'s' }
+last token is  { value: 'bokshelf\'s' }
+lexer got 64 tokens
+first token is  { value: 'bokshelves' }
+last token is  { value: 'bolting' }
+lexer got 64 tokens
+first token is  { value: 'bolton' }
+last token is  { value: 'bondocks' }
+lexer got 64 tokens
+first token is  { value: 'bondocks\'s' }
+last token is  { value: 'bono' }
+lexer got 64 tokens
+first token is  { value: 'bono\'s' }
+last token is  { value: 'born' }
+lexer got 64 tokens
+first token is  { value: 'born' }
+last token is  { value: 'bosun' }
+lexer got 64 tokens
+first token is  { value: 'bosun\'s' }
+last token is  { value: 'bots' }
+lexer got 64 tokens
+first token is  { value: 'botstrap' }
+last token is  { value: 'bounty\'s' }
+lexer got 64 tokens
+first token is  { value: 'bouquet' }
+last token is  { value: 'bowling\'s' }
+lexer got 64 tokens
+first token is  { value: 'bowls' }
+last token is  { value: 'bozo\'s' }
+lexer got 64 tokens
+first token is  { value: 'bozos' }
+last token is  { value: 'brahman' }
+lexer got 64 tokens
+first token is  { value: 'brahman\'s' }
+last token is  { value: 'bramble' }
+lexer got 64 tokens
+first token is  { value: 'bramble\'s' }
+last token is  { value: 'brasy' }
+lexer got 64 tokens
+first token is  { value: 'brat' }
+last token is  { value: 'brazilian' }
+lexer got 64 tokens
+first token is  { value: 'brazilian\'s' }
+last token is  { value: 'breastbone\'s' }
+lexer got 64 tokens
+first token is  { value: 'breastbones' }
+last token is  { value: 'bret' }
+lexer got 64 tokens
+first token is  { value: 'bret' }
+last token is  { value: 'bricklayer\'s' }
+lexer got 64 tokens
+first token is  { value: 'bricklayers' }
+last token is  { value: 'brier' }
+lexer got 64 tokens
+first token is  { value: 'brier\'s' }
+last token is  { value: 'brink' }
+lexer got 64 tokens
+first token is  { value: 'brink\'s' }
+last token is  { value: 'britney' }
+lexer got 64 tokens
+first token is  { value: 'britney' }
+last token is  { value: 'brock\'s' }
+lexer got 64 tokens
+first token is  { value: 'brocoli' }
+last token is  { value: 'bronchos' }
+lexer got 64 tokens
+first token is  { value: 'bronchus' }
+last token is  { value: 'brownish' }
+lexer got 64 tokens
+first token is  { value: 'brownout' }
+last token is  { value: 'brushing' }
+lexer got 64 tokens
+first token is  { value: 'brushwod' }
+last token is  { value: 'bucharest\'s' }
+lexer got 64 tokens
+first token is  { value: 'buchenwald' }
+last token is  { value: 'budged' }
+lexer got 64 tokens
+first token is  { value: 'budgerigar' }
+last token is  { value: 'bufy' }
+lexer got 64 tokens
+first token is  { value: 'bufy\'s' }
+last token is  { value: 'buldoze' }
+lexer got 64 tokens
+first token is  { value: 'buldozed' }
+last token is  { value: 'bulion' }
+lexer got 64 tokens
+first token is  { value: 'bulion\'s' }
+last token is  { value: 'bump' }
+lexer got 64 tokens
+first token is  { value: 'bump\'s' }
+last token is  { value: 'bunker' }
+lexer got 64 tokens
+first token is  { value: 'bunker\'s' }
+last token is  { value: 'bureaucrats' }
+lexer got 64 tokens
+first token is  { value: 'bureaus' }
+last token is  { value: 'burlines' }
+lexer got 64 tokens
+first token is  { value: 'burlines\'s' }
+last token is  { value: 'burundi' }
+lexer got 64 tokens
+first token is  { value: 'burundi\'s' }
+last token is  { value: 'businesman\'s' }
+lexer got 64 tokens
+first token is  { value: 'businesmen' }
+last token is  { value: 'buterfly' }
+lexer got 64 tokens
+first token is  { value: 'buterfly\'s' }
+last token is  { value: 'buzes' }
+lexer got 64 tokens
+first token is  { value: 'buzing' }
+last token is  { value: 'ca' }
+lexer got 64 tokens
+first token is  { value: 'ca\'s' }
+last token is  { value: 'cached' }
+lexer got 64 tokens
+first token is  { value: 'caches' }
+last token is  { value: 'caesar' }
+lexer got 64 tokens
+first token is  { value: 'caesar\'s' }
+last token is  { value: 'cajolery' }
+lexer got 64 tokens
+first token is  { value: 'cajolery\'s' }
+last token is  { value: 'caldron\'s' }
+lexer got 64 tokens
+first token is  { value: 'caldrons' }
+last token is  { value: 'caliope\'s' }
+lexer got 64 tokens
+first token is  { value: 'caliopes' }
+last token is  { value: 'calumny' }
+lexer got 64 tokens
+first token is  { value: 'calumny\'s' }
+last token is  { value: 'camelia' }
+lexer got 64 tokens
+first token is  { value: 'camelia\'s' }
+last token is  { value: 'campers' }
+lexer got 64 tokens
+first token is  { value: 'campfire' }
+last token is  { value: 'cancan\'s' }
+lexer got 64 tokens
+first token is  { value: 'cancans' }
+last token is  { value: 'caned' }
+lexer got 64 tokens
+first token is  { value: 'caned' }
+last token is  { value: 'canonization' }
+lexer got 64 tokens
+first token is  { value: 'canonization\'s' }
+last token is  { value: 'cantor\'s' }
+lexer got 64 tokens
+first token is  { value: 'cantor\'s' }
+last token is  { value: 'capered' }
+lexer got 64 tokens
+first token is  { value: 'capering' }
+last token is  { value: 'capricorn' }
+lexer got 64 tokens
+first token is  { value: 'capricorn\'s' }
+last token is  { value: 'caracas' }
+lexer got 64 tokens
+first token is  { value: 'caracas\'s' }
+last token is  { value: 'carcinogenic\'s' }
+lexer got 64 tokens
+first token is  { value: 'carcinogenics' }
+last token is  { value: 'carening' }
+lexer got 64 tokens
+first token is  { value: 'carens' }
+last token is  { value: 'caring' }
+lexer got 64 tokens
+first token is  { value: 'caring\'s' }
+last token is  { value: 'carney\'s' }
+lexer got 64 tokens
+first token is  { value: 'carnival' }
+last token is  { value: 'carp\'s' }
+lexer got 64 tokens
+first token is  { value: 'carpal' }
+last token is  { value: 'carting' }
+lexer got 64 tokens
+first token is  { value: 'cartographer' }
+last token is  { value: 'cascade' }
+lexer got 64 tokens
+first token is  { value: 'cascade\'s' }
+last token is  { value: 'casinos' }
+lexer got 64 tokens
+first token is  { value: 'casinos' }
+last token is  { value: 'castrated' }
+lexer got 64 tokens
+first token is  { value: 'castrates' }
+last token is  { value: 'cataloguing' }
+lexer got 64 tokens
+first token is  { value: 'catalonia' }
+last token is  { value: 'catchment' }
+lexer got 64 tokens
+first token is  { value: 'catchphrase' }
+last token is  { value: 'cathedrals' }
+lexer got 64 tokens
+first token is  { value: 'cather' }
+last token is  { value: 'caucasians' }
+lexer got 64 tokens
+first token is  { value: 'caucasoid' }
+last token is  { value: 'cavalcades' }
+lexer got 64 tokens
+first token is  { value: 'cavalier' }
+last token is  { value: 'ceasefire' }
+lexer got 64 tokens
+first token is  { value: 'ceaseles' }
+last token is  { value: 'celestial' }
+lexer got 64 tokens
+first token is  { value: 'celi' }
+last token is  { value: 'censured' }
+lexer got 64 tokens
+first token is  { value: 'censures' }
+last token is  { value: 'centraly' }
+lexer got 64 tokens
+first token is  { value: 'centrifugal' }
+last token is  { value: 'certificate\'s' }
+lexer got 64 tokens
+first token is  { value: 'certificated' }
+last token is  { value: 'chafed' }
+lexer got 64 tokens
+first token is  { value: 'chafes' }
+last token is  { value: 'chalet\'s' }
+lexer got 64 tokens
+first token is  { value: 'chalets' }
+last token is  { value: 'chance\'s' }
+lexer got 64 tokens
+first token is  { value: 'chanced' }
+last token is  { value: 'chanted' }
+lexer got 64 tokens
+first token is  { value: 'chanter' }
+last token is  { value: 'character' }
+lexer got 64 tokens
+first token is  { value: 'character\'s' }
+last token is  { value: 'charlemagne\'s' }
+lexer got 64 tokens
+first token is  { value: 'charlene' }
+last token is  { value: 'chasity' }
+lexer got 64 tokens
+first token is  { value: 'chasity\'s' }
+last token is  { value: 'chaufeured' }
+lexer got 64 tokens
+first token is  { value: 'chaufeuring' }
+last token is  { value: 'checkmates' }
+lexer got 64 tokens
+first token is  { value: 'checkmating' }
+last token is  { value: 'chep' }
+lexer got 64 tokens
+first token is  { value: 'chep\'s' }
+last token is  { value: 'chery\'s' }
+lexer got 64 tokens
+first token is  { value: 'chery\'s' }
+last token is  { value: 'chewier' }
+lexer got 64 tokens
+first token is  { value: 'chewiest' }
+last token is  { value: 'chides' }
+lexer got 64 tokens
+first token is  { value: 'chiding' }
+last token is  { value: 'chilest' }
+lexer got 64 tokens
+first token is  { value: 'chili' }
+last token is  { value: 'chinok' }
+lexer got 64 tokens
+first token is  { value: 'chinok\'s' }
+last token is  { value: 'chiselers' }
+lexer got 64 tokens
+first token is  { value: 'chiselers' }
+last token is  { value: 'chocolates' }
+lexer got 64 tokens
+first token is  { value: 'choctaw' }
+last token is  { value: 'chords' }
+lexer got 64 tokens
+first token is  { value: 'chore' }
+last token is  { value: 'christens' }
+lexer got 64 tokens
+first token is  { value: 'christensen' }
+last token is  { value: 'chrystal\'s' }
+lexer got 64 tokens
+first token is  { value: 'chubier' }
+last token is  { value: 'churchmen' }
+lexer got 64 tokens
+first token is  { value: 'churchyard' }
+last token is  { value: 'cilantro' }
+lexer got 64 tokens
+first token is  { value: 'cilantro\'s' }
+last token is  { value: 'circuit' }
+lexer got 64 tokens
+first token is  { value: 'circuit\'s' }
+last token is  { value: 'circumstantial' }
+lexer got 64 tokens
+first token is  { value: 'circumstantialy' }
+last token is  { value: 'civies' }
+lexer got 64 tokens
+first token is  { value: 'civies\'s' }
+last token is  { value: 'clamored' }
+lexer got 64 tokens
+first token is  { value: 'clamoring' }
+last token is  { value: 'clarification' }
+lexer got 64 tokens
+first token is  { value: 'clarification\'s' }
+last token is  { value: 'clasmate' }
+lexer got 64 tokens
+first token is  { value: 'clasmate\'s' }
+last token is  { value: 'cleanes\'s' }
+lexer got 64 tokens
+first token is  { value: 'cleanest' }
+last token is  { value: 'clematises' }
+lexer got 64 tokens
+first token is  { value: 'clemenceau' }
+last token is  { value: 'click\'s' }
+lexer got 64 tokens
+first token is  { value: 'clicked' }
+last token is  { value: 'clinician\'s' }
+lexer got 64 tokens
+first token is  { value: 'clinicians' }
+last token is  { value: 'clockworks' }
+lexer got 64 tokens
+first token is  { value: 'clod' }
+last token is  { value: 'clothed' }
+lexer got 64 tokens
+first token is  { value: 'clothes' }
+last token is  { value: 'cloy' }
+lexer got 64 tokens
+first token is  { value: 'cloyed' }
+last token is  { value: 'cluters' }
+lexer got 64 tokens
+first token is  { value: 'clyde' }
+last token is  { value: 'coasts' }
+lexer got 64 tokens
+first token is  { value: 'coat' }
+last token is  { value: 'cockatos' }
+lexer got 64 tokens
+first token is  { value: 'cocked' }
+last token is  { value: 'cocyxes' }
+lexer got 64 tokens
+first token is  { value: 'cod' }
+last token is  { value: 'coercive' }
+lexer got 64 tokens
+first token is  { value: 'coeval' }
+last token is  { value: 'cogwhel\'s' }
+lexer got 64 tokens
+first token is  { value: 'cogwhels' }
+last token is  { value: 'cointreau' }
+lexer got 64 tokens
+first token is  { value: 'coital' }
+last token is  { value: 'colapse\'s' }
+lexer got 64 tokens
+first token is  { value: 'colapsed' }
+last token is  { value: 'colector' }
+lexer got 64 tokens
+first token is  { value: 'colector\'s' }
+last token is  { value: 'colins' }
+lexer got 64 tokens
+first token is  { value: 'coliseum' }
+last token is  { value: 'colonizers' }
+lexer got 64 tokens
+first token is  { value: 'colonizes' }
+last token is  { value: 'columbus' }
+lexer got 64 tokens
+first token is  { value: 'columbus\'s' }
+last token is  { value: 'combine\'s' }
+lexer got 64 tokens
+first token is  { value: 'combined' }
+last token is  { value: 'comends' }
+lexer got 64 tokens
+first token is  { value: 'comensurable' }
+last token is  { value: 'coming' }
+lexer got 64 tokens
+first token is  { value: 'coming\'s' }
+last token is  { value: 'comonly' }
+lexer got 64 tokens
+first token is  { value: 'comonplace' }
+last token is  { value: 'compartmentalizing' }
+lexer got 64 tokens
+first token is  { value: 'compartments' }
+last token is  { value: 'compiler' }
+lexer got 64 tokens
+first token is  { value: 'compiler\'s' }
+last token is  { value: 'complication\'s' }
+lexer got 64 tokens
+first token is  { value: 'complications' }
+last token is  { value: 'comprehensive' }
+lexer got 64 tokens
+first token is  { value: 'comprehensive\'s' }
+last token is  { value: 'comrade' }
+lexer got 64 tokens
+first token is  { value: 'comrade\'s' }
+last token is  { value: 'con' }
+lexer got 64 tokens
+first token is  { value: 'con\'s' }
+last token is  { value: 'concern' }
+lexer got 64 tokens
+first token is  { value: 'concern\'s' }
+last token is  { value: 'conclusively' }
+lexer got 64 tokens
+first token is  { value: 'concoct' }
+last token is  { value: 'condescend' }
+lexer got 64 tokens
+first token is  { value: 'condescended' }
+last token is  { value: 'conductors' }
+lexer got 64 tokens
+first token is  { value: 'conducts' }
+last token is  { value: 'confederations' }
+lexer got 64 tokens
+first token is  { value: 'confer' }
+last token is  { value: 'confirm' }
+lexer got 64 tokens
+first token is  { value: 'confirmation' }
+last token is  { value: 'confused' }
+lexer got 64 tokens
+first token is  { value: 'confusedly' }
+last token is  { value: 'congregationalists' }
+lexer got 64 tokens
+first token is  { value: 'congregations' }
+last token is  { value: 'conjunctions' }
+lexer got 64 tokens
+first token is  { value: 'conjunctive' }
+last token is  { value: 'conscientious' }
+lexer got 64 tokens
+first token is  { value: 'conscientiously' }
+last token is  { value: 'considerably' }
+lexer got 64 tokens
+first token is  { value: 'considerate' }
+last token is  { value: 'conspiratorial' }
+lexer got 64 tokens
+first token is  { value: 'conspirators' }
+last token is  { value: 'constriction' }
+lexer got 64 tokens
+first token is  { value: 'constriction\'s' }
+last token is  { value: 'consumers' }
+lexer got 64 tokens
+first token is  { value: 'consumes' }
+last token is  { value: 'content\'s' }
+lexer got 64 tokens
+first token is  { value: 'contented' }
+last token is  { value: 'continuous' }
+lexer got 64 tokens
+first token is  { value: 'continuously' }
+last token is  { value: 'contrary' }
+lexer got 64 tokens
+first token is  { value: 'contrary\'s' }
+last token is  { value: 'contuses' }
+lexer got 64 tokens
+first token is  { value: 'contusing' }
+last token is  { value: 'converses' }
+lexer got 64 tokens
+first token is  { value: 'conversing' }
+last token is  { value: 'convoyed' }
+lexer got 64 tokens
+first token is  { value: 'convoying' }
+last token is  { value: 'copice' }
+lexer got 64 tokens
+first token is  { value: 'copice\'s' }
+last token is  { value: 'coqueting' }
+lexer got 64 tokens
+first token is  { value: 'coquetish' }
+last token is  { value: 'corectives' }
+lexer got 64 tokens
+first token is  { value: 'corectly' }
+last token is  { value: 'corkscrew' }
+lexer got 64 tokens
+first token is  { value: 'corkscrew\'s' }
+last token is  { value: 'cornmeal\'s' }
+lexer got 64 tokens
+first token is  { value: 'cornrow' }
+last token is  { value: 'corporate' }
+lexer got 64 tokens
+first token is  { value: 'corporation' }
+last token is  { value: 'corupting' }
+lexer got 64 tokens
+first token is  { value: 'coruption' }
+last token is  { value: 'cosmopolitans' }
+lexer got 64 tokens
+first token is  { value: 'cosmos' }
+last token is  { value: 'coton\'s' }
+lexer got 64 tokens
+first token is  { value: 'coton\'s' }
+last token is  { value: 'counseling' }
+lexer got 64 tokens
+first token is  { value: 'counselings' }
+last token is  { value: 'counterfeiter\'s' }
+lexer got 64 tokens
+first token is  { value: 'counterfeiters' }
+last token is  { value: 'county\'s' }
+lexer got 64 tokens
+first token is  { value: 'coup' }
+last token is  { value: 'courtroms' }
+lexer got 64 tokens
+first token is  { value: 'courts' }
+last token is  { value: 'cowardlines\'s' }
+lexer got 64 tokens
+first token is  { value: 'cowardly' }
+last token is  { value: 'coynes' }
+lexer got 64 tokens
+first token is  { value: 'coynes\'s' }
+last token is  { value: 'crackups' }
+lexer got 64 tokens
+first token is  { value: 'cradle' }
+last token is  { value: 'crankines' }
+lexer got 64 tokens
+first token is  { value: 'crankines\'s' }
+last token is  { value: 'crawford' }
+lexer got 64 tokens
+first token is  { value: 'crawford\'s' }
+last token is  { value: 'creased' }
+lexer got 64 tokens
+first token is  { value: 'creases' }
+last token is  { value: 'creighton' }
+lexer got 64 tokens
+first token is  { value: 'creighton\'s' }
+last token is  { value: 'crest\'s' }
+lexer got 64 tokens
+first token is  { value: 'crest\'s' }
+last token is  { value: 'criminaly' }
+lexer got 64 tokens
+first token is  { value: 'criminologist' }
+last token is  { value: 'criter\'s' }
+lexer got 64 tokens
+first token is  { value: 'criteria' }
+last token is  { value: 'crokeder' }
+lexer got 64 tokens
+first token is  { value: 'crokedest' }
+last token is  { value: 'croscheck' }
+lexer got 64 tokens
+first token is  { value: 'croscheck\'s' }
+last token is  { value: 'crowd' }
+lexer got 64 tokens
+first token is  { value: 'crowd\'s' }
+last token is  { value: 'cruelty\'s' }
+lexer got 64 tokens
+first token is  { value: 'cruely' }
+last token is  { value: 'crush' }
+lexer got 64 tokens
+first token is  { value: 'crush\'s' }
+last token is  { value: 'crystalizes' }
+lexer got 64 tokens
+first token is  { value: 'crystalizing' }
+last token is  { value: 'cudgel' }
+lexer got 64 tokens
+first token is  { value: 'cudgel\'s' }
+last token is  { value: 'cultivating' }
+lexer got 64 tokens
+first token is  { value: 'cultivation' }
+last token is  { value: 'cupfuls' }
+lexer got 64 tokens
+first token is  { value: 'cupid' }
+last token is  { value: 'curie\'s' }
+lexer got 64 tokens
+first token is  { value: 'curied' }
+last token is  { value: 'curtailment\'s' }
+lexer got 64 tokens
+first token is  { value: 'curtailments' }
+last token is  { value: 'cuspids' }
+lexer got 64 tokens
+first token is  { value: 'cusps' }
+last token is  { value: 'cutofs' }
+lexer got 64 tokens
+first token is  { value: 'cuts' }
+last token is  { value: 'cynicism\'s' }
+lexer got 64 tokens
+first token is  { value: 'cynics' }
+last token is  { value: 'dables' }
+lexer got 64 tokens
+first token is  { value: 'dabling' }
+last token is  { value: 'dahomey\'s' }
+lexer got 64 tokens
+first token is  { value: 'dailies' }
+last token is  { value: 'dalton\'s' }
+lexer got 64 tokens
+first token is  { value: 'daly' }
+last token is  { value: 'damsons' }
+lexer got 64 tokens
+first token is  { value: 'dan' }
+last token is  { value: 'dante\'s' }
+lexer got 64 tokens
+first token is  { value: 'danton' }
+last token is  { value: 'darkroms' }
+lexer got 64 tokens
+first token is  { value: 'darla' }
+last token is  { value: 'dateline' }
+lexer got 64 tokens
+first token is  { value: 'dateline\'s' }
+last token is  { value: 'dawn' }
+lexer got 64 tokens
+first token is  { value: 'dawn\'s' }
+last token is  { value: 'deadening' }
+lexer got 64 tokens
+first token is  { value: 'deadens' }
+last token is  { value: 'dearer' }
+lexer got 64 tokens
+first token is  { value: 'dearest' }
+last token is  { value: 'debauches' }
+lexer got 64 tokens
+first token is  { value: 'debauching' }
+last token is  { value: 'deby' }
+lexer got 64 tokens
+first token is  { value: 'deby\'s' }
+last token is  { value: 'deceit\'s' }
+lexer got 64 tokens
+first token is  { value: 'deceitful' }
+last token is  { value: 'decision\'s' }
+lexer got 64 tokens
+first token is  { value: 'decisions' }
+last token is  { value: 'decomposed' }
+lexer got 64 tokens
+first token is  { value: 'decomposes' }
+last token is  { value: 'decrescendos' }
+lexer got 64 tokens
+first token is  { value: 'decried' }
+last token is  { value: 'defeated' }
+lexer got 64 tokens
+first token is  { value: 'defeating' }
+last token is  { value: 'defiantly' }
+lexer got 64 tokens
+first token is  { value: 'deficiencies' }
+last token is  { value: 'deforestation' }
+lexer got 64 tokens
+first token is  { value: 'deforestation\'s' }
+last token is  { value: 'degre' }
+lexer got 64 tokens
+first token is  { value: 'degre\'s' }
+last token is  { value: 'del\'s' }
+lexer got 64 tokens
+first token is  { value: 'del\'s' }
+last token is  { value: 'delicate' }
+lexer got 64 tokens
+first token is  { value: 'delicately' }
+last token is  { value: 'delmarva\'s' }
+lexer got 64 tokens
+first token is  { value: 'delmer' }
+last token is  { value: 'demands' }
+lexer got 64 tokens
+first token is  { value: 'demarcate' }
+last token is  { value: 'democracy' }
+lexer got 64 tokens
+first token is  { value: 'democracy\'s' }
+last token is  { value: 'demoralizing' }
+lexer got 64 tokens
+first token is  { value: 'demos' }
+last token is  { value: 'denizens' }
+lexer got 64 tokens
+first token is  { value: 'denmark' }
+last token is  { value: 'denudes' }
+lexer got 64 tokens
+first token is  { value: 'denuding' }
+last token is  { value: 'depends' }
+lexer got 64 tokens
+first token is  { value: 'depened' }
+last token is  { value: 'deposing' }
+lexer got 64 tokens
+first token is  { value: 'deposit' }
+last token is  { value: 'deprogramed' }
+lexer got 64 tokens
+first token is  { value: 'deprograming' }
+last token is  { value: 'derida\'s' }
+lexer got 64 tokens
+first token is  { value: 'deride' }
+last token is  { value: 'descartes' }
+lexer got 64 tokens
+first token is  { value: 'descartes\'s' }
+last token is  { value: 'deserts' }
+lexer got 64 tokens
+first token is  { value: 'deserts' }
+last token is  { value: 'desolation\'s' }
+lexer got 64 tokens
+first token is  { value: 'despair' }
+last token is  { value: 'destructed' }
+lexer got 64 tokens
+first token is  { value: 'destructible' }
+last token is  { value: 'determinable' }
+lexer got 64 tokens
+first token is  { value: 'determinant' }
+last token is  { value: 'detractors' }
+lexer got 64 tokens
+first token is  { value: 'detracts' }
+last token is  { value: 'deviled' }
+lexer got 64 tokens
+first token is  { value: 'deviling' }
+last token is  { value: 'dewayne\'s' }
+lexer got 64 tokens
+first token is  { value: 'dewberies' }
+last token is  { value: 'diagonal\'s' }
+lexer got 64 tokens
+first token is  { value: 'diagonals' }
+last token is  { value: 'diarhoea' }
+lexer got 64 tokens
+first token is  { value: 'diarhoea\'s' }
+last token is  { value: 'dictating' }
+lexer got 64 tokens
+first token is  { value: 'dictation' }
+last token is  { value: 'dietetics\'s' }
+lexer got 64 tokens
+first token is  { value: 'dietician' }
+last token is  { value: 'digit\'s' }
+lexer got 64 tokens
+first token is  { value: 'digital' }
+last token is  { value: 'diletantism' }
+lexer got 64 tokens
+first token is  { value: 'diletantism\'s' }
+last token is  { value: 'dimwit' }
+lexer got 64 tokens
+first token is  { value: 'dimwit\'s' }
+last token is  { value: 'diodes' }
+lexer got 64 tokens
+first token is  { value: 'diogenes' }
+last token is  { value: 'directions' }
+lexer got 64 tokens
+first token is  { value: 'directive' }
+last token is  { value: 'disadvantage' }
+lexer got 64 tokens
+first token is  { value: 'disadvantage\'s' }
+last token is  { value: 'disarmament' }
+lexer got 64 tokens
+first token is  { value: 'disarmament\'s' }
+last token is  { value: 'discerning' }
+lexer got 64 tokens
+first token is  { value: 'discernment' }
+last token is  { value: 'discomoding' }
+lexer got 64 tokens
+first token is  { value: 'discompose' }
+last token is  { value: 'discouragement' }
+lexer got 64 tokens
+first token is  { value: 'discouragement\'s' }
+last token is  { value: 'discusion\'s' }
+lexer got 64 tokens
+first token is  { value: 'discusions' }
+last token is  { value: 'disengaged' }
+lexer got 64 tokens
+first token is  { value: 'disengagement' }
+last token is  { value: 'disgruntled' }
+lexer got 64 tokens
+first token is  { value: 'disgruntles' }
+last token is  { value: 'disident\'s' }
+lexer got 64 tokens
+first token is  { value: 'disidents' }
+last token is  { value: 'disjoint' }
+lexer got 64 tokens
+first token is  { value: 'disjointed' }
+last token is  { value: 'disobedience\'s' }
+lexer got 64 tokens
+first token is  { value: 'disobedient' }
+last token is  { value: 'disparity\'s' }
+lexer got 64 tokens
+first token is  { value: 'dispasionate' }
+last token is  { value: 'disposable' }
+lexer got 64 tokens
+first token is  { value: 'disposable\'s' }
+last token is  { value: 'disrepair' }
+lexer got 64 tokens
+first token is  { value: 'disrepair\'s' }
+last token is  { value: 'distilers' }
+lexer got 64 tokens
+first token is  { value: 'distilery' }
+last token is  { value: 'distrustfuly' }
+lexer got 64 tokens
+first token is  { value: 'distrusting' }
+last token is  { value: 'diverged' }
+lexer got 64 tokens
+first token is  { value: 'divergence' }
+last token is  { value: 'divisible' }
+lexer got 64 tokens
+first token is  { value: 'division' }
+last token is  { value: 'dniester' }
+lexer got 64 tokens
+first token is  { value: 'do' }
+last token is  { value: 'dodad' }
+lexer got 64 tokens
+first token is  { value: 'dodad\'s' }
+last token is  { value: 'dogfishes' }
+lexer got 64 tokens
+first token is  { value: 'doghouse' }
+last token is  { value: 'dole\'s' }
+lexer got 64 tokens
+first token is  { value: 'dole\'s' }
+last token is  { value: 'domestics' }
+lexer got 64 tokens
+first token is  { value: 'domicile' }
+last token is  { value: 'donate' }
+lexer got 64 tokens
+first token is  { value: 'donated' }
+last token is  { value: 'doris' }
+lexer got 64 tokens
+first token is  { value: 'doris\'s' }
+last token is  { value: 'dosier\'s' }
+lexer got 64 tokens
+first token is  { value: 'dosiers' }
+last token is  { value: 'doughnut' }
+lexer got 64 tokens
+first token is  { value: 'doughnut\'s' }
+last token is  { value: 'downhearted' }
+lexer got 64 tokens
+first token is  { value: 'downhil' }
+last token is  { value: 'doyle' }
+lexer got 64 tokens
+first token is  { value: 'doze' }
+last token is  { value: 'dragons' }
+lexer got 64 tokens
+first token is  { value: 'dragons' }
+last token is  { value: 'drawbridge\'s' }
+lexer got 64 tokens
+first token is  { value: 'drawbridges' }
+last token is  { value: 'dregs\'s' }
+lexer got 64 tokens
+first token is  { value: 'dreiser' }
+last token is  { value: 'driled' }
+lexer got 64 tokens
+first token is  { value: 'driling' }
+last token is  { value: 'dromedary' }
+lexer got 64 tokens
+first token is  { value: 'dromedary\'s' }
+last token is  { value: 'drowsy' }
+lexer got 64 tokens
+first token is  { value: 'drub' }
+last token is  { value: 'drying' }
+lexer got 64 tokens
+first token is  { value: 'dryly' }
+last token is  { value: 'ductles' }
+lexer got 64 tokens
+first token is  { value: 'ducts' }
+last token is  { value: 'duling' }
+lexer got 64 tokens
+first token is  { value: 'dulnes' }
+last token is  { value: 'duned' }
+lexer got 64 tokens
+first token is  { value: 'dunedin' }
+last token is  { value: 'duran\'s' }
+lexer got 64 tokens
+first token is  { value: 'durant' }
+last token is  { value: 'dutiful' }
+lexer got 64 tokens
+first token is  { value: 'dutifuly' }
+last token is  { value: 'dynamism' }
+lexer got 64 tokens
+first token is  { value: 'dynamism\'s' }
+last token is  { value: 'eakins' }
+lexer got 64 tokens
+first token is  { value: 'ear' }
+last token is  { value: 'earnings' }
+lexer got 64 tokens
+first token is  { value: 'earnings\'s' }
+last token is  { value: 'easing' }
+lexer got 64 tokens
+first token is  { value: 'east' }
+last token is  { value: 'ebonics' }
+lexer got 64 tokens
+first token is  { value: 'ebonics\'s' }
+last token is  { value: 'economics' }
+lexer got 64 tokens
+first token is  { value: 'economics\'s' }
+last token is  { value: 'edgings' }
+lexer got 64 tokens
+first token is  { value: 'edgy' }
+last token is  { value: 'educate' }
+lexer got 64 tokens
+first token is  { value: 'educated' }
+last token is  { value: 'eficiency\'s' }
+lexer got 64 tokens
+first token is  { value: 'eficient' }
+last token is  { value: 'egoist' }
+lexer got 64 tokens
+first token is  { value: 'egoist\'s' }
+last token is  { value: 'eights' }
+lexer got 64 tokens
+first token is  { value: 'eighty' }
+last token is  { value: 'elastoplast' }
+lexer got 64 tokens
+first token is  { value: 'elastoplast\'s' }
+last token is  { value: 'electricity\'s' }
+lexer got 64 tokens
+first token is  { value: 'electrification' }
+last token is  { value: 'elegy' }
+lexer got 64 tokens
+first token is  { value: 'elegy\'s' }
+last token is  { value: 'elinor\'s' }
+lexer got 64 tokens
+first token is  { value: 'eliot' }
+last token is  { value: 'elocutionist' }
+lexer got 64 tokens
+first token is  { value: 'elocutionist\'s' }
+last token is  { value: 'elvin\'s' }
+lexer got 64 tokens
+first token is  { value: 'elvira' }
+last token is  { value: 'embankment' }
+lexer got 64 tokens
+first token is  { value: 'embankment\'s' }
+last token is  { value: 'embodiment' }
+lexer got 64 tokens
+first token is  { value: 'embodiment\'s' }
+last token is  { value: 'emerging' }
+lexer got 64 tokens
+first token is  { value: 'emeritus' }
+last token is  { value: 'emoted' }
+lexer got 64 tokens
+first token is  { value: 'emotes' }
+last token is  { value: 'emporia' }
+lexer got 64 tokens
+first token is  { value: 'emporium' }
+last token is  { value: 'enameling' }
+lexer got 64 tokens
+first token is  { value: 'enamels' }
+last token is  { value: 'encoder\'s' }
+lexer got 64 tokens
+first token is  { value: 'encoders' }
+last token is  { value: 'endangered' }
+lexer got 64 tokens
+first token is  { value: 'endangering' }
+last token is  { value: 'endymion' }
+lexer got 64 tokens
+first token is  { value: 'enema' }
+last token is  { value: 'engenders' }
+lexer got 64 tokens
+first token is  { value: 'engine' }
+last token is  { value: 'enjoins' }
+lexer got 64 tokens
+first token is  { value: 'enjoy' }
+last token is  { value: 'enough\'s' }
+lexer got 64 tokens
+first token is  { value: 'enquire' }
+last token is  { value: 'ensnare' }
+lexer got 64 tokens
+first token is  { value: 'ensnared' }
+last token is  { value: 'enthusiasm' }
+lexer got 64 tokens
+first token is  { value: 'enthusiasm\'s' }
+last token is  { value: 'entreating' }
+lexer got 64 tokens
+first token is  { value: 'entreats' }
+last token is  { value: 'enviably' }
+lexer got 64 tokens
+first token is  { value: 'envied' }
+last token is  { value: 'epicurean' }
+lexer got 64 tokens
+first token is  { value: 'epicurean\'s' }
+last token is  { value: 'epitome\'s' }
+lexer got 64 tokens
+first token is  { value: 'epitomes' }
+last token is  { value: 'equilateral' }
+lexer got 64 tokens
+first token is  { value: 'equilateral\'s' }
+last token is  { value: 'eraser\'s' }
+lexer got 64 tokens
+first token is  { value: 'erasers' }
+last token is  { value: 'eriest' }
+lexer got 64 tokens
+first token is  { value: 'erik' }
+last token is  { value: 'eruditely' }
+lexer got 64 tokens
+first token is  { value: 'erudition' }
+last token is  { value: 'escher\'s' }
+lexer got 64 tokens
+first token is  { value: 'escherichia' }
+last token is  { value: 'espouse' }
+lexer got 64 tokens
+first token is  { value: 'espoused' }
+last token is  { value: 'estimator\'s' }
+lexer got 64 tokens
+first token is  { value: 'estimators' }
+last token is  { value: 'ethnicity\'s' }
+lexer got 64 tokens
+first token is  { value: 'ethnics' }
+last token is  { value: 'eunuch' }
+lexer got 64 tokens
+first token is  { value: 'eunuch\'s' }
+last token is  { value: 'evaluation' }
+lexer got 64 tokens
+first token is  { value: 'evaluation\'s' }
+last token is  { value: 'eventide' }
+lexer got 64 tokens
+first token is  { value: 'eventide\'s' }
+last token is  { value: 'evildoer' }
+lexer got 64 tokens
+first token is  { value: 'evildoer\'s' }
+last token is  { value: 'exagerate' }
+lexer got 64 tokens
+first token is  { value: 'exagerated' }
+last token is  { value: 'excelently' }
+lexer got 64 tokens
+first token is  { value: 'exceling' }
+last token is  { value: 'excludes' }
+lexer got 64 tokens
+first token is  { value: 'excluding' }
+last token is  { value: 'executable' }
+lexer got 64 tokens
+first token is  { value: 'execute' }
+last token is  { value: 'exhaust\'s' }
+lexer got 64 tokens
+first token is  { value: 'exhausted' }
+last token is  { value: 'existentialist' }
+lexer got 64 tokens
+first token is  { value: 'existentialist\'s' }
+last token is  { value: 'expansivenes' }
+lexer got 64 tokens
+first token is  { value: 'expansivenes\'s' }
+last token is  { value: 'expendable' }
+lexer got 64 tokens
+first token is  { value: 'expendable\'s' }
+last token is  { value: 'explicate' }
+lexer got 64 tokens
+first token is  { value: 'explicated' }
+last token is  { value: 'expos' }
+lexer got 64 tokens
+first token is  { value: 'expose' }
+last token is  { value: 'expurgating' }
+lexer got 64 tokens
+first token is  { value: 'expurgation' }
+last token is  { value: 'extinguisher' }
+lexer got 64 tokens
+first token is  { value: 'extinguisher\'s' }
+last token is  { value: 'extraterestrials' }
+lexer got 64 tokens
+first token is  { value: 'extravagance' }
+last token is  { value: 'eyck' }
+lexer got 64 tokens
+first token is  { value: 'eyck\'s' }
+last token is  { value: 'fabergé' }
+lexer got 64 tokens
+first token is  { value: 'fabian' }
+last token is  { value: 'facsimiles' }
+lexer got 64 tokens
+first token is  { value: 'fact' }
+last token is  { value: 'failed' }
+lexer got 64 tokens
+first token is  { value: 'failing' }
+last token is  { value: 'faker\'s' }
+lexer got 64 tokens
+first token is  { value: 'fakers' }
+last token is  { value: 'falsifying' }
+lexer got 64 tokens
+first token is  { value: 'falsities' }
+last token is  { value: 'fancy\'s' }
+lexer got 64 tokens
+first token is  { value: 'fancying' }
+last token is  { value: 'farmers' }
+lexer got 64 tokens
+first token is  { value: 'farmhand' }
+last token is  { value: 'fastener\'s' }
+lexer got 64 tokens
+first token is  { value: 'fasteners' }
+last token is  { value: 'fathom\'s' }
+lexer got 64 tokens
+first token is  { value: 'fathomable' }
+last token is  { value: 'favor' }
+lexer got 64 tokens
+first token is  { value: 'favor\'s' }
+last token is  { value: 'feat' }
+lexer got 64 tokens
+first token is  { value: 'feat\'s' }
+last token is  { value: 'federaly' }
+lexer got 64 tokens
+first token is  { value: 'federate' }
+last token is  { value: 'feling\'s' }
+lexer got 64 tokens
+first token is  { value: 'felingly' }
+last token is  { value: 'fenel' }
+lexer got 64 tokens
+first token is  { value: 'fenel\'s' }
+last token is  { value: 'fertilizers' }
+lexer got 64 tokens
+first token is  { value: 'fertilizes' }
+last token is  { value: 'fetish\'s' }
+lexer got 64 tokens
+first token is  { value: 'fetishes' }
+last token is  { value: 'fiber\'s' }
+lexer got 64 tokens
+first token is  { value: 'fiber\'s' }
+last token is  { value: 'fief' }
+lexer got 64 tokens
+first token is  { value: 'fief\'s' }
+last token is  { value: 'figment' }
+lexer got 64 tokens
+first token is  { value: 'figment\'s' }
+last token is  { value: 'filigres' }
+lexer got 64 tokens
+first token is  { value: 'filing' }
+last token is  { value: 'finaglers' }
+lexer got 64 tokens
+first token is  { value: 'finagles' }
+last token is  { value: 'finger' }
+lexer got 64 tokens
+first token is  { value: 'finger\'s' }
+last token is  { value: 'firearm\'s' }
+lexer got 64 tokens
+first token is  { value: 'firearms' }
+last token is  { value: 'firetrap\'s' }
+lexer got 64 tokens
+first token is  { value: 'firetraps' }
+last token is  { value: 'fishing\'s' }
+lexer got 64 tokens
+first token is  { value: 'fishnet' }
+last token is  { value: 'fixating' }
+lexer got 64 tokens
+first token is  { value: 'fixation' }
+last token is  { value: 'flagelation\'s' }
+lexer got 64 tokens
+first token is  { value: 'flagelum' }
+last token is  { value: 'flamethrower' }
+lexer got 64 tokens
+first token is  { value: 'flamethrower\'s' }
+last token is  { value: 'flashgun\'s' }
+lexer got 64 tokens
+first token is  { value: 'flashguns' }
+last token is  { value: 'flatulence' }
+lexer got 64 tokens
+first token is  { value: 'flatulence\'s' }
+last token is  { value: 'flemish\'s' }
+lexer got 64 tokens
+first token is  { value: 'fles' }
+last token is  { value: 'flightles' }
+lexer got 64 tokens
+first token is  { value: 'flights' }
+last token is  { value: 'float' }
+lexer got 64 tokens
+first token is  { value: 'float\'s' }
+last token is  { value: 'florboard\'s' }
+lexer got 64 tokens
+first token is  { value: 'florboards' }
+last token is  { value: 'flout\'s' }
+lexer got 64 tokens
+first token is  { value: 'flouted' }
+last token is  { value: 'fluid' }
+lexer got 64 tokens
+first token is  { value: 'fluid\'s' }
+last token is  { value: 'flurying' }
+lexer got 64 tokens
+first token is  { value: 'flush' }
+last token is  { value: 'flyswater\'s' }
+lexer got 64 tokens
+first token is  { value: 'flyswaters' }
+last token is  { value: 'fog' }
+lexer got 64 tokens
+first token is  { value: 'fog\'s' }
+last token is  { value: 'folios' }
+lexer got 64 tokens
+first token is  { value: 'folish' }
+last token is  { value: 'fora' }
+lexer got 64 tokens
+first token is  { value: 'forage' }
+last token is  { value: 'foreboding' }
+lexer got 64 tokens
+first token is  { value: 'foreboding\'s' }
+last token is  { value: 'foreman' }
+lexer got 64 tokens
+first token is  { value: 'foreman' }
+last token is  { value: 'forester\'s' }
+lexer got 64 tokens
+first token is  { value: 'foresters' }
+last token is  { value: 'forgeting' }
+lexer got 64 tokens
+first token is  { value: 'forgets' }
+last token is  { value: 'formles' }
+lexer got 64 tokens
+first token is  { value: 'formlesly' }
+last token is  { value: 'fortifies' }
+lexer got 64 tokens
+first token is  { value: 'fortify' }
+last token is  { value: 'fotbals' }
+lexer got 64 tokens
+first token is  { value: 'fotbridge' }
+last token is  { value: 'fouling' }
+lexer got 64 tokens
+first token is  { value: 'foulnes' }
+last token is  { value: 'fox\'s' }
+lexer got 64 tokens
+first token is  { value: 'foxed' }
+last token is  { value: 'frailest' }
+lexer got 64 tokens
+first token is  { value: 'frailties' }
+last token is  { value: 'frankfurt\'s' }
+lexer got 64 tokens
+first token is  { value: 'frankfurter' }
+last token is  { value: 'freak' }
+lexer got 64 tokens
+first token is  { value: 'freak\'s' }
+last token is  { value: 'freighter' }
+lexer got 64 tokens
+first token is  { value: 'freighter\'s' }
+last token is  { value: 'fresco' }
+lexer got 64 tokens
+first token is  { value: 'fresco\'s' }
+last token is  { value: 'freze' }
+lexer got 64 tokens
+first token is  { value: 'freze\'s' }
+last token is  { value: 'frighteningly' }
+lexer got 64 tokens
+first token is  { value: 'frightens' }
+last token is  { value: 'frizling' }
+lexer got 64 tokens
+first token is  { value: 'frizy' }
+last token is  { value: 'frostily' }
+lexer got 64 tokens
+first token is  { value: 'frostines' }
+last token is  { value: 'frumpy' }
+lexer got 64 tokens
+first token is  { value: 'frustrate' }
+last token is  { value: 'ful\'s' }
+lexer got 64 tokens
+first token is  { value: 'fulani' }
+last token is  { value: 'fun' }
+lexer got 64 tokens
+first token is  { value: 'fun\'s' }
+last token is  { value: 'funk\'s' }
+lexer got 64 tokens
+first token is  { value: 'funked' }
+last token is  { value: 'furthermore' }
+lexer got 64 tokens
+first token is  { value: 'furthermost' }
+last token is  { value: 'futz' }
+lexer got 64 tokens
+first token is  { value: 'futzed' }
+last token is  { value: 'gacrux' }
+lexer got 64 tokens
+first token is  { value: 'gacrux\'s' }
+last token is  { value: 'gainsaid' }
+lexer got 64 tokens
+first token is  { value: 'gainsay' }
+last token is  { value: 'galeys' }
+lexer got 64 tokens
+first token is  { value: 'galibi' }
+last token is  { value: 'gamble' }
+lexer got 64 tokens
+first token is  { value: 'gamble\'s' }
+last token is  { value: 'gang' }
+lexer got 64 tokens
+first token is  { value: 'gang\'s' }
+last token is  { value: 'garbanzo' }
+lexer got 64 tokens
+first token is  { value: 'garbanzo\'s' }
+last token is  { value: 'garlanded' }
+lexer got 64 tokens
+first token is  { value: 'garlanding' }
+last token is  { value: 'gas' }
+lexer got 64 tokens
+first token is  { value: 'gas\'s' }
+last token is  { value: 'gatherers' }
+lexer got 64 tokens
+first token is  { value: 'gathering' }
+last token is  { value: 'gawain' }
+lexer got 64 tokens
+first token is  { value: 'gawain\'s' }
+last token is  { value: 'gear\'s' }
+lexer got 64 tokens
+first token is  { value: 'gearbox' }
+last token is  { value: 'geminis' }
+lexer got 64 tokens
+first token is  { value: 'gems' }
+last token is  { value: 'generously' }
+lexer got 64 tokens
+first token is  { value: 'genes' }
+last token is  { value: 'gentled' }
+lexer got 64 tokens
+first token is  { value: 'gentlefolk' }
+last token is  { value: 'geologic' }
+lexer got 64 tokens
+first token is  { value: 'geological' }
+last token is  { value: 'german\'s' }
+lexer got 64 tokens
+first token is  { value: 'germane' }
+last token is  { value: 'gesturing' }
+lexer got 64 tokens
+first token is  { value: 'gesundheit' }
+last token is  { value: 'ghostwrites' }
+lexer got 64 tokens
+first token is  { value: 'ghostwriting' }
+last token is  { value: 'gig\'s' }
+lexer got 64 tokens
+first token is  { value: 'gigabit' }
+last token is  { value: 'gilts' }
+lexer got 64 tokens
+first token is  { value: 'gimcrack' }
+last token is  { value: 'giovani\'s' }
+lexer got 64 tokens
+first token is  { value: 'gipsies' }
+last token is  { value: 'giza' }
+lexer got 64 tokens
+first token is  { value: 'giza\'s' }
+last token is  { value: 'glance' }
+lexer got 64 tokens
+first token is  { value: 'glance\'s' }
+last token is  { value: 'glefuly' }
+lexer got 64 tokens
+first token is  { value: 'glen' }
+last token is  { value: 'glitz' }
+lexer got 64 tokens
+first token is  { value: 'glitz\'s' }
+last token is  { value: 'glosiest' }
+lexer got 64 tokens
+first token is  { value: 'glosines' }
+last token is  { value: 'glycerin' }
+lexer got 64 tokens
+first token is  { value: 'glycerin\'s' }
+last token is  { value: 'goals' }
+lexer got 64 tokens
+first token is  { value: 'goaltender' }
+last token is  { value: 'godbye' }
+lexer got 64 tokens
+first token is  { value: 'godbye\'s' }
+last token is  { value: 'godyear' }
+lexer got 64 tokens
+first token is  { value: 'godzila' }
+last token is  { value: 'goldbricking' }
+lexer got 64 tokens
+first token is  { value: 'goldbricks' }
+last token is  { value: 'gondwanaland\'s' }
+lexer got 64 tokens
+first token is  { value: 'gone' }
+last token is  { value: 'gosamer\'s' }
+lexer got 64 tokens
+first token is  { value: 'gose' }
+last token is  { value: 'goutier' }
+lexer got 64 tokens
+first token is  { value: 'goutiest' }
+last token is  { value: 'grackles' }
+lexer got 64 tokens
+first token is  { value: 'grad' }
+last token is  { value: 'gramaticaly' }
+lexer got 64 tokens
+first token is  { value: 'gramophone' }
+last token is  { value: 'grange' }
+lexer got 64 tokens
+first token is  { value: 'grange\'s' }
+last token is  { value: 'grapnels' }
+lexer got 64 tokens
+first token is  { value: 'gras' }
+last token is  { value: 'graves' }
+lexer got 64 tokens
+first token is  { value: 'gravest' }
+last token is  { value: 'grece\'s' }
+lexer got 64 tokens
+first token is  { value: 'grecian' }
+last token is  { value: 'grening' }
+lexer got 64 tokens
+first token is  { value: 'grenish' }
+last token is  { value: 'grief\'s' }
+lexer got 64 tokens
+first token is  { value: 'griefs' }
+last token is  { value: 'gringo\'s' }
+lexer got 64 tokens
+first token is  { value: 'gringos' }
+last token is  { value: 'grom' }
+lexer got 64 tokens
+first token is  { value: 'grom\'s' }
+last token is  { value: 'grounding\'s' }
+lexer got 64 tokens
+first token is  { value: 'groundings' }
+last token is  { value: 'growl\'s' }
+lexer got 64 tokens
+first token is  { value: 'growled' }
+last token is  { value: 'grunge\'s' }
+lexer got 64 tokens
+first token is  { value: 'grungier' }
+last token is  { value: 'guardhouses' }
+lexer got 64 tokens
+first token is  { value: 'guardian' }
+last token is  { value: 'gueswork' }
+lexer got 64 tokens
+first token is  { value: 'gueswork\'s' }
+last token is  { value: 'guise' }
+lexer got 64 tokens
+first token is  { value: 'guise\'s' }
+last token is  { value: 'gumption\'s' }
+lexer got 64 tokens
+first token is  { value: 'gums' }
+last token is  { value: 'gurgling' }
+lexer got 64 tokens
+first token is  { value: 'gurkha' }
+last token is  { value: 'gutsy' }
+lexer got 64 tokens
+first token is  { value: 'gutural' }
+last token is  { value: 'gyps' }
+lexer got 64 tokens
+first token is  { value: 'gypsies' }
+last token is  { value: 'hacienda\'s' }
+lexer got 64 tokens
+first token is  { value: 'haciendas' }
+last token is  { value: 'hague' }
+lexer got 64 tokens
+first token is  { value: 'hah' }
+last token is  { value: 'hairsprings' }
+lexer got 64 tokens
+first token is  { value: 'hairstyle' }
+last token is  { value: 'halibut' }
+lexer got 64 tokens
+first token is  { value: 'halibut\'s' }
+last token is  { value: 'halucinogenics' }
+lexer got 64 tokens
+first token is  { value: 'halucinogens' }
+last token is  { value: 'hampshire' }
+lexer got 64 tokens
+first token is  { value: 'hampshire\'s' }
+last token is  { value: 'handicapers' }
+lexer got 64 tokens
+first token is  { value: 'handicaping' }
+last token is  { value: 'handstand' }
+lexer got 64 tokens
+first token is  { value: 'handstand\'s' }
+last token is  { value: 'hanoi\'s' }
+lexer got 64 tokens
+first token is  { value: 'hanover' }
+last token is  { value: 'hardbal' }
+lexer got 64 tokens
+first token is  { value: 'hardbal\'s' }
+last token is  { value: 'harems' }
+lexer got 64 tokens
+first token is  { value: 'hares' }
+last token is  { value: 'harmoniously' }
+lexer got 64 tokens
+first token is  { value: 'harmoniousnes' }
+last token is  { value: 'harvard\'s' }
+lexer got 64 tokens
+first token is  { value: 'harvest' }
+last token is  { value: 'hatchbacks' }
+lexer got 64 tokens
+first token is  { value: 'hatched' }
+last token is  { value: 'hauntingly' }
+lexer got 64 tokens
+first token is  { value: 'haunts' }
+last token is  { value: 'hayden' }
+lexer got 64 tokens
+first token is  { value: 'hayden\'s' }
+last token is  { value: 'head\'s' }
+lexer got 64 tokens
+first token is  { value: 'head\'s' }
+last token is  { value: 'headset\'s' }
+lexer got 64 tokens
+first token is  { value: 'headsets' }
+last token is  { value: 'heart\'s' }
+lexer got 64 tokens
+first token is  { value: 'heartache' }
+last token is  { value: 'heaths' }
+lexer got 64 tokens
+first token is  { value: 'heating' }
+last token is  { value: 'hectors' }
+lexer got 64 tokens
+first token is  { value: 'hecuba' }
+last token is  { value: 'heights' }
+lexer got 64 tokens
+first token is  { value: 'heimlich' }
+last token is  { value: 'helical' }
+lexer got 64 tokens
+first token is  { value: 'helices' }
+last token is  { value: 'helpmate\'s' }
+lexer got 64 tokens
+first token is  { value: 'helpmates' }
+last token is  { value: 'henas' }
+lexer got 64 tokens
+first token is  { value: 'hence' }
+last token is  { value: 'herbal' }
+lexer got 64 tokens
+first token is  { value: 'herbalist' }
+last token is  { value: 'heringbone' }
+lexer got 64 tokens
+first token is  { value: 'heringbone\'s' }
+last token is  { value: 'hersey\'s' }
+lexer got 64 tokens
+first token is  { value: 'hershel' }
+last token is  { value: 'hewn' }
+lexer got 64 tokens
+first token is  { value: 'hews' }
+last token is  { value: 'hicough' }
+lexer got 64 tokens
+first token is  { value: 'hicough\'s' }
+last token is  { value: 'highjacked' }
+lexer got 64 tokens
+first token is  { value: 'highjacker' }
+last token is  { value: 'hilarity\'s' }
+lexer got 64 tokens
+first token is  { value: 'hilary' }
+last token is  { value: 'hinduisms' }
+lexer got 64 tokens
+first token is  { value: 'hindus' }
+last token is  { value: 'his\'s' }
+lexer got 64 tokens
+first token is  { value: 'hised' }
+last token is  { value: 'hmong' }
+lexer got 64 tokens
+first token is  { value: 'ho' }
+last token is  { value: 'hobo\'s' }
+lexer got 64 tokens
+first token is  { value: 'hoboes' }
+last token is  { value: 'hoey\'s' }
+lexer got 64 tokens
+first token is  { value: 'hof' }
+last token is  { value: 'hoks' }
+lexer got 64 tokens
+first token is  { value: 'hokum' }
+last token is  { value: 'holigan' }
+lexer got 64 tokens
+first token is  { value: 'holigan\'s' }
+last token is  { value: 'homburg\'s' }
+lexer got 64 tokens
+first token is  { value: 'homburgs' }
+last token is  { value: 'homesteads' }
+lexer got 64 tokens
+first token is  { value: 'homestretch' }
+last token is  { value: 'honchos' }
+lexer got 64 tokens
+first token is  { value: 'honda' }
+last token is  { value: 'honorarium' }
+lexer got 64 tokens
+first token is  { value: 'honorarium\'s' }
+last token is  { value: 'horay' }
+lexer got 64 tokens
+first token is  { value: 'horay\'s' }
+last token is  { value: 'horse\'s' }
+lexer got 64 tokens
+first token is  { value: 'horseback' }
+last token is  { value: 'hosed' }
+lexer got 64 tokens
+first token is  { value: 'hoses' }
+last token is  { value: 'hotbed' }
+lexer got 64 tokens
+first token is  { value: 'hotbed\'s' }
+last token is  { value: 'housebound' }
+lexer got 64 tokens
+first token is  { value: 'housebreak' }
+last token is  { value: 'hove' }
+lexer got 64 tokens
+first token is  { value: 'hovel' }
+last token is  { value: 'hubris\'s' }
+lexer got 64 tokens
+first token is  { value: 'hubs' }
+last token is  { value: 'huguenot\'s' }
+lexer got 64 tokens
+first token is  { value: 'huguenots' }
+last token is  { value: 'humanoids' }
+lexer got 64 tokens
+first token is  { value: 'humans' }
+last token is  { value: 'humored' }
+lexer got 64 tokens
+first token is  { value: 'humoring' }
+last token is  { value: 'hunk' }
+lexer got 64 tokens
+first token is  { value: 'hunk\'s' }
+last token is  { value: 'hurley\'s' }
+lexer got 64 tokens
+first token is  { value: 'hurling' }
+last token is  { value: 'huston' }
+lexer got 64 tokens
+first token is  { value: 'husy' }
+last token is  { value: 'hydrofoil' }
+lexer got 64 tokens
+first token is  { value: 'hydrofoil\'s' }
+last token is  { value: 'hyperbola' }
+lexer got 64 tokens
+first token is  { value: 'hyperbola\'s' }
+last token is  { value: 'hypochondriac\'s' }
+lexer got 64 tokens
+first token is  { value: 'hypochondriacs' }
+last token is  { value: 'iago\'s' }
+lexer got 64 tokens
+first token is  { value: 'iamb' }
+last token is  { value: 'icicles' }
+lexer got 64 tokens
+first token is  { value: 'icier' }
+last token is  { value: 'identity\'s' }
+lexer got 64 tokens
+first token is  { value: 'ideogram' }
+last token is  { value: 'idylic' }
+lexer got 64 tokens
+first token is  { value: 'idyls' }
+last token is  { value: 'ilegal' }
+lexer got 64 tokens
+first token is  { value: 'ilegal\'s' }
+last token is  { value: 'ilustrative' }
+lexer got 64 tokens
+first token is  { value: 'ilustrator' }
+last token is  { value: 'imbued' }
+lexer got 64 tokens
+first token is  { value: 'imbues' }
+last token is  { value: 'imodesty' }
+lexer got 64 tokens
+first token is  { value: 'imodesty\'s' }
+last token is  { value: 'imparting' }
+lexer got 64 tokens
+first token is  { value: 'imparts' }
+last token is  { value: 'imperfection' }
+lexer got 64 tokens
+first token is  { value: 'imperfection\'s' }
+last token is  { value: 'impinge' }
+lexer got 64 tokens
+first token is  { value: 'impinged' }
+last token is  { value: 'impolitenes' }
+lexer got 64 tokens
+first token is  { value: 'impolitenes\'s' }
+last token is  { value: 'impoverishment' }
+lexer got 64 tokens
+first token is  { value: 'impoverishment\'s' }
+last token is  { value: 'improbable' }
+lexer got 64 tokens
+first token is  { value: 'improbably' }
+last token is  { value: 'impute' }
+lexer got 64 tokens
+first token is  { value: 'imputed' }
+last token is  { value: 'inamoratas' }
+lexer got 64 tokens
+first token is  { value: 'inane' }
+last token is  { value: 'incapacitating' }
+lexer got 64 tokens
+first token is  { value: 'incapacity' }
+last token is  { value: 'incinerators' }
+lexer got 64 tokens
+first token is  { value: 'incipient' }
+last token is  { value: 'incomes' }
+lexer got 64 tokens
+first token is  { value: 'incoming' }
+last token is  { value: 'inconvenient' }
+lexer got 64 tokens
+first token is  { value: 'inconveniently' }
+last token is  { value: 'incubus\'s' }
+lexer got 64 tokens
+first token is  { value: 'incubuses' }
+last token is  { value: 'indemnification\'s' }
+lexer got 64 tokens
+first token is  { value: 'indemnifications' }
+last token is  { value: 'indicative\'s' }
+lexer got 64 tokens
+first token is  { value: 'indicatives' }
+last token is  { value: 'indistinctly' }
+lexer got 64 tokens
+first token is  { value: 'indistinctnes' }
+last token is  { value: 'inducing' }
+lexer got 64 tokens
+first token is  { value: 'induct' }
+last token is  { value: 'inefectivenes' }
+lexer got 64 tokens
+first token is  { value: 'inefectivenes\'s' }
+last token is  { value: 'inexpensively' }
+lexer got 64 tokens
+first token is  { value: 'inexperience' }
+last token is  { value: 'inference\'s' }
+lexer got 64 tokens
+first token is  { value: 'inferences' }
+last token is  { value: 'infirmary' }
+lexer got 64 tokens
+first token is  { value: 'infirmary\'s' }
+last token is  { value: 'informal' }
+lexer got 64 tokens
+first token is  { value: 'informality' }
+last token is  { value: 'ingestion' }
+lexer got 64 tokens
+first token is  { value: 'ingestion\'s' }
+last token is  { value: 'inherently' }
+lexer got 64 tokens
+first token is  { value: 'inheres' }
+last token is  { value: 'initiator\'s' }
+lexer got 64 tokens
+first token is  { value: 'initiators' }
+last token is  { value: 'inocence' }
+lexer got 64 tokens
+first token is  { value: 'inocence\'s' }
+last token is  { value: 'inquisition\'s' }
+lexer got 64 tokens
+first token is  { value: 'inquisitions' }
+last token is  { value: 'insentience' }
+lexer got 64 tokens
+first token is  { value: 'insentience\'s' }
+last token is  { value: 'insistently' }
+lexer got 64 tokens
+first token is  { value: 'insisting' }
+last token is  { value: 'instamatic\'s' }
+lexer got 64 tokens
+first token is  { value: 'instance' }
+last token is  { value: 'instrumental' }
+lexer got 64 tokens
+first token is  { value: 'instrumental\'s' }
+last token is  { value: 'insurgencies' }
+lexer got 64 tokens
+first token is  { value: 'insurgency' }
+last token is  { value: 'intemperance\'s' }
+lexer got 64 tokens
+first token is  { value: 'intemperate' }
+last token is  { value: 'interceptions' }
+lexer got 64 tokens
+first token is  { value: 'interceptor' }
+last token is  { value: 'interfaced' }
+lexer got 64 tokens
+first token is  { value: 'interfaces' }
+last token is  { value: 'intermarying' }
+lexer got 64 tokens
+first token is  { value: 'intermediaries' }
+last token is  { value: 'internment\'s' }
+lexer got 64 tokens
+first token is  { value: 'interns' }
+last token is  { value: 'interspersing' }
+lexer got 64 tokens
+first token is  { value: 'interstate' }
+last token is  { value: 'intimations' }
+lexer got 64 tokens
+first token is  { value: 'intimidate' }
+last token is  { value: 'intriguingly' }
+lexer got 64 tokens
+first token is  { value: 'intrinsic' }
+last token is  { value: 'inured' }
+lexer got 64 tokens
+first token is  { value: 'inures' }
+last token is  { value: 'inverse\'s' }
+lexer got 64 tokens
+first token is  { value: 'inversely' }
+last token is  { value: 'invitations' }
+lexer got 64 tokens
+first token is  { value: 'invite' }
+last token is  { value: 'iota' }
+lexer got 64 tokens
+first token is  { value: 'iota\'s' }
+last token is  { value: 'iregardles' }
+lexer got 64 tokens
+first token is  { value: 'iregular' }
+last token is  { value: 'irish\'s' }
+lexer got 64 tokens
+first token is  { value: 'irisher' }
+last token is  { value: 'irwin\'s' }
+lexer got 64 tokens
+first token is  { value: 'is' }
+last token is  { value: 'isolates' }
+lexer got 64 tokens
+first token is  { value: 'isolating' }
+last token is  { value: 'itasca' }
+lexer got 64 tokens
+first token is  { value: 'itasca\'s' }
+last token is  { value: 'izanagi' }
+lexer got 64 tokens
+first token is  { value: 'izanagi\'s' }
+last token is  { value: 'jackpots' }
+lexer got 64 tokens
+first token is  { value: 'jackrabit' }
+last token is  { value: 'jailer' }
+lexer got 64 tokens
+first token is  { value: 'jailer\'s' }
+last token is  { value: 'jana\'s' }
+lexer got 64 tokens
+first token is  { value: 'jana\'s' }
+last token is  { value: 'jardinière\'s' }
+lexer got 64 tokens
+first token is  { value: 'jardinières' }
+last token is  { value: 'jawboning' }
+lexer got 64 tokens
+first token is  { value: 'jawbreaker' }
+last token is  { value: 'jef' }
+lexer got 64 tokens
+first token is  { value: 'jef\'s' }
+last token is  { value: 'jeps' }
+lexer got 64 tokens
+first token is  { value: 'jer' }
+last token is  { value: 'jesica\'s' }
+lexer got 64 tokens
+first token is  { value: 'jesie' }
+last token is  { value: 'jfk\'s' }
+lexer got 64 tokens
+first token is  { value: 'jib' }
+last token is  { value: 'jinan' }
+lexer got 64 tokens
+first token is  { value: 'jingle' }
+last token is  { value: 'job\'s' }
+lexer got 64 tokens
+first token is  { value: 'jobed' }
+last token is  { value: 'jogle\'s' }
+lexer got 64 tokens
+first token is  { value: 'jogled' }
+last token is  { value: 'jolines' }
+lexer got 64 tokens
+first token is  { value: 'jolines\'s' }
+last token is  { value: 'jostle' }
+lexer got 64 tokens
+first token is  { value: 'jostle\'s' }
+last token is  { value: 'joyful' }
+lexer got 64 tokens
+first token is  { value: 'joyfuler' }
+last token is  { value: 'judgements' }
+lexer got 64 tokens
+first token is  { value: 'judges' }
+last token is  { value: 'jujube\'s' }
+lexer got 64 tokens
+first token is  { value: 'jujubes' }
+last token is  { value: 'junctions' }
+lexer got 64 tokens
+first token is  { value: 'juncture' }
+last token is  { value: 'jurist' }
+lexer got 64 tokens
+first token is  { value: 'jurist\'s' }
+last token is  { value: 'kabom' }
+lexer got 64 tokens
+first token is  { value: 'kabul' }
+last token is  { value: 'kant' }
+lexer got 64 tokens
+first token is  { value: 'kant\'s' }
+last token is  { value: 'kasparov\'s' }
+lexer got 64 tokens
+first token is  { value: 'kate' }
+last token is  { value: 'kazantzakis' }
+lexer got 64 tokens
+first token is  { value: 'kazo' }
+last token is  { value: 'kened' }
+lexer got 64 tokens
+first token is  { value: 'kenedy' }
+last token is  { value: 'keratin\'s' }
+lexer got 64 tokens
+first token is  { value: 'kerchief' }
+last token is  { value: 'keynes\'s' }
+lexer got 64 tokens
+first token is  { value: 'keynesian' }
+last token is  { value: 'kibitzed' }
+lexer got 64 tokens
+first token is  { value: 'kibitzer' }
+last token is  { value: 'kidos' }
+lexer got 64 tokens
+first token is  { value: 'kids' }
+last token is  { value: 'kilroy' }
+lexer got 64 tokens
+first token is  { value: 'kilroy\'s' }
+last token is  { value: 'kingdoms' }
+lexer got 64 tokens
+first token is  { value: 'kingfisher' }
+last token is  { value: 'kirk' }
+lexer got 64 tokens
+first token is  { value: 'kirkland' }
+last token is  { value: 'klan\'s' }
+lexer got 64 tokens
+first token is  { value: 'klansman' }
+last token is  { value: 'kneing' }
+lexer got 64 tokens
+first token is  { value: 'knel' }
+last token is  { value: 'knocking' }
+lexer got 64 tokens
+first token is  { value: 'knockout' }
+last token is  { value: 'kodiak\'s' }
+lexer got 64 tokens
+first token is  { value: 'koestler' }
+last token is  { value: 'kowlon' }
+lexer got 64 tokens
+first token is  { value: 'kowtow' }
+last token is  { value: 'krypton\'s' }
+lexer got 64 tokens
+first token is  { value: 'krystal' }
+last token is  { value: 'kyushu\'s' }
+lexer got 64 tokens
+first token is  { value: 'köln' }
+last token is  { value: 'lacey' }
+lexer got 64 tokens
+first token is  { value: 'lacey\'s' }
+last token is  { value: 'ladle' }
+lexer got 64 tokens
+first token is  { value: 'ladle\'s' }
+last token is  { value: 'lakisha' }
+lexer got 64 tokens
+first token is  { value: 'lakisha\'s' }
+last token is  { value: 'lamentation\'s' }
+lexer got 64 tokens
+first token is  { value: 'lamentations' }
+last token is  { value: 'landed' }
+lexer got 64 tokens
+first token is  { value: 'lander' }
+last token is  { value: 'langerhans\'s' }
+lexer got 64 tokens
+first token is  { value: 'langland' }
+last token is  { value: 'lapland' }
+lexer got 64 tokens
+first token is  { value: 'lapland\'s' }
+last token is  { value: 'larkspur\'s' }
+lexer got 64 tokens
+first token is  { value: 'larkspurs' }
+last token is  { value: 'lasting' }
+lexer got 64 tokens
+first token is  { value: 'lastingly' }
+last token is  { value: 'latino\'s' }
+lexer got 64 tokens
+first token is  { value: 'latinos' }
+last token is  { value: 'launders' }
+lexer got 64 tokens
+first token is  { value: 'laundres' }
+last token is  { value: 'lawbreakers' }
+lexer got 64 tokens
+first token is  { value: 'lawful' }
+last token is  { value: 'layouts' }
+lexer got 64 tokens
+first token is  { value: 'layover' }
+last token is  { value: 'leads' }
+lexer got 64 tokens
+first token is  { value: 'leaf' }
+last token is  { value: 'leaping' }
+lexer got 64 tokens
+first token is  { value: 'leaps' }
+last token is  { value: 'lebesgue\'s' }
+lexer got 64 tokens
+first token is  { value: 'leblanc' }
+last token is  { value: 'legacies' }
+lexer got 64 tokens
+first token is  { value: 'legacy' }
+last token is  { value: 'legislates' }
+lexer got 64 tokens
+first token is  { value: 'legislating' }
+last token is  { value: 'leitmotif\'s' }
+lexer got 64 tokens
+first token is  { value: 'leitmotifs' }
+last token is  { value: 'leningrad\'s' }
+lexer got 64 tokens
+first token is  { value: 'leninism' }
+last token is  { value: 'leprechaun' }
+lexer got 64 tokens
+first token is  { value: 'leprechaun\'s' }
+last token is  { value: 'leta' }
+lexer got 64 tokens
+first token is  { value: 'leta\'s' }
+last token is  { value: 'levelnes\'s' }
+lexer got 64 tokens
+first token is  { value: 'levels' }
+last token is  { value: 'lexicographer\'s' }
+lexer got 64 tokens
+first token is  { value: 'lexicographers' }
+last token is  { value: 'liberalizes' }
+lexer got 64 tokens
+first token is  { value: 'liberalizing' }
+last token is  { value: 'license' }
+lexer got 64 tokens
+first token is  { value: 'license\'s' }
+last token is  { value: 'lieutenant\'s' }
+lexer got 64 tokens
+first token is  { value: 'lieutenants' }
+last token is  { value: 'lightest' }
+lexer got 64 tokens
+first token is  { value: 'lightheaded' }
+last token is  { value: 'liliana' }
+lexer got 64 tokens
+first token is  { value: 'liliana\'s' }
+last token is  { value: 'limited' }
+lexer got 64 tokens
+first token is  { value: 'limiting' }
+last token is  { value: 'lineage' }
+lexer got 64 tokens
+first token is  { value: 'lineage\'s' }
+last token is  { value: 'link\'s' }
+lexer got 64 tokens
+first token is  { value: 'linkage' }
+last token is  { value: 'lipton\'s' }
+lexer got 64 tokens
+first token is  { value: 'liquefaction' }
+last token is  { value: 'listener\'s' }
+lexer got 64 tokens
+first token is  { value: 'listeners' }
+last token is  { value: 'lithographing' }
+lexer got 64 tokens
+first token is  { value: 'lithographs' }
+last token is  { value: 'liver\'s' }
+lexer got 64 tokens
+first token is  { value: 'liveried' }
+last token is  { value: 'loafer\'s' }
+lexer got 64 tokens
+first token is  { value: 'loafers' }
+last token is  { value: 'localization' }
+lexer got 64 tokens
+first token is  { value: 'localization\'s' }
+last token is  { value: 'locution\'s' }
+lexer got 64 tokens
+first token is  { value: 'locutions' }
+last token is  { value: 'loges' }
+lexer got 64 tokens
+first token is  { value: 'logic' }
+last token is  { value: 'lolipop' }
+lexer got 64 tokens
+first token is  { value: 'lolipop\'s' }
+last token is  { value: 'longhair\'s' }
+lexer got 64 tokens
+first token is  { value: 'longhairs' }
+last token is  { value: 'loraine' }
+lexer got 64 tokens
+first token is  { value: 'loraine\'s' }
+last token is  { value: 'losers' }
+lexer got 64 tokens
+first token is  { value: 'loses' }
+last token is  { value: 'louisiana\'s' }
+lexer got 64 tokens
+first token is  { value: 'louisianan' }
+last token is  { value: 'lovingly' }
+lexer got 64 tokens
+first token is  { value: 'low' }
+last token is  { value: 'lt' }
+lexer got 64 tokens
+first token is  { value: 'ltd' }
+last token is  { value: 'luck' }
+lexer got 64 tokens
+first token is  { value: 'luck\'s' }
+last token is  { value: 'lulabies' }
+lexer got 64 tokens
+first token is  { value: 'lulaby' }
+last token is  { value: 'lunchbox' }
+lexer got 64 tokens
+first token is  { value: 'lunched' }
+last token is  { value: 'lush\'s' }
+lexer got 64 tokens
+first token is  { value: 'lusher' }
+last token is  { value: 'lyceum\'s' }
+lexer got 64 tokens
+first token is  { value: 'lyceums' }
+last token is  { value: 'lyricaly' }
+lexer got 64 tokens
+first token is  { value: 'lyricist' }
+last token is  { value: 'maces' }
+lexer got 64 tokens
+first token is  { value: 'mach' }
+last token is  { value: 'macron\'s' }
+lexer got 64 tokens
+first token is  { value: 'macrons' }
+last token is  { value: 'madox\'s' }
+lexer got 64 tokens
+first token is  { value: 'madras' }
+last token is  { value: 'magnanimity' }
+lexer got 64 tokens
+first token is  { value: 'magnanimity\'s' }
+last token is  { value: 'magyar' }
+lexer got 64 tokens
+first token is  { value: 'magyar\'s' }
+last token is  { value: 'maigret' }
+lexer got 64 tokens
+first token is  { value: 'maigret\'s' }
+last token is  { value: 'maintained' }
+lexer got 64 tokens
+first token is  { value: 'maintainer' }
+last token is  { value: 'maladjustment\'s' }
+lexer got 64 tokens
+first token is  { value: 'maladroit' }
+last token is  { value: 'males' }
+lexer got 64 tokens
+first token is  { value: 'malet' }
+last token is  { value: 'malows' }
+lexer got 64 tokens
+first token is  { value: 'malox' }
+last token is  { value: 'mamoth' }
+lexer got 64 tokens
+first token is  { value: 'mamoth\'s' }
+last token is  { value: 'mandingo' }
+lexer got 64 tokens
+first token is  { value: 'mandolin' }
+last token is  { value: 'manhandle' }
+lexer got 64 tokens
+first token is  { value: 'manhandled' }
+last token is  { value: 'manila\'s' }
+lexer got 64 tokens
+first token is  { value: 'manilas' }
+last token is  { value: 'mantila' }
+lexer got 64 tokens
+first token is  { value: 'mantila\'s' }
+last token is  { value: 'maoris' }
+lexer got 64 tokens
+first token is  { value: 'map' }
+last token is  { value: 'marcelo\'s' }
+lexer got 64 tokens
+first token is  { value: 'march' }
+last token is  { value: 'marguerite' }
+lexer got 64 tokens
+first token is  { value: 'marguerite\'s' }
+last token is  { value: 'marine\'s' }
+lexer got 64 tokens
+first token is  { value: 'mariner' }
+last token is  { value: 'markham' }
+lexer got 64 tokens
+first token is  { value: 'marking' }
+last token is  { value: 'marquez' }
+lexer got 64 tokens
+first token is  { value: 'marquez\'s' }
+last token is  { value: 'martinets' }
+lexer got 64 tokens
+first token is  { value: 'martinez' }
+last token is  { value: 'masachusets' }
+lexer got 64 tokens
+first token is  { value: 'masacre' }
+last token is  { value: 'masked' }
+lexer got 64 tokens
+first token is  { value: 'masking' }
+last token is  { value: 'masthead' }
+lexer got 64 tokens
+first token is  { value: 'masthead\'s' }
+last token is  { value: 'materhorn\'s' }
+lexer got 64 tokens
+first token is  { value: 'material' }
+last token is  { value: 'matreses' }
+lexer got 64 tokens
+first token is  { value: 'matriarch' }
+last token is  { value: 'mauls' }
+lexer got 64 tokens
+first token is  { value: 'maunder' }
+last token is  { value: 'maximization' }
+lexer got 64 tokens
+first token is  { value: 'maximization\'s' }
+last token is  { value: 'mazama\'s' }
+lexer got 64 tokens
+first token is  { value: 'mazarin' }
+last token is  { value: 'mci' }
+lexer got 64 tokens
+first token is  { value: 'mci\'s' }
+last token is  { value: 'meadow\'s' }
+lexer got 64 tokens
+first token is  { value: 'meadowlark' }
+last token is  { value: 'meat\'s' }
+lexer got 64 tokens
+first token is  { value: 'meatbal' }
+last token is  { value: 'medic' }
+lexer got 64 tokens
+first token is  { value: 'medic\'s' }
+last token is  { value: 'meg' }
+lexer got 64 tokens
+first token is  { value: 'meg' }
+last token is  { value: 'melanesia' }
+lexer got 64 tokens
+first token is  { value: 'melanesia\'s' }
+last token is  { value: 'melpomene' }
+lexer got 64 tokens
+first token is  { value: 'melpomene\'s' }
+last token is  { value: 'memphis\'s' }
+lexer got 64 tokens
+first token is  { value: 'men' }
+last token is  { value: 'menkent' }
+lexer got 64 tokens
+first token is  { value: 'menkent\'s' }
+last token is  { value: 'mercator' }
+lexer got 64 tokens
+first token is  { value: 'mercedes' }
+last token is  { value: 'merick' }
+lexer got 64 tokens
+first token is  { value: 'merick\'s' }
+last token is  { value: 'mesabi' }
+lexer got 64 tokens
+first token is  { value: 'mesabi\'s' }
+last token is  { value: 'metabolic' }
+lexer got 64 tokens
+first token is  { value: 'metabolism' }
+last token is  { value: 'meteoroid' }
+lexer got 64 tokens
+first token is  { value: 'meteoroid\'s' }
+last token is  { value: 'metro\'s' }
+lexer got 64 tokens
+first token is  { value: 'metronome' }
+last token is  { value: 'micawber' }
+lexer got 64 tokens
+first token is  { value: 'mice' }
+last token is  { value: 'micrometer\'s' }
+lexer got 64 tokens
+first token is  { value: 'micrometers' }
+last token is  { value: 'midleweight' }
+lexer got 64 tokens
+first token is  { value: 'midleweight\'s' }
+last token is  { value: 'might' }
+lexer got 64 tokens
+first token is  { value: 'might\'s' }
+last token is  { value: 'mile' }
+lexer got 64 tokens
+first token is  { value: 'mile\'s' }
+last token is  { value: 'milionth' }
+lexer got 64 tokens
+first token is  { value: 'milionth\'s' }
+last token is  { value: 'milksops' }
+lexer got 64 tokens
+first token is  { value: 'milkwed' }
+last token is  { value: 'minarets' }
+lexer got 64 tokens
+first token is  { value: 'minatory' }
+last token is  { value: 'mingle' }
+lexer got 64 tokens
+first token is  { value: 'mingled' }
+last token is  { value: 'miniseries\'s' }
+lexer got 64 tokens
+first token is  { value: 'miniskirt' }
+last token is  { value: 'minty' }
+lexer got 64 tokens
+first token is  { value: 'minuend' }
+last token is  { value: 'miroring' }
+lexer got 64 tokens
+first token is  { value: 'mirors' }
+last token is  { value: 'miscalculation\'s' }
+lexer got 64 tokens
+first token is  { value: 'miscalculations' }
+last token is  { value: 'misdealing' }
+lexer got 64 tokens
+first token is  { value: 'misdeals' }
+last token is  { value: 'misguided' }
+lexer got 64 tokens
+first token is  { value: 'misguidedly' }
+last token is  { value: 'mislaid' }
+lexer got 64 tokens
+first token is  { value: 'mislay' }
+last token is  { value: 'mispronunciations' }
+lexer got 64 tokens
+first token is  { value: 'misquotation' }
+last token is  { value: 'mistreat' }
+lexer got 64 tokens
+first token is  { value: 'mistreated' }
+last token is  { value: 'mithridates' }
+lexer got 64 tokens
+first token is  { value: 'mithridates\'s' }
+last token is  { value: 'mobiles' }
+lexer got 64 tokens
+first token is  { value: 'mobility' }
+last token is  { value: 'modems' }
+lexer got 64 tokens
+first token is  { value: 'moderate' }
+last token is  { value: 'modulation' }
+lexer got 64 tokens
+first token is  { value: 'modulation\'s' }
+last token is  { value: 'moister' }
+lexer got 64 tokens
+first token is  { value: 'moistest' }
+last token is  { value: 'molesters' }
+lexer got 64 tokens
+first token is  { value: 'molesting' }
+last token is  { value: 'momy' }
+lexer got 64 tokens
+first token is  { value: 'momy\'s' }
+last token is  { value: 'monger\'s' }
+lexer got 64 tokens
+first token is  { value: 'mongered' }
+last token is  { value: 'mono' }
+lexer got 64 tokens
+first token is  { value: 'mono\'s' }
+last token is  { value: 'monosylables' }
+lexer got 64 tokens
+first token is  { value: 'monotheism' }
+last token is  { value: 'montages' }
+lexer got 64 tokens
+first token is  { value: 'montague' }
+last token is  { value: 'mor' }
+lexer got 64 tokens
+first token is  { value: 'mor\'s' }
+last token is  { value: 'moribund' }
+lexer got 64 tokens
+first token is  { value: 'morin' }
+last token is  { value: 'morse' }
+lexer got 64 tokens
+first token is  { value: 'morse\'s' }
+last token is  { value: 'mos\'s' }
+lexer got 64 tokens
+first token is  { value: 'mosaic' }
+last token is  { value: 'motherfucking' }
+lexer got 64 tokens
+first token is  { value: 'motherhod' }
+last token is  { value: 'motorcade' }
+lexer got 64 tokens
+first token is  { value: 'motorcade\'s' }
+last token is  { value: 'mountaintops' }
+lexer got 64 tokens
+first token is  { value: 'mountbaten' }
+last token is  { value: 'mouthpieces' }
+lexer got 64 tokens
+first token is  { value: 'mouths' }
+last token is  { value: 'muawiya' }
+lexer got 64 tokens
+first token is  { value: 'muawiya\'s' }
+last token is  { value: 'mufin\'s' }
+lexer got 64 tokens
+first token is  { value: 'mufing' }
+last token is  { value: 'mule\'s' }
+lexer got 64 tokens
+first token is  { value: 'muled' }
+last token is  { value: 'multiplexors' }
+lexer got 64 tokens
+first token is  { value: 'multiplicand' }
+last token is  { value: 'munch' }
+lexer got 64 tokens
+first token is  { value: 'munched' }
+last token is  { value: 'murkily' }
+lexer got 64 tokens
+first token is  { value: 'murkines' }
+last token is  { value: 'mushromed' }
+lexer got 64 tokens
+first token is  { value: 'mushroming' }
+last token is  { value: 'musorgsky' }
+lexer got 64 tokens
+first token is  { value: 'must' }
+last token is  { value: 'mutinied' }
+lexer got 64 tokens
+first token is  { value: 'mutinies' }
+last token is  { value: 'mysore' }
+lexer got 64 tokens
+first token is  { value: 'myspace' }
+last token is  { value: 'nachos' }
+lexer got 64 tokens
+first token is  { value: 'nacre' }
+last token is  { value: 'names' }
+lexer got 64 tokens
+first token is  { value: 'namesake' }
+last token is  { value: 'napkins' }
+lexer got 64 tokens
+first token is  { value: 'naples' }
+last token is  { value: 'narwhal' }
+lexer got 64 tokens
+first token is  { value: 'narwhal\'s' }
+last token is  { value: 'nationalities' }
+lexer got 64 tokens
+first token is  { value: 'nationality' }
+last token is  { value: 'nauseous' }
+lexer got 64 tokens
+first token is  { value: 'nautical' }
+last token is  { value: 'nd' }
+lexer got 64 tokens
+first token is  { value: 'nd\'s' }
+last token is  { value: 'necking' }
+lexer got 64 tokens
+first token is  { value: 'necklace' }
+last token is  { value: 'negatively' }
+lexer got 64 tokens
+first token is  { value: 'negatives' }
+last token is  { value: 'neil\'s' }
+lexer got 64 tokens
+first token is  { value: 'neither' }
+last token is  { value: 'nerd' }
+lexer got 64 tokens
+first token is  { value: 'nerd\'s' }
+last token is  { value: 'netling' }
+lexer got 64 tokens
+first token is  { value: 'nets' }
+last token is  { value: 'neutrons' }
+lexer got 64 tokens
+first token is  { value: 'nev' }
+last token is  { value: 'newsleter\'s' }
+lexer got 64 tokens
+first token is  { value: 'newsleters' }
+last token is  { value: 'nibles' }
+lexer got 64 tokens
+first token is  { value: 'nibling' }
+last token is  { value: 'nicolo' }
+lexer got 64 tokens
+first token is  { value: 'nicolo\'s' }
+last token is  { value: 'nightingale' }
+lexer got 64 tokens
+first token is  { value: 'nightingale' }
+last token is  { value: 'nina' }
+lexer got 64 tokens
+first token is  { value: 'nina\'s' }
+last token is  { value: 'nit\'s' }
+lexer got 64 tokens
+first token is  { value: 'nita' }
+last token is  { value: 'noblewoman\'s' }
+lexer got 64 tokens
+first token is  { value: 'noblewomen' }
+last token is  { value: 'noisines\'s' }
+lexer got 64 tokens
+first token is  { value: 'noising' }
+last token is  { value: 'noncombatants' }
+lexer got 64 tokens
+first token is  { value: 'noncomercial' }
+last token is  { value: 'nonliving' }
+lexer got 64 tokens
+first token is  { value: 'nonliving\'s' }
+last token is  { value: 'nonstop' }
+lexer got 64 tokens
+first token is  { value: 'nonsuport' }
+last token is  { value: 'normandy\'s' }
+lexer got 64 tokens
+first token is  { value: 'normans' }
+last token is  { value: 'nosebled' }
+lexer got 64 tokens
+first token is  { value: 'nosebled\'s' }
+last token is  { value: 'noteboks' }
+lexer got 64 tokens
+first token is  { value: 'noted' }
+last token is  { value: 'nova' }
+lexer got 64 tokens
+first token is  { value: 'nova\'s' }
+last token is  { value: 'nub' }
+lexer got 64 tokens
+first token is  { value: 'nub\'s' }
+last token is  { value: 'numbnes' }
+lexer got 64 tokens
+first token is  { value: 'numbnes\'s' }
+last token is  { value: 'nurseryman' }
+lexer got 64 tokens
+first token is  { value: 'nurseryman\'s' }
+last token is  { value: 'nyerere' }
+lexer got 64 tokens
+first token is  { value: 'nyerere\'s' }
+last token is  { value: 'oat' }
+lexer got 64 tokens
+first token is  { value: 'oat\'s' }
+last token is  { value: 'objective' }
+lexer got 64 tokens
+first token is  { value: 'objective\'s' }
+last token is  { value: 'obscenities' }
+lexer got 64 tokens
+first token is  { value: 'obscenity' }
+last token is  { value: 'obstetric' }
+lexer got 64 tokens
+first token is  { value: 'obstetrical' }
+last token is  { value: 'ocasioned' }
+lexer got 64 tokens
+first token is  { value: 'ocasioning' }
+last token is  { value: 'october\'s' }
+lexer got 64 tokens
+first token is  { value: 'octobers' }
+last token is  { value: 'odium\'s' }
+lexer got 64 tokens
+first token is  { value: 'odles' }
+last token is  { value: 'ofers' }
+lexer got 64 tokens
+first token is  { value: 'ofertories' }
+last token is  { value: 'oglethorpe' }
+lexer got 64 tokens
+first token is  { value: 'ogling' }
+last token is  { value: 'oklahoman' }
+lexer got 64 tokens
+first token is  { value: 'okra' }
+last token is  { value: 'olives' }
+lexer got 64 tokens
+first token is  { value: 'oliveti' }
+last token is  { value: 'omnipotence' }
+lexer got 64 tokens
+first token is  { value: 'omnipotence\'s' }
+last token is  { value: 'onset\'s' }
+lexer got 64 tokens
+first token is  { value: 'onsets' }
+last token is  { value: 'operate' }
+lexer got 64 tokens
+first token is  { value: 'operated' }
+last token is  { value: 'oposum\'s' }
+lexer got 64 tokens
+first token is  { value: 'oposums' }
+last token is  { value: 'opulent' }
+lexer got 64 tokens
+first token is  { value: 'opus' }
+last token is  { value: 'orbits' }
+lexer got 64 tokens
+first token is  { value: 'orbs' }
+last token is  { value: 'oregonian' }
+lexer got 64 tokens
+first token is  { value: 'oregonian\'s' }
+last token is  { value: 'orifice' }
+lexer got 64 tokens
+first token is  { value: 'orifice\'s' }
+last token is  { value: 'ornithologist' }
+lexer got 64 tokens
+first token is  { value: 'ornithologist\'s' }
+last token is  { value: 'osbert' }
+lexer got 64 tokens
+first token is  { value: 'osbert\'s' }
+last token is  { value: 'ostracize' }
+lexer got 64 tokens
+first token is  { value: 'ostracized' }
+last token is  { value: 'outbalances' }
+lexer got 64 tokens
+first token is  { value: 'outbalancing' }
+last token is  { value: 'outfits' }
+lexer got 64 tokens
+first token is  { value: 'outflank' }
+last token is  { value: 'outmanoeuvred' }
+lexer got 64 tokens
+first token is  { value: 'outmanoeuvres' }
+last token is  { value: 'outset' }
+lexer got 64 tokens
+first token is  { value: 'outset\'s' }
+last token is  { value: 'outwearing' }
+lexer got 64 tokens
+first token is  { value: 'outwears' }
+last token is  { value: 'overbalanced' }
+lexer got 64 tokens
+first token is  { value: 'overbalances' }
+last token is  { value: 'overdraft\'s' }
+lexer got 64 tokens
+first token is  { value: 'overdrafts' }
+last token is  { value: 'overgrowth\'s' }
+lexer got 64 tokens
+first token is  { value: 'overhand' }
+last token is  { value: 'overlok\'s' }
+lexer got 64 tokens
+first token is  { value: 'overloked' }
+last token is  { value: 'overser' }
+lexer got 64 tokens
+first token is  { value: 'overser\'s' }
+last token is  { value: 'overstufed' }
+lexer got 64 tokens
+first token is  { value: 'oversuplied' }
+last token is  { value: 'overwrite' }
+lexer got 64 tokens
+first token is  { value: 'overwriten' }
+last token is  { value: 'oxides' }
+lexer got 64 tokens
+first token is  { value: 'oxidize' }
+last token is  { value: 'pace\'s' }
+lexer got 64 tokens
+first token is  { value: 'pace\'s' }
+last token is  { value: 'padila' }
+lexer got 64 tokens
+first token is  { value: 'padila\'s' }
+last token is  { value: 'pail\'s' }
+lexer got 64 tokens
+first token is  { value: 'pailful' }
+last token is  { value: 'palatable' }
+lexer got 64 tokens
+first token is  { value: 'palatal' }
+last token is  { value: 'paliatives' }
+lexer got 64 tokens
+first token is  { value: 'palid' }
+last token is  { value: 'palpitation' }
+lexer got 64 tokens
+first token is  { value: 'palpitation\'s' }
+last token is  { value: 'pandemic\'s' }
+lexer got 64 tokens
+first token is  { value: 'pandemics' }
+last token is  { value: 'panmunjom' }
+lexer got 64 tokens
+first token is  { value: 'panmunjom\'s' }
+last token is  { value: 'papacy\'s' }
+lexer got 64 tokens
+first token is  { value: 'papal' }
+last token is  { value: 'parachutist\'s' }
+lexer got 64 tokens
+first token is  { value: 'parachutists' }
+last token is  { value: 'paralytic' }
+lexer got 64 tokens
+first token is  { value: 'paralytic\'s' }
+last token is  { value: 'parasol\'s' }
+lexer got 64 tokens
+first token is  { value: 'parasols' }
+last token is  { value: 'pariahs' }
+lexer got 64 tokens
+first token is  { value: 'paricide' }
+last token is  { value: 'parlors' }
+lexer got 64 tokens
+first token is  { value: 'parmesan' }
+last token is  { value: 'parsons' }
+lexer got 64 tokens
+first token is  { value: 'parsons' }
+last token is  { value: 'partied' }
+lexer got 64 tokens
+first token is  { value: 'parties' }
+last token is  { value: 'pasel' }
+lexer got 64 tokens
+first token is  { value: 'pasel\'s' }
+last token is  { value: 'pasteurize' }
+lexer got 64 tokens
+first token is  { value: 'pasteurized' }
+last token is  { value: 'pate\'s' }
+lexer got 64 tokens
+first token is  { value: 'pate\'s' }
+last token is  { value: 'patiently' }
+lexer got 64 tokens
+first token is  { value: 'patients' }
+last token is  { value: 'patronize' }
+lexer got 64 tokens
+first token is  { value: 'patronized' }
+last token is  { value: 'pavlov\'s' }
+lexer got 64 tokens
+first token is  { value: 'pavlova' }
+last token is  { value: 'payrols' }
+lexer got 64 tokens
+first token is  { value: 'pays' }
+last token is  { value: 'pearled' }
+lexer got 64 tokens
+first token is  { value: 'pearlie' }
+last token is  { value: 'pedagog\'s' }
+lexer got 64 tokens
+first token is  { value: 'pedagogic' }
+last token is  { value: 'pedled' }
+lexer got 64 tokens
+first token is  { value: 'pedler' }
+last token is  { value: 'pelets' }
+lexer got 64 tokens
+first token is  { value: 'pelican' }
+last token is  { value: 'pendulous' }
+lexer got 64 tokens
+first token is  { value: 'pendulum' }
+last token is  { value: 'penon\'s' }
+lexer got 64 tokens
+first token is  { value: 'penons' }
+last token is  { value: 'penzoil\'s' }
+lexer got 64 tokens
+first token is  { value: 'peon' }
+last token is  { value: 'perage\'s' }
+lexer got 64 tokens
+first token is  { value: 'perages' }
+last token is  { value: 'peregrinations' }
+lexer got 64 tokens
+first token is  { value: 'perelman' }
+last token is  { value: 'pericardiums' }
+lexer got 64 tokens
+first token is  { value: 'periclean' }
+last token is  { value: 'periwigs' }
+lexer got 64 tokens
+first token is  { value: 'periwinkle' }
+last token is  { value: 'permited' }
+lexer got 64 tokens
+first token is  { value: 'permiting' }
+last token is  { value: 'persecuting' }
+lexer got 64 tokens
+first token is  { value: 'persecution' }
+last token is  { value: 'personifications' }
+lexer got 64 tokens
+first token is  { value: 'personified' }
+last token is  { value: 'peruses' }
+lexer got 64 tokens
+first token is  { value: 'perusing' }
+last token is  { value: 'petal' }
+lexer got 64 tokens
+first token is  { value: 'petal\'s' }
+last token is  { value: 'petrochemical\'s' }
+lexer got 64 tokens
+first token is  { value: 'petrochemicals' }
+last token is  { value: 'phantasmagoria' }
+lexer got 64 tokens
+first token is  { value: 'phantasmagoria\'s' }
+last token is  { value: 'phenomenon\'s' }
+lexer got 64 tokens
+first token is  { value: 'phenomenons' }
+last token is  { value: 'philologist\'s' }
+lexer got 64 tokens
+first token is  { value: 'philologists' }
+last token is  { value: 'phoneme' }
+lexer got 64 tokens
+first token is  { value: 'phoneme\'s' }
+last token is  { value: 'photogenic' }
+lexer got 64 tokens
+first token is  { value: 'photograph' }
+last token is  { value: 'physicked' }
+lexer got 64 tokens
+first token is  { value: 'physicking' }
+last token is  { value: 'pickaxe' }
+lexer got 64 tokens
+first token is  { value: 'pickaxe\'s' }
+last token is  { value: 'pictures' }
+lexer got 64 tokens
+first token is  { value: 'picturesque' }
+last token is  { value: 'piging' }
+lexer got 64 tokens
+first token is  { value: 'pigish' }
+last token is  { value: 'pilaster' }
+lexer got 64 tokens
+first token is  { value: 'pilaster\'s' }
+last token is  { value: 'pilowcases' }
+lexer got 64 tokens
+first token is  { value: 'pilowed' }
+last token is  { value: 'pinfeather\'s' }
+lexer got 64 tokens
+first token is  { value: 'pinfeathers' }
+last token is  { value: 'pinup' }
+lexer got 64 tokens
+first token is  { value: 'pinup\'s' }
+last token is  { value: 'pirouete' }
+lexer got 64 tokens
+first token is  { value: 'pirouete\'s' }
+last token is  { value: 'pitfals' }
+lexer got 64 tokens
+first token is  { value: 'pith' }
+last token is  { value: 'pl' }
+lexer got 64 tokens
+first token is  { value: 'placard' }
+last token is  { value: 'plainclothesmen' }
+lexer got 64 tokens
+first token is  { value: 'plainer' }
+last token is  { value: 'planter' }
+lexer got 64 tokens
+first token is  { value: 'planter\'s' }
+last token is  { value: 'platinum\'s' }
+lexer got 64 tokens
+first token is  { value: 'platitude' }
+last token is  { value: 'playhouse' }
+lexer got 64 tokens
+first token is  { value: 'playhouse\'s' }
+last token is  { value: 'pleated' }
+lexer got 64 tokens
+first token is  { value: 'pleating' }
+last token is  { value: 'plinths' }
+lexer got 64 tokens
+first token is  { value: 'pliny' }
+last token is  { value: 'plugin\'s' }
+lexer got 64 tokens
+first token is  { value: 'pluging' }
+last token is  { value: 'plural\'s' }
+lexer got 64 tokens
+first token is  { value: 'pluralism' }
+last token is  { value: 'poched' }
+lexer got 64 tokens
+first token is  { value: 'poches' }
+last token is  { value: 'poetical' }
+lexer got 64 tokens
+first token is  { value: 'poeticaly' }
+last token is  { value: 'poisoner\'s' }
+lexer got 64 tokens
+first token is  { value: 'poisoners' }
+last token is  { value: 'poled' }
+lexer got 64 tokens
+first token is  { value: 'polemic' }
+last token is  { value: 'politicaly' }
+lexer got 64 tokens
+first token is  { value: 'politician' }
+last token is  { value: 'polux\'s' }
+lexer got 64 tokens
+first token is  { value: 'poly' }
+last token is  { value: 'polytechnic' }
+lexer got 64 tokens
+first token is  { value: 'polytechnic\'s' }
+last token is  { value: 'pondered' }
+lexer got 64 tokens
+first token is  { value: 'pondering' }
+last token is  { value: 'poplar' }
+lexer got 64 tokens
+first token is  { value: 'poplar\'s' }
+last token is  { value: 'poridge\'s' }
+lexer got 64 tokens
+first token is  { value: 'porima' }
+last token is  { value: 'porterhouse\'s' }
+lexer got 64 tokens
+first token is  { value: 'porterhouses' }
+last token is  { value: 'poses' }
+lexer got 64 tokens
+first token is  { value: 'poses' }
+last token is  { value: 'postdated' }
+lexer got 64 tokens
+first token is  { value: 'postdates' }
+last token is  { value: 'postured' }
+lexer got 64 tokens
+first token is  { value: 'postures' }
+last token is  { value: 'potholders' }
+lexer got 64 tokens
+first token is  { value: 'pothole' }
+last token is  { value: 'pouted' }
+lexer got 64 tokens
+first token is  { value: 'pouting' }
+last token is  { value: 'practised' }
+lexer got 64 tokens
+first token is  { value: 'practises' }
+last token is  { value: 'pratfals' }
+lexer got 64 tokens
+first token is  { value: 'prating' }
+last token is  { value: 'preceptor' }
+lexer got 64 tokens
+first token is  { value: 'preceptor\'s' }
+last token is  { value: 'precursor' }
+lexer got 64 tokens
+first token is  { value: 'precursor\'s' }
+last token is  { value: 'predominance' }
+lexer got 64 tokens
+first token is  { value: 'predominance\'s' }
+last token is  { value: 'prehistory\'s' }
+lexer got 64 tokens
+first token is  { value: 'prejudge' }
+last token is  { value: 'prempting' }
+lexer got 64 tokens
+first token is  { value: 'premption' }
+last token is  { value: 'preponderates' }
+lexer got 64 tokens
+first token is  { value: 'preponderating' }
+last token is  { value: 'prescriptions' }
+lexer got 64 tokens
+first token is  { value: 'prescriptive' }
+last token is  { value: 'prestige' }
+lexer got 64 tokens
+first token is  { value: 'prestige\'s' }
+last token is  { value: 'preterite' }
+lexer got 64 tokens
+first token is  { value: 'preterite\'s' }
+last token is  { value: 'previews' }
+lexer got 64 tokens
+first token is  { value: 'previous' }
+last token is  { value: 'prig' }
+lexer got 64 tokens
+first token is  { value: 'prig\'s' }
+last token is  { value: 'principe' }
+lexer got 64 tokens
+first token is  { value: 'principe\'s' }
+last token is  { value: 'privater\'s' }
+lexer got 64 tokens
+first token is  { value: 'privaters' }
+last token is  { value: 'probes' }
+lexer got 64 tokens
+first token is  { value: 'probing' }
+last token is  { value: 'procreation' }
+lexer got 64 tokens
+first token is  { value: 'procreation\'s' }
+last token is  { value: 'prof' }
+lexer got 64 tokens
+first token is  { value: 'prof\'s' }
+last token is  { value: 'profiting' }
+lexer got 64 tokens
+first token is  { value: 'profits' }
+last token is  { value: 'programing' }
+lexer got 64 tokens
+first token is  { value: 'programing' }
+last token is  { value: 'prolog' }
+lexer got 64 tokens
+first token is  { value: 'prolog\'s' }
+last token is  { value: 'promptings' }
+lexer got 64 tokens
+first token is  { value: 'promptly' }
+last token is  { value: 'propelents' }
+lexer got 64 tokens
+first token is  { value: 'propeler' }
+last token is  { value: 'proposal' }
+lexer got 64 tokens
+first token is  { value: 'proposal\'s' }
+last token is  { value: 'prosecutors' }
+lexer got 64 tokens
+first token is  { value: 'proselyte' }
+last token is  { value: 'protect' }
+lexer got 64 tokens
+first token is  { value: 'protected' }
+last token is  { value: 'protozon\'s' }
+lexer got 64 tokens
+first token is  { value: 'protract' }
+last token is  { value: 'provider\'s' }
+lexer got 64 tokens
+first token is  { value: 'providers' }
+last token is  { value: 'prudential' }
+lexer got 64 tokens
+first token is  { value: 'prudential' }
+last token is  { value: 'psychedelics' }
+lexer got 64 tokens
+first token is  { value: 'psyches' }
+last token is  { value: 'pterodactyl\'s' }
+lexer got 64 tokens
+first token is  { value: 'pterodactyls' }
+last token is  { value: 'puding\'s' }
+lexer got 64 tokens
+first token is  { value: 'pudings' }
+last token is  { value: 'puler\'s' }
+lexer got 64 tokens
+first token is  { value: 'pulers' }
+last token is  { value: 'pumices' }
+lexer got 64 tokens
+first token is  { value: 'pump' }
+last token is  { value: 'punjabi' }
+lexer got 64 tokens
+first token is  { value: 'punjabi\'s' }
+last token is  { value: 'purebred\'s' }
+lexer got 64 tokens
+first token is  { value: 'purebreds' }
+last token is  { value: 'purls' }
+lexer got 64 tokens
+first token is  { value: 'purple' }
+last token is  { value: 'puses' }
+lexer got 64 tokens
+first token is  { value: 'pusey' }
+last token is  { value: 'putrefied' }
+lexer got 64 tokens
+first token is  { value: 'putrefies' }
+last token is  { value: 'pyrexes' }
+lexer got 64 tokens
+first token is  { value: 'pyrhic' }
+last token is  { value: 'quadricepses' }
+lexer got 64 tokens
+first token is  { value: 'quadrilateral' }
+last token is  { value: 'qualification\'s' }
+lexer got 64 tokens
+first token is  { value: 'qualifications' }
+last token is  { value: 'quarterbacks' }
+lexer got 64 tokens
+first token is  { value: 'quarterdeck' }
+last token is  { value: 'quechua' }
+lexer got 64 tokens
+first token is  { value: 'quechua\'s' }
+last token is  { value: 'queue\'s' }
+lexer got 64 tokens
+first token is  { value: 'queued' }
+last token is  { value: 'quilted' }
+lexer got 64 tokens
+first token is  { value: 'quilter' }
+last token is  { value: 'quito\'s' }
+lexer got 64 tokens
+first token is  { value: 'quits' }
+last token is  { value: 'rabinate' }
+lexer got 64 tokens
+first token is  { value: 'rabinate\'s' }
+last token is  { value: 'racketer\'s' }
+lexer got 64 tokens
+first token is  { value: 'racketered' }
+last token is  { value: 'radioing' }
+lexer got 64 tokens
+first token is  { value: 'radioisotope' }
+last token is  { value: 'ragedest' }
+lexer got 64 tokens
+first token is  { value: 'ragedier' }
+last token is  { value: 'raindrops' }
+lexer got 64 tokens
+first token is  { value: 'rained' }
+last token is  { value: 'ramanujan\'s' }
+lexer got 64 tokens
+first token is  { value: 'ramayana' }
+last token is  { value: 'ranches' }
+lexer got 64 tokens
+first token is  { value: 'ranching' }
+last token is  { value: 'rankling' }
+lexer got 64 tokens
+first token is  { value: 'ranknes' }
+last token is  { value: 'rapscalion\'s' }
+lexer got 64 tokens
+first token is  { value: 'rapscalions' }
+last token is  { value: 'rat' }
+lexer got 64 tokens
+first token is  { value: 'rat\'s' }
+last token is  { value: 'ratle\'s' }
+lexer got 64 tokens
+first token is  { value: 'ratled' }
+last token is  { value: 'raviolis' }
+lexer got 64 tokens
+first token is  { value: 'ravish' }
+last token is  { value: 'reaction\'s' }
+lexer got 64 tokens
+first token is  { value: 'reactionaries' }
+last token is  { value: 'reagent\'s' }
+lexer got 64 tokens
+first token is  { value: 'reagents' }
+last token is  { value: 'reapers' }
+lexer got 64 tokens
+first token is  { value: 'reaping' }
+last token is  { value: 'reasigning' }
+lexer got 64 tokens
+first token is  { value: 'reasigns' }
+last token is  { value: 'rebroadcasting' }
+lexer got 64 tokens
+first token is  { value: 'rebroadcasts' }
+last token is  { value: 'recedes' }
+lexer got 64 tokens
+first token is  { value: 'receding' }
+last token is  { value: 'recherché' }
+lexer got 64 tokens
+first token is  { value: 'recidivism' }
+last token is  { value: 'reclines' }
+lexer got 64 tokens
+first token is  { value: 'reclining' }
+last token is  { value: 'reconciling' }
+lexer got 64 tokens
+first token is  { value: 'recondite' }
+last token is  { value: 'recoups' }
+lexer got 64 tokens
+first token is  { value: 'recourse' }
+last token is  { value: 'rectors' }
+lexer got 64 tokens
+first token is  { value: 'rectory' }
+last token is  { value: 'redem' }
+lexer got 64 tokens
+first token is  { value: 'redemable' }
+last token is  { value: 'redistricting' }
+lexer got 64 tokens
+first token is  { value: 'redistricts' }
+last token is  { value: 'redwod' }
+lexer got 64 tokens
+first token is  { value: 'redwod\'s' }
+last token is  { value: 'refineries' }
+lexer got 64 tokens
+first token is  { value: 'refiners' }
+last token is  { value: 'reforms' }
+lexer got 64 tokens
+first token is  { value: 'reformulate' }
+last token is  { value: 'refundable' }
+lexer got 64 tokens
+first token is  { value: 'refunded' }
+last token is  { value: 'regent' }
+lexer got 64 tokens
+first token is  { value: 'regent\'s' }
+last token is  { value: 'regret\'s' }
+lexer got 64 tokens
+first token is  { value: 'regretable' }
+last token is  { value: 'reheat' }
+lexer got 64 tokens
+first token is  { value: 'reheated' }
+last token is  { value: 'reinstate' }
+lexer got 64 tokens
+first token is  { value: 'reinstated' }
+last token is  { value: 'rekindle' }
+lexer got 64 tokens
+first token is  { value: 'rekindled' }
+last token is  { value: 'relected' }
+lexer got 64 tokens
+first token is  { value: 'relecting' }
+last token is  { value: 'relive' }
+lexer got 64 tokens
+first token is  { value: 'relived' }
+last token is  { value: 'remedy' }
+lexer got 64 tokens
+first token is  { value: 'remedy\'s' }
+last token is  { value: 'remorselesly' }
+lexer got 64 tokens
+first token is  { value: 'remote' }
+last token is  { value: 'renault' }
+lexer got 64 tokens
+first token is  { value: 'renault\'s' }
+last token is  { value: 'renovates' }
+lexer got 64 tokens
+first token is  { value: 'renovating' }
+last token is  { value: 'repackaged' }
+lexer got 64 tokens
+first token is  { value: 'repackages' }
+last token is  { value: 'repeling' }
+lexer got 64 tokens
+first token is  { value: 'repels' }
+last token is  { value: 'reply' }
+lexer got 64 tokens
+first token is  { value: 'reply\'s' }
+last token is  { value: 'reprimanding' }
+lexer got 64 tokens
+first token is  { value: 'reprimands' }
+last token is  { value: 'republican\'s' }
+lexer got 64 tokens
+first token is  { value: 'republican\'s' }
+last token is  { value: 'requisitioned' }
+lexer got 64 tokens
+first token is  { value: 'requisitioning' }
+last token is  { value: 'resented' }
+lexer got 64 tokens
+first token is  { value: 'resentful' }
+last token is  { value: 'resilience' }
+lexer got 64 tokens
+first token is  { value: 'resilience\'s' }
+last token is  { value: 'resourcefulnes' }
+lexer got 64 tokens
+first token is  { value: 'resourcefulnes\'s' }
+last token is  { value: 'restablishing' }
+lexer got 64 tokens
+first token is  { value: 'restart' }
+last token is  { value: 'restrict' }
+lexer got 64 tokens
+first token is  { value: 'restricted' }
+last token is  { value: 'resuscitated' }
+lexer got 64 tokens
+first token is  { value: 'resuscitates' }
+last token is  { value: 'reticence\'s' }
+lexer got 64 tokens
+first token is  { value: 'reticent' }
+last token is  { value: 'retrenches' }
+lexer got 64 tokens
+first token is  { value: 'retrenching' }
+last token is  { value: 'returnable' }
+lexer got 64 tokens
+first token is  { value: 'returnable\'s' }
+last token is  { value: 'revealed' }
+lexer got 64 tokens
+first token is  { value: 'revealing' }
+last token is  { value: 'revering' }
+lexer got 64 tokens
+first token is  { value: 'reversal' }
+last token is  { value: 'revived' }
+lexer got 64 tokens
+first token is  { value: 'revives' }
+last token is  { value: 'rewires' }
+lexer got 64 tokens
+first token is  { value: 'rewiring' }
+last token is  { value: 'rheumatism\'s' }
+lexer got 64 tokens
+first token is  { value: 'rheumier' }
+last token is  { value: 'ribaldry\'s' }
+lexer got 64 tokens
+first token is  { value: 'ribed' }
+last token is  { value: 'ricky\'s' }
+lexer got 64 tokens
+first token is  { value: 'rico' }
+last token is  { value: 'rifer' }
+lexer got 64 tokens
+first token is  { value: 'rifest' }
+last token is  { value: 'rigmarole' }
+lexer got 64 tokens
+first token is  { value: 'rigmarole\'s' }
+last token is  { value: 'rink\'s' }
+lexer got 64 tokens
+first token is  { value: 'rinks' }
+last token is  { value: 'riskier' }
+lexer got 64 tokens
+first token is  { value: 'riskiest' }
+last token is  { value: 'rivulet\'s' }
+lexer got 64 tokens
+first token is  { value: 'rivulets' }
+last token is  { value: 'roasted' }
+lexer got 64 tokens
+first token is  { value: 'roaster' }
+last token is  { value: 'robustnes' }
+lexer got 64 tokens
+first token is  { value: 'robustnes\'s' }
+last token is  { value: 'rodeos' }
+lexer got 64 tokens
+first token is  { value: 'roderick' }
+last token is  { value: 'roisterer' }
+lexer got 64 tokens
+first token is  { value: 'roisterer\'s' }
+last token is  { value: 'romanced' }
+lexer got 64 tokens
+first token is  { value: 'romances' }
+last token is  { value: 'roms' }
+lexer got 64 tokens
+first token is  { value: 'romulus' }
+last token is  { value: 'rosebuds' }
+lexer got 64 tokens
+first token is  { value: 'rosebush' }
+last token is  { value: 'rostropovich\'s' }
+lexer got 64 tokens
+first token is  { value: 'rostrum' }
+last token is  { value: 'rotundnes' }
+lexer got 64 tokens
+first token is  { value: 'rotundnes\'s' }
+last token is  { value: 'roundworm' }
+lexer got 64 tokens
+first token is  { value: 'roundworm\'s' }
+last token is  { value: 'roweled' }
+lexer got 64 tokens
+first token is  { value: 'roweling' }
+last token is  { value: 'ruberizes' }
+lexer got 64 tokens
+first token is  { value: 'ruberizing' }
+last token is  { value: 'rudimentary' }
+lexer got 64 tokens
+first token is  { value: 'rudiments' }
+last token is  { value: 'ruler\'s' }
+lexer got 64 tokens
+first token is  { value: 'rulers' }
+last token is  { value: 'runabout' }
+lexer got 64 tokens
+first token is  { value: 'runabout\'s' }
+last token is  { value: 'rush' }
+lexer got 64 tokens
+first token is  { value: 'rush\'s' }
+last token is  { value: 'rutherford' }
+lexer got 64 tokens
+first token is  { value: 'ruthie' }
+last token is  { value: 'sabres' }
+lexer got 64 tokens
+first token is  { value: 'sabrina' }
+last token is  { value: 'sade\'s' }
+lexer got 64 tokens
+first token is  { value: 'saden' }
+last token is  { value: 'sag\'s' }
+lexer got 64 tokens
+first token is  { value: 'saga' }
+last token is  { value: 'saintliest' }
+lexer got 64 tokens
+first token is  { value: 'saintlines' }
+last token is  { value: 'salesgirl\'s' }
+lexer got 64 tokens
+first token is  { value: 'salesgirls' }
+last token is  { value: 'salt' }
+lexer got 64 tokens
+first token is  { value: 'salt\'s' }
+last token is  { value: 'salvers' }
+lexer got 64 tokens
+first token is  { value: 'salves' }
+last token is  { value: 'samsonite' }
+lexer got 64 tokens
+first token is  { value: 'samsonite\'s' }
+last token is  { value: 'sandblast\'s' }
+lexer got 64 tokens
+first token is  { value: 'sandblasted' }
+last token is  { value: 'sanford' }
+lexer got 64 tokens
+first token is  { value: 'sanford\'s' }
+last token is  { value: 'saprophyte' }
+lexer got 64 tokens
+first token is  { value: 'saprophyte\'s' }
+last token is  { value: 'sarong' }
+lexer got 64 tokens
+first token is  { value: 'sarong\'s' }
+last token is  { value: 'satelite\'s' }
+lexer got 64 tokens
+first token is  { value: 'satelited' }
+last token is  { value: 'saucepan' }
+lexer got 64 tokens
+first token is  { value: 'saucepan\'s' }
+last token is  { value: 'savanah\'s' }
+lexer got 64 tokens
+first token is  { value: 'savanah\'s' }
+last token is  { value: 'sawyer\'s' }
+lexer got 64 tokens
+first token is  { value: 'sawyer\'s' }
+last token is  { value: 'scalene' }
+lexer got 64 tokens
+first token is  { value: 'scales' }
+last token is  { value: 'scaner' }
+lexer got 64 tokens
+first token is  { value: 'scaner\'s' }
+last token is  { value: 'scaring' }
+lexer got 64 tokens
+first token is  { value: 'scarlati' }
+last token is  { value: 'schematic' }
+lexer got 64 tokens
+first token is  { value: 'schematic\'s' }
+last token is  { value: 'schmaltzy' }
+lexer got 64 tokens
+first token is  { value: 'schmalz' }
+last token is  { value: 'scholmistres\'s' }
+lexer got 64 tokens
+first token is  { value: 'scholmistreses' }
+last token is  { value: 'sciatica' }
+lexer got 64 tokens
+first token is  { value: 'sciatica\'s' }
+last token is  { value: 'scope' }
+lexer got 64 tokens
+first token is  { value: 'scope\'s' }
+last token is  { value: 'scotchmen' }
+lexer got 64 tokens
+first token is  { value: 'scotchs' }
+last token is  { value: 'scramble\'s' }
+lexer got 64 tokens
+first token is  { value: 'scrambled' }
+last token is  { value: 'screning' }
+lexer got 64 tokens
+first token is  { value: 'screning\'s' }
+last token is  { value: 'scripture\'s' }
+lexer got 64 tokens
+first token is  { value: 'scriptures' }
+last token is  { value: 'scrutinized' }
+lexer got 64 tokens
+first token is  { value: 'scrutinizes' }
+last token is  { value: 'scuper\'s' }
+lexer got 64 tokens
+first token is  { value: 'scupered' }
+last token is  { value: 'seafod' }
+lexer got 64 tokens
+first token is  { value: 'seafod\'s' }
+last token is  { value: 'seascape' }
+lexer got 64 tokens
+first token is  { value: 'seascape\'s' }
+last token is  { value: 'seclusion' }
+lexer got 64 tokens
+first token is  { value: 'seclusion\'s' }
+last token is  { value: 'sects' }
+lexer got 64 tokens
+first token is  { value: 'secular' }
+last token is  { value: 'seds' }
+lexer got 64 tokens
+first token is  { value: 'seduce' }
+last token is  { value: 'seized' }
+lexer got 64 tokens
+first token is  { value: 'seizes' }
+last token is  { value: 'seljuk' }
+lexer got 64 tokens
+first token is  { value: 'selkirk' }
+last token is  { value: 'semimonthly' }
+lexer got 64 tokens
+first token is  { value: 'semimonthly\'s' }
+last token is  { value: 'senators' }
+lexer got 64 tokens
+first token is  { value: 'send' }
+last token is  { value: 'sensitizes' }
+lexer got 64 tokens
+first token is  { value: 'sensitizing' }
+last token is  { value: 'separations' }
+lexer got 64 tokens
+first token is  { value: 'separatism' }
+last token is  { value: 'sequesters' }
+lexer got 64 tokens
+first token is  { value: 'sequestration' }
+last token is  { value: 'serfdom' }
+lexer got 64 tokens
+first token is  { value: 'serfdom\'s' }
+last token is  { value: 'serviceman\'s' }
+lexer got 64 tokens
+first token is  { value: 'servicemen' }
+last token is  { value: 'setlements' }
+lexer got 64 tokens
+first token is  { value: 'setler' }
+last token is  { value: 'sewing\'s' }
+lexer got 64 tokens
+first token is  { value: 'sewn' }
+last token is  { value: 'shackling' }
+lexer got 64 tokens
+first token is  { value: 'shacks' }
+last token is  { value: 'shakespeare' }
+lexer got 64 tokens
+first token is  { value: 'shakespeare\'s' }
+last token is  { value: 'shan\'t' }
+lexer got 64 tokens
+first token is  { value: 'shana' }
+last token is  { value: 'shark\'s' }
+lexer got 64 tokens
+first token is  { value: 'sharked' }
+last token is  { value: 'shavings' }
+lexer got 64 tokens
+first token is  { value: 'shavuot' }
+last token is  { value: 'sheikh' }
+lexer got 64 tokens
+first token is  { value: 'sheikh\'s' }
+last token is  { value: 'shepard' }
+lexer got 64 tokens
+first token is  { value: 'shepard' }
+last token is  { value: 'shery' }
+lexer got 64 tokens
+first token is  { value: 'shery' }
+last token is  { value: 'shiloh\'s' }
+lexer got 64 tokens
+first token is  { value: 'shilong' }
+last token is  { value: 'shipbuilder\'s' }
+lexer got 64 tokens
+first token is  { value: 'shipbuilders' }
+last token is  { value: 'shirtwaist' }
+lexer got 64 tokens
+first token is  { value: 'shirtwaist\'s' }
+last token is  { value: 'shoehorned' }
+lexer got 64 tokens
+first token is  { value: 'shoehorning' }
+last token is  { value: 'shortbread\'s' }
+lexer got 64 tokens
+first token is  { value: 'shortcake' }
+last token is  { value: 'shotguning' }
+lexer got 64 tokens
+first token is  { value: 'shotguns' }
+last token is  { value: 'showier' }
+lexer got 64 tokens
+first token is  { value: 'showiest' }
+last token is  { value: 'shriler' }
+lexer got 64 tokens
+first token is  { value: 'shrilest' }
+last token is  { value: 'shuck\'s' }
+lexer got 64 tokens
+first token is  { value: 'shucked' }
+last token is  { value: 'shuts' }
+lexer got 64 tokens
+first token is  { value: 'shy' }
+last token is  { value: 'sickneses' }
+lexer got 64 tokens
+first token is  { value: 'sicks' }
+last token is  { value: 'sidewal\'s' }
+lexer got 64 tokens
+first token is  { value: 'sidewalk' }
+last token is  { value: 'sigma' }
+lexer got 64 tokens
+first token is  { value: 'sigmund' }
+last token is  { value: 'silage' }
+lexer got 64 tokens
+first token is  { value: 'silage\'s' }
+last token is  { value: 'silvan' }
+lexer got 64 tokens
+first token is  { value: 'silver' }
+last token is  { value: 'simplifies' }
+lexer got 64 tokens
+first token is  { value: 'simplify' }
+last token is  { value: 'singe\'s' }
+lexer got 64 tokens
+first token is  { value: 'singed' }
+last token is  { value: 'sip' }
+lexer got 64 tokens
+first token is  { value: 'sip\'s' }
+last token is  { value: 'site\'s' }
+lexer got 64 tokens
+first token is  { value: 'sited' }
+last token is  { value: 'skateboarder' }
+lexer got 64 tokens
+first token is  { value: 'skateboarder\'s' }
+last token is  { value: 'skif\'s' }
+lexer got 64 tokens
+first token is  { value: 'skifs' }
+last token is  { value: 'skirmishes' }
+lexer got 64 tokens
+first token is  { value: 'skirmishing' }
+last token is  { value: 'skyjacks' }
+lexer got 64 tokens
+first token is  { value: 'skylab' }
+last token is  { value: 'slalom\'s' }
+lexer got 64 tokens
+first token is  { value: 'slalomed' }
+last token is  { value: 'slathering' }
+lexer got 64 tokens
+first token is  { value: 'slathers' }
+last token is  { value: 'sledgehamering' }
+lexer got 64 tokens
+first token is  { value: 'sledgehamers' }
+last token is  { value: 'sleting' }
+lexer got 64 tokens
+first token is  { value: 'slets' }
+last token is  { value: 'sliming' }
+lexer got 64 tokens
+first token is  { value: 'slimnes' }
+last token is  { value: 'slob\'s' }
+lexer got 64 tokens
+first token is  { value: 'slober' }
+last token is  { value: 'sloughed' }
+lexer got 64 tokens
+first token is  { value: 'sloughing' }
+last token is  { value: 'slum\'s' }
+lexer got 64 tokens
+first token is  { value: 'slumber' }
+last token is  { value: 'smalest' }
+lexer got 64 tokens
+first token is  { value: 'smalish' }
+last token is  { value: 'smidgin' }
+lexer got 64 tokens
+first token is  { value: 'smidgin\'s' }
+last token is  { value: 'smokes' }
+lexer got 64 tokens
+first token is  { value: 'smokestack' }
+last token is  { value: 'smut\'s' }
+lexer got 64 tokens
+first token is  { value: 'smutier' }
+last token is  { value: 'snapshot\'s' }
+lexer got 64 tokens
+first token is  { value: 'snapshots' }
+last token is  { value: 'snifle\'s' }
+lexer got 64 tokens
+first token is  { value: 'snifled' }
+last token is  { value: 'snopers' }
+lexer got 64 tokens
+first token is  { value: 'snopier' }
+last token is  { value: 'snowbound' }
+lexer got 64 tokens
+first token is  { value: 'snowdrift' }
+last token is  { value: 'snufle' }
+lexer got 64 tokens
+first token is  { value: 'snufle\'s' }
+last token is  { value: 'sobernes\'s' }
+lexer got 64 tokens
+first token is  { value: 'sobers' }
+last token is  { value: 'sod\'s' }
+lexer got 64 tokens
+first token is  { value: 'soda' }
+last token is  { value: 'soirées' }
+lexer got 64 tokens
+first token is  { value: 'sojourn' }
+last token is  { value: 'solicitously' }
+lexer got 64 tokens
+first token is  { value: 'solicits' }
+last token is  { value: 'solved' }
+lexer got 64 tokens
+first token is  { value: 'solvency' }
+last token is  { value: 'son' }
+lexer got 64 tokens
+first token is  { value: 'son' }
+last token is  { value: 'sophist\'s' }
+lexer got 64 tokens
+first token is  { value: 'sophisticate' }
+last token is  { value: 'sorier' }
+lexer got 64 tokens
+first token is  { value: 'soriest' }
+last token is  { value: 'sought' }
+lexer got 64 tokens
+first token is  { value: 'soul' }
+last token is  { value: 'sousa' }
+lexer got 64 tokens
+first token is  { value: 'sousa\'s' }
+last token is  { value: 'soviets' }
+lexer got 64 tokens
+first token is  { value: 'sow' }
+last token is  { value: 'spadeful' }
+lexer got 64 tokens
+first token is  { value: 'spadeful\'s' }
+last token is  { value: 'sparing' }
+lexer got 64 tokens
+first token is  { value: 'sparingly' }
+last token is  { value: 'spawn' }
+lexer got 64 tokens
+first token is  { value: 'spawn\'s' }
+last token is  { value: 'specification\'s' }
+lexer got 64 tokens
+first token is  { value: 'specifications' }
+last token is  { value: 'sped' }
+lexer got 64 tokens
+first token is  { value: 'sped\'s' }
+last token is  { value: 'spenglerian' }
+lexer got 64 tokens
+first token is  { value: 'spenser' }
+last token is  { value: 'spieling' }
+lexer got 64 tokens
+first token is  { value: 'spiels' }
+last token is  { value: 'spinofs' }
+lexer got 64 tokens
+first token is  { value: 'spinoza' }
+last token is  { value: 'spitefulnes\'s' }
+lexer got 64 tokens
+first token is  { value: 'spitefuly' }
+last token is  { value: 'splint' }
+lexer got 64 tokens
+first token is  { value: 'splint\'s' }
+last token is  { value: 'spokesman\'s' }
+lexer got 64 tokens
+first token is  { value: 'spokesmen' }
+last token is  { value: 'spore\'s' }
+lexer got 64 tokens
+first token is  { value: 'spored' }
+last token is  { value: 'sprain' }
+lexer got 64 tokens
+first token is  { value: 'sprain\'s' }
+last token is  { value: 'springy' }
+lexer got 64 tokens
+first token is  { value: 'sprinkle' }
+last token is  { value: 'spumoni\'s' }
+lexer got 64 tokens
+first token is  { value: 'spun' }
+last token is  { value: 'squander' }
+lexer got 64 tokens
+first token is  { value: 'squandered' }
+last token is  { value: 'squeges' }
+lexer got 64 tokens
+first token is  { value: 'squelch' }
+last token is  { value: 'squishiest' }
+lexer got 64 tokens
+first token is  { value: 'squishing' }
+last token is  { value: 'stafing\'s' }
+lexer got 64 tokens
+first token is  { value: 'staford' }
+last token is  { value: 'stakes' }
+lexer got 64 tokens
+first token is  { value: 'staking' }
+last token is  { value: 'stamp\'s' }
+lexer got 64 tokens
+first token is  { value: 'stamped' }
+last token is  { value: 'staph' }
+lexer got 64 tokens
+first token is  { value: 'staph\'s' }
+last token is  { value: 'starlings' }
+lexer got 64 tokens
+first token is  { value: 'starlit' }
+last token is  { value: 'staticaly' }
+lexer got 64 tokens
+first token is  { value: 'stating' }
+last token is  { value: 'steadfastnes' }
+lexer got 64 tokens
+first token is  { value: 'steadfastnes\'s' }
+last token is  { value: 'stein' }
+lexer got 64 tokens
+first token is  { value: 'stein\'s' }
+last token is  { value: 'stepe\'s' }
+lexer got 64 tokens
+first token is  { value: 'steped' }
+last token is  { value: 'stereotyping' }
+lexer got 64 tokens
+first token is  { value: 'sterile' }
+last token is  { value: 'stewardeses' }
+lexer got 64 tokens
+first token is  { value: 'stewarding' }
+last token is  { value: 'stigmata' }
+lexer got 64 tokens
+first token is  { value: 'stigmatize' }
+last token is  { value: 'stink\'s' }
+lexer got 64 tokens
+first token is  { value: 'stinker' }
+last token is  { value: 'stockholders' }
+lexer got 64 tokens
+first token is  { value: 'stockholm' }
+last token is  { value: 'stolidity' }
+lexer got 64 tokens
+first token is  { value: 'stolidity\'s' }
+last token is  { value: 'stoplight' }
+lexer got 64 tokens
+first token is  { value: 'stoplight\'s' }
+last token is  { value: 'stoutnes\'s' }
+lexer got 64 tokens
+first token is  { value: 'stove' }
+last token is  { value: 'strained' }
+lexer got 64 tokens
+first token is  { value: 'strainer' }
+last token is  { value: 'strategist' }
+lexer got 64 tokens
+first token is  { value: 'strategist\'s' }
+last token is  { value: 'strenuousnes' }
+lexer got 64 tokens
+first token is  { value: 'strenuousnes\'s' }
+last token is  { value: 'striding' }
+lexer got 64 tokens
+first token is  { value: 'strife' }
+last token is  { value: 'stroked' }
+lexer got 64 tokens
+first token is  { value: 'strokes' }
+last token is  { value: 'struted' }
+lexer got 64 tokens
+first token is  { value: 'struting' }
+last token is  { value: 'stufines' }
+lexer got 64 tokens
+first token is  { value: 'stufines\'s' }
+last token is  { value: 'sturdines\'s' }
+lexer got 64 tokens
+first token is  { value: 'sturdy' }
+last token is  { value: 'suaver' }
+lexer got 64 tokens
+first token is  { value: 'suavest' }
+last token is  { value: 'subjected' }
+lexer got 64 tokens
+first token is  { value: 'subjecting' }
+last token is  { value: 'submersion' }
+lexer got 64 tokens
+first token is  { value: 'submersion\'s' }
+last token is  { value: 'subside' }
+lexer got 64 tokens
+first token is  { value: 'subsided' }
+last token is  { value: 'subsumed' }
+lexer got 64 tokens
+first token is  { value: 'subsumes' }
+last token is  { value: 'subway\'s' }
+lexer got 64 tokens
+first token is  { value: 'subways' }
+last token is  { value: 'suculents' }
+lexer got 64 tokens
+first token is  { value: 'sucumb' }
+last token is  { value: 'sufocation' }
+lexer got 64 tokens
+first token is  { value: 'sufocation\'s' }
+last token is  { value: 'suite' }
+lexer got 64 tokens
+first token is  { value: 'suite\'s' }
+last token is  { value: 'sulphurs' }
+lexer got 64 tokens
+first token is  { value: 'sultan' }
+last token is  { value: 'sumo\'s' }
+lexer got 64 tokens
+first token is  { value: 'sumon' }
+last token is  { value: 'sundials' }
+lexer got 64 tokens
+first token is  { value: 'sundown' }
+last token is  { value: 'sup\'s' }
+lexer got 64 tokens
+first token is  { value: 'suped' }
+last token is  { value: 'superintendent' }
+lexer got 64 tokens
+first token is  { value: 'superintendent\'s' }
+last token is  { value: 'supervised' }
+lexer got 64 tokens
+first token is  { value: 'supervises' }
+last token is  { value: 'suposition' }
+lexer got 64 tokens
+first token is  { value: 'suposition\'s' }
+last token is  { value: 'surey' }
+lexer got 64 tokens
+first token is  { value: 'surey\'s' }
+last token is  { value: 'surogates' }
+lexer got 64 tokens
+first token is  { value: 'suround' }
+last token is  { value: 'susceptibility\'s' }
+lexer got 64 tokens
+first token is  { value: 'susceptible' }
+last token is  { value: 'svelte' }
+lexer got 64 tokens
+first token is  { value: 'svelter' }
+last token is  { value: 'swankiest' }
+lexer got 64 tokens
+first token is  { value: 'swanking' }
+last token is  { value: 'sways' }
+lexer got 64 tokens
+first token is  { value: 'swazi' }
+last token is  { value: 'sweper' }
+lexer got 64 tokens
+first token is  { value: 'sweper\'s' }
+last token is  { value: 'swig' }
+lexer got 64 tokens
+first token is  { value: 'swig\'s' }
+last token is  { value: 'swishes' }
+lexer got 64 tokens
+first token is  { value: 'swishest' }
+last token is  { value: 'sybil\'s' }
+lexer got 64 tokens
+first token is  { value: 'sycamore' }
+last token is  { value: 'symetry' }
+lexer got 64 tokens
+first token is  { value: 'symetry\'s' }
+last token is  { value: 'syndicated' }
+lexer got 64 tokens
+first token is  { value: 'syndicates' }
+last token is  { value: 'syringes' }
+lexer got 64 tokens
+first token is  { value: 'syringing' }
+last token is  { value: 'tablespon\'s' }
+lexer got 64 tokens
+first token is  { value: 'tablesponful' }
+last token is  { value: 'tacklers' }
+lexer got 64 tokens
+first token is  { value: 'tackles' }
+last token is  { value: 'tahoe' }
+lexer got 64 tokens
+first token is  { value: 'taichung' }
+last token is  { value: 'takeovers' }
+lexer got 64 tokens
+first token is  { value: 'taker' }
+last token is  { value: 'taly' }
+lexer got 64 tokens
+first token is  { value: 'taly\'s' }
+last token is  { value: 'tampon\'s' }
+lexer got 64 tokens
+first token is  { value: 'tampons' }
+last token is  { value: 'tangs' }
+lexer got 64 tokens
+first token is  { value: 'tangshan' }
+last token is  { value: 'tapering' }
+lexer got 64 tokens
+first token is  { value: 'tapers' }
+last token is  { value: 'tarif' }
+lexer got 64 tokens
+first token is  { value: 'tarif\'s' }
+last token is  { value: 'taseling' }
+lexer got 64 tokens
+first token is  { value: 'tasels' }
+last token is  { value: 'tatoing' }
+lexer got 64 tokens
+first token is  { value: 'tatoist' }
+last token is  { value: 'taxonomic' }
+lexer got 64 tokens
+first token is  { value: 'taxonomies' }
+last token is  { value: 'teardrops' }
+lexer got 64 tokens
+first token is  { value: 'teared' }
+last token is  { value: 'techniques' }
+lexer got 64 tokens
+first token is  { value: 'technocracy' }
+last token is  { value: 'teleconferenced' }
+lexer got 64 tokens
+first token is  { value: 'teleconferences' }
+last token is  { value: 'televangelist' }
+lexer got 64 tokens
+first token is  { value: 'televangelist\'s' }
+last token is  { value: 'templar\'s' }
+lexer got 64 tokens
+first token is  { value: 'template' }
+last token is  { value: 'tendencies' }
+lexer got 64 tokens
+first token is  { value: 'tendency' }
+last token is  { value: 'tenor' }
+lexer got 64 tokens
+first token is  { value: 'tenor\'s' }
+last token is  { value: 'ter' }
+lexer got 64 tokens
+first token is  { value: 'ter\'s' }
+last token is  { value: 'teritories' }
+lexer got 64 tokens
+first token is  { value: 'teritory' }
+last token is  { value: 'tertiary\'s' }
+lexer got 64 tokens
+first token is  { value: 'tery' }
+last token is  { value: 'tethered' }
+lexer got 64 tokens
+first token is  { value: 'tethering' }
+last token is  { value: 'thalium' }
+lexer got 64 tokens
+first token is  { value: 'thalium\'s' }
+last token is  { value: 'theism' }
+lexer got 64 tokens
+first token is  { value: 'theism\'s' }
+last token is  { value: 'therapeutics' }
+lexer got 64 tokens
+first token is  { value: 'therapeutics\'s' }
+last token is  { value: 'theses' }
+lexer got 64 tokens
+first token is  { value: 'theseus' }
+last token is  { value: 'thimbles' }
+lexer got 64 tokens
+first token is  { value: 'thimbu' }
+last token is  { value: 'thomistic' }
+lexer got 64 tokens
+first token is  { value: 'thompson' }
+last token is  { value: 'thousandth\'s' }
+lexer got 64 tokens
+first token is  { value: 'thousandths' }
+last token is  { value: 'thrice' }
+lexer got 64 tokens
+first token is  { value: 'thrift' }
+last token is  { value: 'throw\'s' }
+lexer got 64 tokens
+first token is  { value: 'throwaway' }
+last token is  { value: 'thunderbolt' }
+lexer got 64 tokens
+first token is  { value: 'thunderbolt\'s' }
+last token is  { value: 'tianjin\'s' }
+lexer got 64 tokens
+first token is  { value: 'tiara' }
+last token is  { value: 'tidings\'s' }
+lexer got 64 tokens
+first token is  { value: 'tidlywinks' }
+last token is  { value: 'tilde' }
+lexer got 64 tokens
+first token is  { value: 'tilde\'s' }
+last token is  { value: 'timetable' }
+lexer got 64 tokens
+first token is  { value: 'timetable\'s' }
+last token is  { value: 'tingle' }
+lexer got 64 tokens
+first token is  { value: 'tingle\'s' }
+last token is  { value: 'tiping' }
+lexer got 64 tokens
+first token is  { value: 'tipis' }
+last token is  { value: 'titan\'s' }
+lexer got 64 tokens
+first token is  { value: 'titan\'s' }
+last token is  { value: 'toadied' }
+lexer got 64 tokens
+first token is  { value: 'toadies' }
+last token is  { value: 'toeholds' }
+lexer got 64 tokens
+first token is  { value: 'toeing' }
+last token is  { value: 'toking' }
+lexer got 64 tokens
+first token is  { value: 'tokugawa' }
+last token is  { value: 'tombaugh\'s' }
+lexer got 64 tokens
+first token is  { value: 'tombed' }
+last token is  { value: 'tonia' }
+lexer got 64 tokens
+first token is  { value: 'tonia\'s' }
+last token is  { value: 'topographers' }
+lexer got 64 tokens
+first token is  { value: 'topographic' }
+last token is  { value: 'tornado' }
+lexer got 64 tokens
+first token is  { value: 'tornado\'s' }
+last token is  { value: 'tosca' }
+lexer got 64 tokens
+first token is  { value: 'tosca\'s' }
+last token is  { value: 'tothpicks' }
+lexer got 64 tokens
+first token is  { value: 'tothsome' }
+last token is  { value: 'tourniquet\'s' }
+lexer got 64 tokens
+first token is  { value: 'tourniquets' }
+last token is  { value: 'toxic' }
+lexer got 64 tokens
+first token is  { value: 'toxicity' }
+last token is  { value: 'tractors' }
+lexer got 64 tokens
+first token is  { value: 'tracts' }
+last token is  { value: 'trailways' }
+lexer got 64 tokens
+first token is  { value: 'trailways\'s' }
+last token is  { value: 'tranquilest' }
+lexer got 64 tokens
+first token is  { value: 'tranquility' }
+last token is  { value: 'transexual\'s' }
+lexer got 64 tokens
+first token is  { value: 'transexuals' }
+last token is  { value: 'transient\'s' }
+lexer got 64 tokens
+first token is  { value: 'transients' }
+last token is  { value: 'transmutation\'s' }
+lexer got 64 tokens
+first token is  { value: 'transmutations' }
+last token is  { value: 'transvestites' }
+lexer got 64 tokens
+first token is  { value: 'transylvania' }
+last token is  { value: 'travelings' }
+lexer got 64 tokens
+first token is  { value: 'travelog' }
+last token is  { value: 'treasures' }
+lexer got 64 tokens
+first token is  { value: 'treasuries' }
+last token is  { value: 'trenching' }
+lexer got 64 tokens
+first token is  { value: 'trend' }
+last token is  { value: 'triathlons' }
+lexer got 64 tokens
+first token is  { value: 'tribal' }
+last token is  { value: 'trident\'s' }
+lexer got 64 tokens
+first token is  { value: 'tridents' }
+last token is  { value: 'triming\'s' }
+lexer got 64 tokens
+first token is  { value: 'trimings' }
+last token is  { value: 'trisha\'s' }
+lexer got 64 tokens
+first token is  { value: 'tristan' }
+last token is  { value: 'trombone' }
+lexer got 64 tokens
+first token is  { value: 'trombone\'s' }
+last token is  { value: 'troubleshot' }
+lexer got 64 tokens
+first token is  { value: 'troubleshoted' }
+last token is  { value: 'trucker\'s' }
+lexer got 64 tokens
+first token is  { value: 'truckers' }
+last token is  { value: 'truncate' }
+lexer got 64 tokens
+first token is  { value: 'truncated' }
+last token is  { value: 'tryst\'s' }
+lexer got 64 tokens
+first token is  { value: 'trysted' }
+last token is  { value: 'tucker\'s' }
+lexer got 64 tokens
+first token is  { value: 'tucker\'s' }
+last token is  { value: 'tumid' }
+lexer got 64 tokens
+first token is  { value: 'tumies' }
+last token is  { value: 'tupi' }
+lexer got 64 tokens
+first token is  { value: 'tupi\'s' }
+last token is  { value: 'turmoil' }
+lexer got 64 tokens
+first token is  { value: 'turmoil\'s' }
+last token is  { value: 'tusaud\'s' }
+lexer got 64 tokens
+first token is  { value: 'tuscalosa' }
+last token is  { value: 'twain' }
+lexer got 64 tokens
+first token is  { value: 'twain' }
+last token is  { value: 'twigy' }
+lexer got 64 tokens
+first token is  { value: 'twil' }
+last token is  { value: 'twiting' }
+lexer got 64 tokens
+first token is  { value: 'twits' }
+last token is  { value: 'typhon\'s' }
+lexer got 64 tokens
+first token is  { value: 'typhons' }
+last token is  { value: 'ubangi' }
+lexer got 64 tokens
+first token is  { value: 'ubiquitous' }
+last token is  { value: 'ulnas' }
+lexer got 64 tokens
+first token is  { value: 'ulster' }
+last token is  { value: 'umpire\'s' }
+lexer got 64 tokens
+first token is  { value: 'umpired' }
+last token is  { value: 'unaturaly' }
+lexer got 64 tokens
+first token is  { value: 'unauthenticated' }
+last token is  { value: 'unburdening' }
+lexer got 64 tokens
+first token is  { value: 'unburdens' }
+last token is  { value: 'uncoils' }
+lexer got 64 tokens
+first token is  { value: 'uncoked' }
+last token is  { value: 'uncovered' }
+lexer got 64 tokens
+first token is  { value: 'uncovering' }
+last token is  { value: 'underbrush' }
+lexer got 64 tokens
+first token is  { value: 'underbrush\'s' }
+last token is  { value: 'undergraduate\'s' }
+lexer got 64 tokens
+first token is  { value: 'undergraduates' }
+last token is  { value: 'underseling' }
+lexer got 64 tokens
+first token is  { value: 'undersels' }
+last token is  { value: 'undervalue' }
+lexer got 64 tokens
+first token is  { value: 'undervalued' }
+last token is  { value: 'undue' }
+lexer got 64 tokens
+first token is  { value: 'undulant' }
+last token is  { value: 'unevenest' }
+lexer got 64 tokens
+first token is  { value: 'unevenly' }
+last token is  { value: 'unforgiving' }
+lexer got 64 tokens
+first token is  { value: 'unformed' }
+last token is  { value: 'unheard' }
+lexer got 64 tokens
+first token is  { value: 'unheded' }
+last token is  { value: 'unimportant' }
+lexer got 64 tokens
+first token is  { value: 'unimpresed' }
+last token is  { value: 'unitarianisms' }
+lexer got 64 tokens
+first token is  { value: 'unitarians' }
+last token is  { value: 'unleashed' }
+lexer got 64 tokens
+first token is  { value: 'unleashes' }
+last token is  { value: 'unmoved' }
+lexer got 64 tokens
+first token is  { value: 'unobjectionable' }
+last token is  { value: 'unprofitable' }
+lexer got 64 tokens
+first token is  { value: 'unpromising' }
+last token is  { value: 'unreserved' }
+lexer got 64 tokens
+first token is  { value: 'unreservedly' }
+last token is  { value: 'unseasonable' }
+lexer got 64 tokens
+first token is  { value: 'unseasonably' }
+last token is  { value: 'unspoilt' }
+lexer got 64 tokens
+first token is  { value: 'unspoken' }
+last token is  { value: 'untidy' }
+lexer got 64 tokens
+first token is  { value: 'untie' }
+last token is  { value: 'unwavering' }
+lexer got 64 tokens
+first token is  { value: 'unwed' }
+last token is  { value: 'updater' }
+lexer got 64 tokens
+first token is  { value: 'updates' }
+last token is  { value: 'uplifts' }
+lexer got 64 tokens
+first token is  { value: 'upload' }
+last token is  { value: 'uptown\'s' }
+lexer got 64 tokens
+first token is  { value: 'upturn' }
+last token is  { value: 'urinated' }
+lexer got 64 tokens
+first token is  { value: 'urinates' }
+last token is  { value: 'usual\'s' }
+lexer got 64 tokens
+first token is  { value: 'usualy' }
+last token is  { value: 'utopians' }
+lexer got 64 tokens
+first token is  { value: 'utopias' }
+last token is  { value: 'vacumed' }
+lexer got 64 tokens
+first token is  { value: 'vacuming' }
+last token is  { value: 'valentin' }
+lexer got 64 tokens
+first token is  { value: 'valentin\'s' }
+last token is  { value: 'valuations' }
+lexer got 64 tokens
+first token is  { value: 'value' }
+last token is  { value: 'vanished' }
+lexer got 64 tokens
+first token is  { value: 'vanishes' }
+last token is  { value: 'varieties' }
+lexer got 64 tokens
+first token is  { value: 'variety' }
+last token is  { value: 'vaulted' }
+lexer got 64 tokens
+first token is  { value: 'vaulter' }
+last token is  { value: 'veil\'s' }
+lexer got 64 tokens
+first token is  { value: 'veiled' }
+last token is  { value: 'vener\'s' }
+lexer got 64 tokens
+first token is  { value: 'venerable' }
+last token is  { value: 'venturesome' }
+lexer got 64 tokens
+first token is  { value: 'venturing' }
+last token is  { value: 'verge' }
+lexer got 64 tokens
+first token is  { value: 'verge\'s' }
+last token is  { value: 'versatility' }
+lexer got 64 tokens
+first token is  { value: 'versatility\'s' }
+last token is  { value: 'vestigial' }
+lexer got 64 tokens
+first token is  { value: 'vesting' }
+last token is  { value: 'vibrancy\'s' }
+lexer got 64 tokens
+first token is  { value: 'vibrant' }
+last token is  { value: 'victimize' }
+lexer got 64 tokens
+first token is  { value: 'victimized' }
+last token is  { value: 'viewed' }
+lexer got 64 tokens
+first token is  { value: 'viewer' }
+last token is  { value: 'vilein' }
+lexer got 64 tokens
+first token is  { value: 'vilein\'s' }
+last token is  { value: 'vinyls' }
+lexer got 64 tokens
+first token is  { value: 'viol' }
+last token is  { value: 'virginian' }
+lexer got 64 tokens
+first token is  { value: 'virginian\'s' }
+last token is  { value: 'viscus\'s' }
+lexer got 64 tokens
+first token is  { value: 'vise' }
+last token is  { value: 'vitiate' }
+lexer got 64 tokens
+first token is  { value: 'vitiated' }
+last token is  { value: 'vlad' }
+lexer got 64 tokens
+first token is  { value: 'vlad\'s' }
+last token is  { value: 'void\'s' }
+lexer got 64 tokens
+first token is  { value: 'voided' }
+last token is  { value: 'voluntary\'s' }
+lexer got 64 tokens
+first token is  { value: 'volunter' }
+last token is  { value: 'vowing' }
+lexer got 64 tokens
+first token is  { value: 'vows' }
+last token is  { value: 'w\'s' }
+lexer got 64 tokens
+first token is  { value: 'wabash' }
+last token is  { value: 'wagle' }
+lexer got 64 tokens
+first token is  { value: 'wagle\'s' }
+last token is  { value: 'waiver\'s' }
+lexer got 64 tokens
+first token is  { value: 'waivers' }
+last token is  { value: 'waling' }
+lexer got 64 tokens
+first token is  { value: 'walis' }
+last token is  { value: 'wampum\'s' }
+lexer got 64 tokens
+first token is  { value: 'wan' }
+last token is  { value: 'warants' }
+lexer got 64 tokens
+first token is  { value: 'waranty' }
+last token is  { value: 'wariors' }
+lexer got 64 tokens
+first token is  { value: 'warlike' }
+last token is  { value: 'wasailing' }
+lexer got 64 tokens
+first token is  { value: 'wasails' }
+last token is  { value: 'wasted' }
+lexer got 64 tokens
+first token is  { value: 'wasteful' }
+last token is  { value: 'watercourse\'s' }
+lexer got 64 tokens
+first token is  { value: 'watercourses' }
+last token is  { value: 'watkins' }
+lexer got 64 tokens
+first token is  { value: 'watle' }
+last token is  { value: 'ways' }
+lexer got 64 tokens
+first token is  { value: 'wayside' }
+last token is  { value: 'wearines\'s' }
+lexer got 64 tokens
+first token is  { value: 'wearing' }
+last token is  { value: 'wed' }
+lexer got 64 tokens
+first token is  { value: 'wed' }
+last token is  { value: 'weil\'s' }
+lexer got 64 tokens
+first token is  { value: 'weinberg' }
+last token is  { value: 'weled' }
+lexer got 64 tokens
+first token is  { value: 'weler' }
+last token is  { value: 'wepiest' }
+lexer got 64 tokens
+first token is  { value: 'weping' }
+last token is  { value: 'wetland' }
+lexer got 64 tokens
+first token is  { value: 'wetland\'s' }
+last token is  { value: 'wheatstone' }
+lexer got 64 tokens
+first token is  { value: 'wheatstone\'s' }
+last token is  { value: 'wheting' }
+lexer got 64 tokens
+first token is  { value: 'whets' }
+last token is  { value: 'whiny\'s' }
+lexer got 64 tokens
+first token is  { value: 'whinying' }
+last token is  { value: 'whiskys' }
+lexer got 64 tokens
+first token is  { value: 'whisper' }
+last token is  { value: 'whiting\'s' }
+lexer got 64 tokens
+first token is  { value: 'whitings' }
+last token is  { value: 'whop' }
+lexer got 64 tokens
+first token is  { value: 'whop\'s' }
+last token is  { value: 'widgeon' }
+lexer got 64 tokens
+first token is  { value: 'widgeon\'s' }
+last token is  { value: 'wigwam' }
+lexer got 64 tokens
+first token is  { value: 'wigwam\'s' }
+last token is  { value: 'wilemstad' }
+lexer got 64 tokens
+first token is  { value: 'wiles' }
+last token is  { value: 'wilt' }
+lexer got 64 tokens
+first token is  { value: 'wilt\'s' }
+last token is  { value: 'windines\'s' }
+lexer got 64 tokens
+first token is  { value: 'winding' }
+last token is  { value: 'wineglas' }
+lexer got 64 tokens
+first token is  { value: 'wineglas\'s' }
+last token is  { value: 'winter\'s' }
+lexer got 64 tokens
+first token is  { value: 'wintered' }
+last token is  { value: 'wisecrack\'s' }
+lexer got 64 tokens
+first token is  { value: 'wisecracked' }
+last token is  { value: 'wither' }
+lexer got 64 tokens
+first token is  { value: 'withered' }
+last token is  { value: 'wod\'s' }
+lexer got 64 tokens
+first token is  { value: 'wodard' }
+last token is  { value: 'wodsman\'s' }
+lexer got 64 tokens
+first token is  { value: 'wodsmen' }
+last token is  { value: 'wolfs' }
+lexer got 64 tokens
+first token is  { value: 'wolgathering' }
+last token is  { value: 'won\'t' }
+lexer got 64 tokens
+first token is  { value: 'wonder' }
+last token is  { value: 'workday\'s' }
+lexer got 64 tokens
+first token is  { value: 'workdays' }
+last token is  { value: 'worm\'s' }
+lexer got 64 tokens
+first token is  { value: 'wormed' }
+last token is  { value: 'wot' }
+lexer got 64 tokens
+first token is  { value: 'wotan' }
+last token is  { value: 'wrathful' }
+lexer got 64 tokens
+first token is  { value: 'wrathfuly' }
+last token is  { value: 'wriglers' }
+lexer got 64 tokens
+first token is  { value: 'wrigles' }
+last token is  { value: 'wrongest' }
+lexer got 64 tokens
+first token is  { value: 'wrongful' }
+last token is  { value: 'xenophobia' }
+lexer got 64 tokens
+first token is  { value: 'xenophobia\'s' }
+last token is  { value: 'yahweh' }
+lexer got 64 tokens
+first token is  { value: 'yahweh\'s' }
+last token is  { value: 'yardarm\'s' }
+lexer got 64 tokens
+first token is  { value: 'yardarms' }
+last token is  { value: 'yeasty' }
+lexer got 64 tokens
+first token is  { value: 'yeats' }
+last token is  { value: 'yesteryear' }
+lexer got 64 tokens
+first token is  { value: 'yesteryear\'s' }
+last token is  { value: 'yoked' }
+lexer got 64 tokens
+first token is  { value: 'yokel' }
+last token is  { value: 'youtube' }
+lexer got 64 tokens
+first token is  { value: 'youtube\'s' }
+last token is  { value: 'yupy' }
+lexer got 64 tokens
+first token is  { value: 'yupy\'s' }
+last token is  { value: 'zealots' }
+lexer got 64 tokens
+first token is  { value: 'zealous' }
+last token is  { value: 'zhivago\'s' }
+lexer got 64 tokens
+first token is  { value: 'zhukov' }
+last token is  { value: 'zipiest' }
+lexer got 64 tokens
+first token is  { value: 'ziping' }
+last token is  { value: 'zoroastrianism\'s' }
+lexer got 51 tokens
+first token is  { value: 'zoroastrianisms' }
+last token is  { value: 'études' }

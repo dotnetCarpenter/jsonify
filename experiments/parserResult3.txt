@@ -1,0 +1,2 @@
+["élan's","émigré","émigré's","émigrés","épée","épée's","épées","étude","étude's","études"]
+All data is sent to the parser
